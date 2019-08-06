@@ -23,10 +23,17 @@
 		"uikit": "^3.1.7"
 	},
 	"devDependencies": {
-		"prettier": "^1.18.2"
+		"prettier": "^1.18.2",
+		"generate-changelog": "^1.8.0",
+		"release-it": "^12.3.3",
+		"showdown": "^1.9.0"
 	},
 	"keywords": [
-		"gatsby"
+		"brewery",
+		"ales",
+		"eats",
+		"microbrewery",
+		"family-run"
 	],
 	"license": "MIT",
 	"scripts": {
@@ -35,7 +42,10 @@
 		"format": "prettier --write src/**/*.{js,jsx}",
 		"start": "npm run develop",
 		"serve": "gatsby serve",
-		"test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+		"test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
+		"release-patch": "changelog -p && git add CHANGELOG.md && git commit -m 'chore:Update CHANGELOG.md' && release-it patch",
+		"release-minor": "changelog -m && git add CHANGELOG.md && git commit -m 'chore:Update CHANGELOG.md' && release-it minor",
+		"release-major": "changelog -M && git add CHANGELOG.md && git commit -m 'chore:Update CHANGELOG.md' && release-it major"
 	},
 	"repository": {
 		"type": "git",
