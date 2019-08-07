@@ -28,12 +28,13 @@ module.exports = {
 			},
 		},
 		`gatsby-plugin-sass`,
+		'gatsby-plugin-postcss',
 		{
 			resolve: `gatsby-plugin-prefetch-google-fonts`,
 			options: {
 				fonts: [
 					{
-						family: `ZCOOL QingKe HuangYou`,
+						family: `Sedgwick Ave`,
 						subsets: [`latin`],
 					},
 					{

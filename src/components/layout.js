@@ -11,41 +11,43 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
 // import "./layout.css"
-import '../styles/app.scss';
+import "../styles/app.scss"
+// import "../styles/style.css"
 // import '../scripts/app.js';
 
 class Layout extends Component {
 	constructor(props) {
-		super(props);
+		super(props)
 		// this.state = { ready: false };
 	}
 
 	componentDidMount = () => {
 		// state = { ready: false };
-		if (typeof document !== 'undefined') {
-			const uikit = require('uikit');
-			const icons = require('uikit/dist/js/uikit-icons.min');
-			uikit.use(icons);
-			// this.setState({ ready: true });
+		if (typeof document !== "undefined") {
+			const uikit = require("uikit")
+			const icons = require("uikit/dist/js/uikit-icons.min")
+			uikit.use(icons)
+		// this.setState({ ready: true });
 		}
-	};
+	}
 
 	render() {
 		return (
-	      <>
-	        <div>
-	          <main>{this.props.children}</main>
-	          <footer className="uk-text-center uk-padding uk-section-muted">
-	            © {new Date().getFullYear()}, Corner Project
-	          </footer>
-	        </div>
-	      </>
-	    )
+			<>
+				<div>
+				<Header siteTitle="Corner Project" />
+				<main>{this.props.children}</main>
+				<footer className="uk-text-center uk-padding uk-section-muted">
+					© {new Date().getFullYear()}, Corner Project
+				</footer>
+				</div>
+			</>
+		)
 	}
 }
 
 Layout.propTypes = {
-  children: PropTypes.node.isRequired,
+  	children: PropTypes.node.isRequired,
 }
 
 export default Layout

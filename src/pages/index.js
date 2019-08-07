@@ -10,14 +10,33 @@ import logo from "../images/logo_long_w.png"
 const IndexPage = () => (
 	<Layout>
 		<SEO title="Home" />
-		<div className="uk-position-relative uk-visible-toggle uk-light the-hero" tabindex="-1" data-uk-slideshow="ratio: false; autoplay: true; autoplay-interval: 3000; animation: fade; pause-on-hover:false">
-			<h1 className="uk-container uk-text-center uk-margin-auto-vertical uk-position-center uk-overlay" >
+		<div className="uk-position-relative uk-visible-toggle uk-light the-hero" tabIndex="-1" data-uk-slideshow="ratio: false; autoplay: true; autoplay-interval: 3000; animation: fade; pause-on-hover:false">
+			<div className="container uk-text-center uk-margin-auto-vertical uk-position-center uk-overlay mt-10 z-20">
 				{/* <img  src={logo} alt="asad"/> */}
-				<img data-uk-parallax="opacity: 1,1,1; y: -50,-70,-70; x: 0,0,0; scale: 1.2,.7,.6; viewport: 0.8; easing: 0.5" width="420" src={logo} alt="asad"/>
-				<p className="uk-width-2-2 uk-margin-auto uk-margin-top">Family run brew pub &amp; eatery</p>
-			</h1>
-				<div class="uk-overlay uk-position-bottom"></div>
-			<ul className="uk-slideshow-items" uk-height-viewport="offset-top: true; offset-bottom: 20">
+				{/* <img data-uk-parallax="opacity: 1,1,1; y: -50,-70,-70; x: 0,0,0; scale: 1.2,.7,.6; viewport: 0.8; easing: 0.5" width="420" src={logo} alt="asad"/> */}
+				<p className="text-6xl text-white font-serif mt-16 tracking-wide">Family run brew pub &amp; eatery</p>
+				<div className="mt-10">
+					<ul className="flex justify-center items-center -ml-6 p-0">
+						<li className="mx-2">
+							<a target="_blank" href="mailto:" className="uk-icon-button block" data-uk-icon="icon: instagram"></a>
+						</li>
+						
+						<li className="mx-2">
+							<a target="_blank" href="https://www.facebook.com/Cornerproject" className="uk-icon-button block" data-uk-icon="icon: facebook">
+							</a>
+						</li>
+						<li className="mx-2">
+							<a target="_blank" href="https://twitter.com/cornerproject" className="uk-icon-button block" data-uk-icon="icon: twitter">
+							</a>
+						</li>
+						<li className="mx-2">
+							<a target="_blank" href="mailto:" className="uk-icon-button block" data-uk-icon="icon: mail"></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div className="uk-overlay uk-position-bottom"></div>
+			<ul className="uk-slideshow-items" uk-height-viewport="offset-top: true; offset-bottom: 10">
 				<li>
 					<img src="https://digitalmarketing.blob.core.windows.net/10239/images/items/image475690.jpg" alt="" data-uk-cover />
 				</li>
@@ -31,24 +50,17 @@ const IndexPage = () => (
 					<img src="https://digitalmarketing.blob.core.windows.net/10239/images/items/image475676.jpg" alt="ad" data-uk-cover />
 				</li>
 			</ul>
-			<div className="uk-position-bottom-right">
-				<div className="social-links">
-					<a target="_blank" href="mailto:" className="uk-icon-button uk-margin-left" uk-icon="icon: mail"></a>
-					<a target="_blank" href="https://www.facebook.com/Cornerproject" className="uk-icon-button  uk-margin-left" uk-icon="icon: facebook"></a>
-					<a target="_blank" href="https://twitter.com/cornerproject" className="uk-icon-button uk-margin-left" uk-icon="icon: twitter"></a>
-				</div>
-			</div>
 		</div>
-		<section className="uk-section uk-section-muted" data-uk-parallax="bgy: -200">
-			<div className="uk-container uk-text-center uk-flex uk-flex-center only-title">
-				<h2 className="uk-width-4-5@m">Corner Project offers a rotating list of local and house made craft beers along with a small menu of snacks and sandwiches</h2>
+		<section className="py-16" data-uk-parallax="bgy: -200">
+			<div className="container mx-auto text-center">
+				<h2 className="font-sans w-4/5 text-3xl mx-auto tracking-wider font-serif">Corner Project offers a rotating list of local and house made craft beers along with a small menu of snacks and sandwiches</h2>
 			</div>
 		</section>
-		<section className="uk-section uk-section-secondary menu-blk">
+		<section id="kitchen" className="uk-section uk-section-secondary menu-blk">
 
 			<div className="uk-container">
 				<div className="section-title uk-margin-large-bottom uk-text-center">Our <span>Kitchen</span></div>
-				<div className="uk-grid uk-grid-large" uk-grid>
+				<div className="uk-grid uk-grid-large" data-uk-grid>
 					<div className="uk-width-1-2@m">
 						<div className="sec-title">
 							<h2>Snacks</h2>
