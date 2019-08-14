@@ -14,23 +14,30 @@ const IndexPage = () => (
 			<div className="container uk-text-center uk-margin-auto-vertical uk-position-center uk-overlay mt-10 z-20">
 				{/* <img  src={logo} alt="asad"/> */}
 				{/* <img data-uk-parallax="opacity: 1,1,1; y: -50,-70,-70; x: 0,0,0; scale: 1.2,.7,.6; viewport: 0.8; easing: 0.5" width="420" src={logo} alt="asad"/> */}
-				<p className="text-6xl text-white font-serif mt-16 tracking-wide">Family run brew pub &amp; eatery</p>
+				<p className="text-6xl text-white font-serif mt-16 tracking-wide">
+					Family run brew pub &amp; eatery
+				</p>
+				<div className="container mx-auto text-center">
+					<h2 className="font-sans w-4/5 text-3xl mx-auto tracking-wider text-light font-serif">
+						We offer a rotating list of local and house made craft beers along with a small menu of snacks and sandwiches
+					</h2>
+				</div>
 				<div className="mt-10">
 					<ul className="flex justify-center items-center -ml-6 p-0">
-						<li className="mx-2">
-							<a target="_blank" href="mailto:" className="uk-icon-button block" data-uk-icon="icon: instagram"></a>
+						<li className="mx-4">
+							<a target="_blank" href="mailto:" className="p-4 uk-icon-button block " data-uk-icon="icon: instagram; ratio:1.5"></a>
 						</li>
 						
-						<li className="mx-2">
-							<a target="_blank" href="https://www.facebook.com/Cornerproject" className="uk-icon-button block" data-uk-icon="icon: facebook">
+						<li className="mx-4">
+							<a target="_blank" href="https://www.facebook.com/Cornerproject" className="uk-icon-button block" data-uk-icon="icon: facebook; ratio:1.5">
 							</a>
 						</li>
-						<li className="mx-2">
-							<a target="_blank" href="https://twitter.com/cornerproject" className="uk-icon-button block" data-uk-icon="icon: twitter">
+						<li className="mx-4">
+							<a target="_blank" href="https://twitter.com/cornerproject" className="uk-icon-button block" data-uk-icon="icon: twitter; ratio:1.5">
 							</a>
 						</li>
-						<li className="mx-2">
-							<a target="_blank" href="mailto:" className="uk-icon-button block" data-uk-icon="icon: mail"></a>
+						<li className="mx-4">
+							<a target="_blank" href="mailto:" className="uk-icon-button block" data-uk-icon="icon: mail; ratio:1.5"></a>
 						</li>
 					</ul>
 				</div>
@@ -51,12 +58,15 @@ const IndexPage = () => (
 				</li>
 			</ul>
 		</div>
-		<section className="py-16" data-uk-parallax="bgy: -200">
+		<section className="container mx-auto uk-flex my-12 ">
+			<div className="text-center">Beers</div>
+		</section>
+		{/* <section className="py-16" data-uk-parallax="bgy: -200">
 			<div className="container mx-auto text-center">
 				<h2 className="font-sans w-4/5 text-3xl mx-auto tracking-wider font-serif">Corner Project offers a rotating list of local and house made craft beers along with a small menu of snacks and sandwiches</h2>
 			</div>
-		</section>
-		<section id="kitchen" className="uk-section uk-section-secondary menu-blk">
+		</section> */}
+		{/* <section id="kitchen" className="uk-section uk-section-secondary menu-blk">
 
 			<div className="uk-container">
 				<div className="section-title uk-margin-large-bottom uk-text-center">Our <span>Kitchen</span></div>
@@ -111,7 +121,7 @@ const IndexPage = () => (
 									<div className="item-title">
 										<h3>Pesto Italian <span className="uk-float-right">$12</span></h3>
 										<p>cappicola, sopresata and provolone cheese with creamy basil pesto on ciabatta roll</p>
-										{/* <Rating count={3} /> */}
+										
 									</div>
 								</div>
 								<div className="each-item">
@@ -140,7 +150,7 @@ const IndexPage = () => (
 				</div>
 			</div>
 
-		</section>
+		</section> */}
 		<section className="uk-section uk-section-large uk-background-fixed our-story uk-light">
 			<div className="uk-container logo-container">
 				<div className="logo-mark logo-left" data-uk-parallax="opacity: 0,.6,1; y: -100,-60,0; x: -100,-50,0; scale: 1.2,1,1; viewport: 0.5; easing: 0.5">

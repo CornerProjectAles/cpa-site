@@ -7,7 +7,7 @@ const Header = ({ siteTitle }) => (
 	<header className="header absolute w-full z-20 bg-transparent" data-uk-sticky>
 		<nav className="container mx-auto">
 			<div className="flex justify-center items-center">
-				<ul className="flex m-0 p-0 my-8 pb-5">
+				<ul className="flex m-0 p-0 my-8 pb-3">
 					<li className="mx-6 px-4 text-xl uppercase font-bold">
 						<a className="navlink" href="#beers" data-uk-scroll>Beers</a>
 					</li>
@@ -15,10 +15,10 @@ const Header = ({ siteTitle }) => (
 						<a className="navlink" href="#kitchen" data-uk-scroll>Kitchen</a>
 					</li>
 				</ul>
-				<Link className="flex-none mx-10 pb-5" to="/home-2">
-					<img data-uk-parallax="opacity: 1,1,1; scale: 1,.9,.8; viewport: 0.8; easing: 0.5" width="300" src={logo} alt={siteTitle}/>
+				<Link className="flex-none mx-10 pb-3" to="/home-2">
+					<img data-uk-parallax="opacity: 1,1,1; scale: 1,.9,.8; viewport: 0.8; easing: 0.5" width="280" src={logo} alt={siteTitle}/>
 				</Link>
-				<ul className="flex m-0 p-0 pb-5">
+				<ul className="flex m-0 p-0 pb-3">
 					<li className="mx-6 px-4 text-xl uppercase font-bold">
 						<a className="navlink" href="#about" data-uk-scroll>About</a>
 					</li>
