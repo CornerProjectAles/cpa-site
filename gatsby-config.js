@@ -45,6 +45,22 @@ module.exports = {
 				],
 			},
 		},
+		{
+			resolve: `gatsby-plugin-favicon`,
+			options: {
+				logo: "./src/images/favicon.png",
+				icons: {
+					android: true,
+					appleIcon: true,
+					appleStartup: true,
+					coast: false,
+					favicons: true,
+					firefox: true,
+					yandex: false,
+					windows: true
+				}
+			}
+		},
 		// this (optional) plugin enables Progressive Web App + Offline functionality
 		// To learn more, visit: https://gatsby.dev/offline
 		// `gatsby-plugin-offline`,
