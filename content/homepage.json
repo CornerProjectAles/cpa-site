@@ -1,0 +1,42 @@
+{
+	"banners": [
+		{
+			"src": "images/beer-on-table.jpg",
+			"alt": ""
+		},
+		{
+			"src": "images/food.jpg",
+			"alt": ""
+		},
+		{
+			"src": "images/grains.jpg",
+			"alt": ""
+		},
+		{
+			"src": "images/slices.jpg",
+			"alt": ""
+		},
+		{
+			"src": "images/wood.jpg",
+			"alt": ""
+		}
+	], 
+	"social": [
+		{
+			"name": "instagram",
+			"url": "https://www.instagram.com/cornerprojectales/"
+		},
+		{
+			"name": "facebook",
+			"url": "https://www.facebook.com/Corner-Project-Ales-2271146709785008/"
+		},
+		{
+			"name": "twitter",
+			"url": "https://twitter.com/CornerProjAles"
+		},
+		{
+			"name": "mail",
+			"url": "mailto:admin@cornerprojectales.com"
+		}
+	]
+}

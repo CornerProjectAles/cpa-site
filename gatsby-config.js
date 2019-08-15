@@ -9,10 +9,23 @@ module.exports = {
 		{
 			resolve: `gatsby-source-filesystem`,
 			options: {
+				path: `./content/`,
+			},
+		},
+		{
+			resolve: `gatsby-source-filesystem`,
+			options: {
+				path: `./static/images`,
+			},
+		},
+		{
+			resolve: `gatsby-source-filesystem`,
+			options: {
 				name: `images`,
 				path: `${__dirname}/src/images`,
 			},
 		},
+		`gatsby-transformer-json`,
 		`gatsby-transformer-sharp`,
 		`gatsby-plugin-sharp`,
 		{
