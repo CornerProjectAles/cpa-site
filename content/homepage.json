@@ -1,23 +1,23 @@
 {
 	"banners": [
 		{
-			"src": "images/beer-on-table.jpg",
+			"src": "images/1.jpg",
 			"alt": ""
 		},
 		{
-			"src": "images/food.jpg",
+			"src": "images/2.jpg",
 			"alt": ""
 		},
 		{
-			"src": "images/grains.jpg",
+			"src": "images/3.jpg",
 			"alt": ""
 		},
 		{
-			"src": "images/slices.jpg",
+			"src": "images/4.jpg",
 			"alt": ""
 		},
 		{
-			"src": "images/wood.jpg",
+			"src": "images/5.jpg",
 			"alt": ""
 		}
 	], 

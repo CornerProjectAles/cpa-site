@@ -10,8 +10,9 @@ import { graphql } from 'gatsby'
 
 
 const IndexPage = ({data}) => {
-	const home = data.home.edges[0].node
-	console.log(home);
+	const home = data.home.edges[0].node;
+	const stories = data.insta.edges;
+	console.log(stories);
 	return (
 		<Layout>
 			<SEO title="Home" />
@@ -38,7 +39,7 @@ const IndexPage = ({data}) => {
 					</div>
 				</div>
 				<div className="uk-overlay uk-position-cover bg-yellow-700 z-10 opacity-50"></div>
-				<ul className="uk-slideshow-items" uk-height-viewport="offset-top: true; offset-bottom: 10">
+				<ul className="uk-slideshow-items" data-uk-height-viewport="offset-top: true; offset-bottom: 10">
 					{home.banners.map((banner, key) => 
 						<li key={key}>
 							{/* <img src="https://digitalmarketing.blob.core.windows.net/10239/images/items/image475690.jpg" alt="" data-uk-cover /> */}
@@ -52,12 +53,43 @@ const IndexPage = ({data}) => {
 					)}
 				</ul>
 			</div>
-			{/* <section className="py-20 relative z-20 -mt-6 bg-white">
-				<div className="container mx-auto uk-flex ">
+			<section className="py-24">
+				<div className="container mx-auto relative">
+					<h2 className="font-sans text-4xl text-center mb-12 uk-flex justify-center items-center">Follow us on Instagram</h2>
+					<div className="" data-uk-slider>
+						<div className="relative mb-10 mx-3">
+							<ul className="uk-slider-items uk-child-width-1-3@s uk-grid mb-10" data-uk-height-match>
+								{stories.map((story, key) => 
+									<li key={key}>
+										<a href={`https://www.instagram.com/p/${story.node.id}`} target="_blank" className="shadow-lg hover:shadow-xl bg-white rounded-b-lg block text-gray-800 no-underline mb-10 hover:text-gray-900">
+											<Image
+												fluid={story.node.localFile.childImageSharp.fluid}
+												alt={'article.frontmatter.title'}
+												className="rounded-t-lg"
+												data-uk-cover="true"
+											/>
+											<div className="p-4"><div className="desc">{story.node.caption}</div></div>
+										</a>
+										{/* <img src="https://digitalmarketing.blob.core.windows.net/10239/images/items/image475690.jpg" alt="" data-uk-cover /> */}
+										{/* {JSON.stringify(story)} */}
+									</li>
+								)}
 
-				<div className="text-center">Beers</div>
+							</ul>
+						{/* <div className="uk-hidden@s uk-light">
+							<a className="uk-position-center-left uk-position-small" href="#" data-uk-slidenav-previous uk-slider-item="previous"></a>
+							<a className="uk-position-center-right uk-position-small" href="#" data-uk-slidenav-next uk-slider-item="next"></a>
+						</div> */}
+
+							
+						</div>
+						<div>
+								<a className="sl-nav previous text-5xl rounded" href="#" uk-slidenav-previous uk-slider-item="previous">&larr;</a>
+								<a className="sl-nav next text-5xl rounded" href="#" uk-slidenav-next uk-slider-item="next">&rarr;</a>
+							</div>
+					</div>
 				</div>
-			</section> */}
+			</section>
 			{/* <section className="py-16" data-uk-parallax="bgy: -200">
 				<div className="container mx-auto text-center">
 					<h2 className="font-sans w-4/5 text-3xl mx-auto tracking-wider font-serif">Corner Project offers a rotating list of local and house made craft beers along with a small menu of snacks and sandwiches</h2>
@@ -108,6 +140,24 @@ export const query = graphql`
 					social {
 						name
 						url
+					}
+				}
+			}
+		},
+		insta: allInstaNode {
+			edges {
+				node {
+					id
+					caption
+					comments
+					likes
+					timestamp
+					localFile {
+						childImageSharp {
+							fluid(maxHeight: 500, maxWidth: 500 quality: 50) {
+								...GatsbyImageSharpFluid_withWebp_tracedSVG
+							}
+						}
 					}
 				}
 			}

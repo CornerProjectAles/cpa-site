@@ -115,6 +115,33 @@ input[type='checkbox'].dmcheck + label {
 	height: 60px !important;
 	width: 60px !important;
 }
+a {
+	&:hover {
+		text-decoration: none !important;
+	}
+}
+
+.desc {
+	display: -webkit-box;
+	height: 100px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-webkit-line-clamp: 4;
+	-webkit-box-orient: vertical;
+}
+
+.sl-nav {
+	position: absolute;
+	z-index: 100;
+	top: 50%;
+	
+	&.next {
+		right: -60px;
+	}
+	&.previous {
+		left: -60px;
+	}
+}
 .our-story {
 	background-image: url("../images/banner-hero.jpg");
 	background-size: cover;
