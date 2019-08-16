@@ -29,8 +29,8 @@ const IndexPage = ({data}) => {
 					</div>
 					<div className="mt-10" >
 						<ul className="flex justify-center items-center -ml-6 p-0" data-uk-sticky>
-							{home.social.map((link) => 
-								<li className="mx-4" key="index">
+							{home.social.map((link, key) => 
+								<li className="mx-4" key={key}>
 									<a target="_blank" href={link.url} aria-label={link.name} className="p-4 uk-icon-button block " data-uk-icon={`icon: ${link.name}; ratio:1.5`}></a>
 								</li>
 							)}
@@ -39,8 +39,8 @@ const IndexPage = ({data}) => {
 				</div>
 				<div className="uk-overlay uk-position-cover bg-yellow-700 z-10 opacity-50"></div>
 				<ul className="uk-slideshow-items" uk-height-viewport="offset-top: true; offset-bottom: 10">
-					{home.banners.map((banner) => 
-						<li>
+					{home.banners.map((banner, key) => 
+						<li key={key}>
 							{/* <img src="https://digitalmarketing.blob.core.windows.net/10239/images/items/image475690.jpg" alt="" data-uk-cover /> */}
 							<Image
 								fluid={banner.src.childImageSharp.fluid}
