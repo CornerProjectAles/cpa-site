@@ -16,7 +16,7 @@ const Header = ({ siteTitle }) => (
 					</li>
 				</ul> */}
 				<Link className="flex-none mx-10 pt-6 pb-3" to="/">
-					<img data-uk-parallax="opacity: 1,1,1; scale: 1,.8,.6; viewport: 0.8; easing: 0.5" width="500" src={logo} alt={siteTitle}/>
+					<img className="w-64" data-uk-parallax="opacity: 1,1,1; scale: 1.2,1,.8; viewport: 0.8; easing: 0.5" src={logo} alt={siteTitle}/>
 				</Link>
 				{/* <ul className="flex m-0 p-0 pb-3">
 					<li className="mx-6 px-4 text-xl uppercase font-bold">
