@@ -154,7 +154,7 @@ input[type='checkbox'].dmcheck + label {
 }
 
 span.highlight {
-	@apply text-white font-normal text-3xl;
+	/* @apply text-white font-normal text-3xl; */
 }
 
 .text-shadow { text-shadow: 0px 0px .4px rgba(0,17,0, .6) }

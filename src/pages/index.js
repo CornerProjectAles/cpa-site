@@ -126,15 +126,16 @@ const IndexPage = ({data}) => {
 					<div className="flex justify-center">
 
 						<div className="w-3/4 relative">
-							<div className="logo-mark logo-left" data-uk-parallax="opacity: 0,.6,1; y: -100,-60,0; x: -100,-50,0; scale: 1.2,1,1; viewport: 0.5; easing: 0.5">
+							{/* <div className="logo-mark logo-left" data-uk-parallax="opacity: 0,.6,1; y: -100,-60,0; x: -100,-50,0; scale: 1.2,1,1; viewport: 0.5; easing: 0.5"> */}
+							<div className="logo-mark logo-left">
 
 							</div>
 							<div className="logo-container" >
-								<div className="story-blk" data-uk-parallax="opacity: 0,.9, 1; scale: .8,1,1; viewport: 0.5; easing: 0.5">
+								<div className="story-blk">
 									<div className="content-blk -mb-5">
 										<div className="text-2xl md:text-3xl lg:text-5xl pt-10 font-serif text-center">Our <span className=" text-orange-500">Story</span></div>
-										<p className="font-sans text-2xl mx-12 pb-10 px-10 font-light text-center leading-loose tracking-wide">
-											The idea for Corner Project started many years ago when <span className="highlight">Tom</span> and <span className="highlight">Chris</span> were in their late teens. The two brothers envisioned opening a local establishment where people of all walks of life would come together to enjoy a beverage and a bite to eat. Both went off to college to study subjects that had little to do with their dreams of opening their establishment. <br /><br />In 2005, <span className="highlight">Tom</span> left a career in social work to attend culinary school and a few years later, <span className="highlight">Chris</span> began brewing beer on his stovetop. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
+										<p className="font-sans text-lg md:text-2xl lg:text-2xl mx-2 lg:mx-12 pb-10 lg:px-10 font-light text-center leading-relaxed md:leading-relaxed tracking-wide">
+											The idea for Corner Project started many years ago when <span className="highlight text-xl md:text-2xl lg:text-2xl lg:font-bold text-white font-normal ">Tom</span> and <span className="highlight text-xl md:text-2xl lg:text-2xl lg:font-bold text-white font-normal ">Chris</span> were in their late teens. The two brothers envisioned opening a local establishment where people of all walks of life would come together to enjoy a beverage and a bite to eat. Both went off to college to study subjects that had little to do with their dreams of opening their establishment. <br /><br />In 2005, <span className="highlight text-xl md:text-2xl lg:text-2xl lg:font-bold text-white font-normal ">Tom</span> left a career in social work to attend culinary school and a few years later, <span className="highlight text-xl md:text-2xl lg:text-2xl lg:font-bold text-white font-normal ">Chris</span> began brewing beer on his stovetop. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 										</p>
 									</div>
 								</div>
