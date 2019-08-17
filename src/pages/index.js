@@ -23,7 +23,7 @@ const IndexPage = ({data}) => {
 						Family run brew pub &amp; eatery
 					</p>
 					<div className="container mx-auto text-center">
-						<h2 className="text-2xl font-sans w-4/5 md:text-2xl lg:text-3xl mx-auto font-extrabold font-sans">
+						<h2 className="text-2xl font-sans w-4/5 md:text-2xl lg:text-3xl mx-auto font-light font-sans">
 							We offer a rotating list of local and house made craft beers along with a small menu of snacks and sandwiches
 						</h2>
 					</div>
@@ -52,9 +52,25 @@ const IndexPage = ({data}) => {
 					)}
 				</ul>
 			</div>
-			<section className="py-24 bg-gray-100">
+			<section className="bg-gray-100 -m-16">
+				<div className="container mx-auto px-20">
+					<div className="bg-orange-500 pt-6 py-12 relative z-20 rounded-lg text-center">
+						<form method="post" action="/" name="signup" className="w-2/3 mx-auto" netlify-honeypot="bot-field" data-netlify="true">
+							<h3 className="text-4xl tracking-wider font-serif text-gray-200">Sign up for updates</h3>
+							<div className="uk-flex w-3/4 mx-auto">
+								<input type="hidden" name="bot-field" />
+									{/* Email */}
+								<input type="email" className="w-3/4 border-gray-100 rounded-l-lg h-12 px-4 outline-none focus:border-orange-200" placeholder="Your email" name="email" id="email" />
+								<button className="text-white border-2 rounded-r-lg px-10 border-gray-100" type="submit">Submit</button>
+							</div>
+							{/* <input type="reset" value="Clear" /> */}
+						</form>
+					</div>
+				</div>
+			</section>
+			<section className="bg-gray-100 pt-32">
 				<div className="container mx-auto relative">
-					<h2 className="font-serif text-4xl text-center mb-12 uk-flex justify-center items-center">Follow us on Instagram</h2>
+					<h2 className="font-serif text-4xl text-center mt-10 mb-12 uk-flex justify-center items-center">Follow us on Instagram</h2>
 					<div className="" data-uk-slider>
 						<div className="relative mb-10 mx-3">
 							<ul className="uk-slider-items uk-child-width-1-3@s uk-grid mb-10" data-uk-height-match>
@@ -68,8 +84,8 @@ const IndexPage = ({data}) => {
 													className="rounded-t-lg uk-transition-scale-up uk-transition-opaque "
 													data-uk-cover="true"
 												/>
-												<div class="uk-position-center uk-overlay uk-panel ">
-													<div class="uk-transition-slide-bottom-small text-white uk-flex items-center">
+												<div className="uk-position-center uk-overlay uk-panel ">
+													<div className="uk-transition-slide-bottom-small text-white uk-flex items-center">
 														<div className="" data-uk-icon="icon:heart; ratio:1.5"></div>
 														<div className="ml-2 mr-5 text-3xl">
 															{story.node.likes}
