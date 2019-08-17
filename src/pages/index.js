@@ -24,7 +24,7 @@ const IndexPage = ({data}) => {
 						Family run brew pub &amp; eatery
 					</p>
 					<div className="container mx-auto text-center">
-						<h2 className="text-2xl font-sans w-4/5 md:text-2xl lg:text-3xl mx-auto text-light font-sans">
+						<h2 className="text-2xl font-sans w-4/5 md:text-2xl lg:text-3xl mx-auto font-extrabold font-sans">
 							We offer a rotating list of local and house made craft beers along with a small menu of snacks and sandwiches
 						</h2>
 					</div>
@@ -32,7 +32,7 @@ const IndexPage = ({data}) => {
 						<ul className="flex justify-center items-center p-0" >
 							{home.social.map((link, key) => 
 								<li className="mx-2" key={key}>
-									<a target="_blank" href={link.url} aria-label={link.name} className="p-4 uk-icon-button block " data-uk-icon={`icon: ${link.name}; ratio:1.2`}></a>
+									<a target="_blank" rel="noopener" href={link.url} aria-label={link.name} className="p-4 uk-icon-button block " data-uk-icon={`icon: ${link.name}; ratio:1.2`}></a>
 								</li>
 							)}
 						</ul>
@@ -61,7 +61,7 @@ const IndexPage = ({data}) => {
 							<ul className="uk-slider-items uk-child-width-1-3@s uk-grid mb-10" data-uk-height-match>
 								{stories.map((story, key) => 
 									<li key={key}>
-										<a href={`https://www.instagram.com/p/${story.node.id}`} target="_blank" className="shadow-lg hover:shadow-xl bg-white rounded-b-lg block text-gray-800 no-underline mb-10 hover:text-gray-900">
+										<a href={`https://www.instagram.com/p/${story.node.id}`} target="_blank"  rel="noopener" className="shadow-lg hover:shadow-xl bg-white rounded-b-lg block text-gray-800 no-underline mb-10 hover:text-gray-900">
 											<Image
 												fluid={story.node.localFile.childImageSharp.fluid}
 												alt={'article.frontmatter.title'}
