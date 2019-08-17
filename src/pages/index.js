@@ -3,6 +3,7 @@ import React from "react"
 import Image from "gatsby-image"
 
 import Layout from "../components/layout"
+import Subscribe from "../components/subscribeform";
 // import Image from "../components/image"
 import SEO from "../components/seo"
 // import logo from "../images/logo_long_w.png"
@@ -55,16 +56,7 @@ const IndexPage = ({data}) => {
 			<section className="bg-gray-100 -m-16">
 				<div className="container mx-auto px-20">
 					<div className="bg-orange-500 pt-6 py-12 relative z-20 rounded-lg text-center shadow-xl">
-						<form method="post" action="/success" name="signup" className="w-5/6 md:w-2/3 mx-auto" netlify-honeypot="bot-field" data-netlify="true">
-							<h3 className="text-4xl tracking-wider font-serif text-gray-200">Sign up for updates</h3>
-							<div className="uk-flex w-full lg:w-3/4 mx-auto flex-wrap md:flex-no-wrap justify-center md:justify-start">
-								<input type="hidden" name="bot-field" />
-									{/* Email */}
-								<input type="email" className="w-full border-gray-100 h-12 rounded-lg md:h-12 px-4 outline-none focus:border-orange-200 md:rounded-r-none" placeholder="Your email" name="email" id="email" />
-								<button className="text-white border-2 h-12 rounded-lg px-10 border-gray-100 mt-4 md:mt-0  md:rounded-l-none" type="submit">Submit</button>
-							</div>
-							{/* <input type="reset" value="Clear" /> */}
-						</form>
+						<Subscribe />
 					</div>
 				</div>
 			</section>
