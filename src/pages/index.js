@@ -12,7 +12,6 @@ import { graphql } from 'gatsby'
 const IndexPage = ({data}) => {
 	const home = data.home.edges[0].node;
 	const stories = data.insta.edges;
-	console.log(stories);
 	return (
 		<Layout>
 			<SEO title="Home" />
@@ -53,7 +52,7 @@ const IndexPage = ({data}) => {
 					)}
 				</ul>
 			</div>
-			<section className="py-24">
+			<section className="py-24 bg-gray-100">
 				<div className="container mx-auto relative">
 					<h2 className="font-serif text-4xl text-center mb-12 uk-flex justify-center items-center">Follow us on Instagram</h2>
 					<div className="" data-uk-slider>
@@ -61,14 +60,28 @@ const IndexPage = ({data}) => {
 							<ul className="uk-slider-items uk-child-width-1-3@s uk-grid mb-10" data-uk-height-match>
 								{stories.map((story, key) => 
 									<li key={key}>
-										<a href={`https://www.instagram.com/p/${story.node.id}`} target="_blank"  rel="noopener" className="shadow-lg hover:shadow-xl bg-white rounded-b-lg block text-gray-800 no-underline mb-10 hover:text-gray-900">
-											<Image
-												fluid={story.node.localFile.childImageSharp.fluid}
-												alt={'article.frontmatter.title'}
-												className="rounded-t-lg"
-												data-uk-cover="true"
-											/>
-											<div className="p-4"><div className="desc">{story.node.caption}</div></div>
+										<a href={`https://www.instagram.com/p/${story.node.id}`} target="_blank"  rel="noopener" className="shadow-lg hover:shadow-xl bg-white rounded-b-lg block text-gray-800 no-underline rounded-t-lg mb-10 hover:text-gray-900 uk-transition-toggle">
+											<div className="relative overflow-hidden rounded-t-lg">
+												<Image
+													fluid={story.node.localFile.childImageSharp.fluid}
+													alt={'article.frontmatter.title'}
+													className="rounded-t-lg uk-transition-scale-up uk-transition-opaque "
+													data-uk-cover="true"
+												/>
+												<div class="uk-position-center uk-overlay uk-panel ">
+													<div class="uk-transition-slide-bottom-small text-white uk-flex items-center">
+														<div className="" data-uk-icon="icon:heart; ratio:1.5"></div>
+														<div className="ml-2 mr-5 text-3xl">
+															{story.node.likes}
+														</div>
+														<div className="" data-uk-icon={`icon: ${story.node.comments>1 ? 'comments' : 'comment'}; ratio:1.5`}></div>
+														<div className="ml-2 text-3xl">
+															{story.node.comments ? story.node.comments : '0'}
+														</div>
+													</div>
+												</div>
+											</div>
+											<div className="p-5 hover:-m-12"><div className="desc">{story.node.caption}</div></div>
 										</a>
 										{/* <img src="https://digitalmarketing.blob.core.windows.net/10239/images/items/image475690.jpg" alt="" data-uk-cover /> */}
 										{/* {JSON.stringify(story)} */}
