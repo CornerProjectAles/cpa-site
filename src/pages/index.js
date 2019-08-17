@@ -54,14 +54,14 @@ const IndexPage = ({data}) => {
 			</div>
 			<section className="bg-gray-100 -m-16">
 				<div className="container mx-auto px-20">
-					<div className="bg-orange-500 pt-6 py-12 relative z-20 rounded-lg text-center">
-						<form method="post" action="/" name="signup" className="w-2/3 mx-auto" netlify-honeypot="bot-field" data-netlify="true">
+					<div className="bg-orange-500 pt-6 py-12 relative z-20 rounded-lg text-center shadow-xl">
+						<form method="post" action="/success" name="signup" className="w-5/6 md:w-2/3 mx-auto" netlify-honeypot="bot-field" data-netlify="true">
 							<h3 className="text-4xl tracking-wider font-serif text-gray-200">Sign up for updates</h3>
-							<div className="uk-flex w-3/4 mx-auto">
+							<div className="uk-flex w-full lg:w-3/4 mx-auto flex-wrap md:flex-no-wrap justify-center md:justify-start">
 								<input type="hidden" name="bot-field" />
 									{/* Email */}
-								<input type="email" className="w-3/4 border-gray-100 rounded-l-lg h-12 px-4 outline-none focus:border-orange-200" placeholder="Your email" name="email" id="email" />
-								<button className="text-white border-2 rounded-r-lg px-10 border-gray-100" type="submit">Submit</button>
+								<input type="email" className="w-full border-gray-100 h-12 rounded-lg md:h-12 px-4 outline-none focus:border-orange-200 md:rounded-r-none" placeholder="Your email" name="email" id="email" />
+								<button className="text-white border-2 h-12 rounded-lg px-10 border-gray-100 mt-4 md:mt-0  md:rounded-l-none" type="submit">Submit</button>
 							</div>
 							{/* <input type="reset" value="Clear" /> */}
 						</form>
@@ -73,7 +73,7 @@ const IndexPage = ({data}) => {
 					<h2 className="font-serif text-4xl text-center mt-10 mb-12 uk-flex justify-center items-center">Follow us on Instagram</h2>
 					<div className="" data-uk-slider>
 						<div className="relative mb-10 mx-3">
-							<ul className="uk-slider-items uk-child-width-1-3@s uk-grid mb-10" data-uk-height-match>
+							<ul className="uk-slider-items uk-child-width-1-2@s uk-child-width-1-3@m uk-grid mb-10" data-uk-height-match>
 								{stories.map((story, key) => 
 									<li key={key}>
 										<a href={`https://www.instagram.com/p/${story.node.id}`} target="_blank"  rel="noopener" className="shadow-lg hover:shadow-xl bg-white rounded-b-lg block text-gray-800 no-underline rounded-t-lg mb-10 hover:text-gray-900 uk-transition-toggle">
