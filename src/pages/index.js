@@ -25,7 +25,7 @@ const IndexPage = ({data}) => {
 					</p>
 					<div className="container mx-auto text-center">
 						<h2 className="text-2xl font-sans w-4/5 md:text-2xl lg:text-3xl mx-auto font-light font-sans">
-							We offer a rotating list of local and house made craft beers along with a small menu of snacks and sandwiches
+							We offer a rotating list of local and house made <b>craft beers</b> along with a small menu of <b>snacks</b> and <b>sandwiches</b>
 						</h2>
 					</div>
 					<div className="mt-10" >
@@ -53,14 +53,14 @@ const IndexPage = ({data}) => {
 					)}
 				</ul>
 			</div>
-			<section className="bg-gray-100 -m-16">
+			<section className="bg-gray-100 -mt-16">
 				<div className="container mx-auto px-20">
 					<div className="bg-orange-500 pt-6 py-12 relative z-20 rounded-lg text-center shadow-xl">
 						<Subscribe />
 					</div>
 				</div>
 			</section>
-			<section className="bg-gray-100 pt-32">
+			<section className="bg-gray-100 pt-32 pb-16">
 				<div className="container mx-auto relative">
 					<h2 className="font-serif text-4xl text-center mt-10 mb-12 uk-flex justify-center items-center">Follow us on Instagram</h2>
 					<div className="" data-uk-slider>
@@ -122,22 +122,27 @@ const IndexPage = ({data}) => {
 			</section> */}
 			
 			<section className="uk-section uk-section-large uk-background-fixed our-story uk-light">
-				<div className="uk-container logo-container">
-					<div className="logo-mark logo-left" data-uk-parallax="opacity: 0,.6,1; y: -100,-60,0; x: -100,-50,0; scale: 1.2,1,1; viewport: 0.2; easing: 0.5">
+				<div className="container relative mx-auto">
+					<div className="flex justify-center">
 
-					</div>
-					<div className=" logo-container" >
-						<div className="story-blk" data-uk-parallax="opacity: 0,.9; scale: .8,1,1; viewport: 0.2; easing: 0.5">
-							<div className="content-blk -mb-5">
-								<div className="text-3xl pt-10 font-serif text-center">Our <span className=" text-orange-500">Story</span></div>
-								<p className="font-sans text-xl mx-12 pb-10 text-light">
-									The idea for Corner Project started many years ago when Tom and Chris were in their late teens. The two brothers envisioned opening a local establishment where people of all walks of life would come together to enjoy a beverage and a bite to eat. Both went off to college to study subjects that had little to do with their dreams of opening their establishment. In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stovetop. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
-								</p>
+						<div className="w-3/4 relative">
+							<div className="logo-mark logo-left" data-uk-parallax="opacity: 0,.6,1; y: -100,-60,0; x: -100,-50,0; scale: 1.2,1,1; viewport: 0.5; easing: 0.5">
+
+							</div>
+							<div className="logo-container" >
+								<div className="story-blk" data-uk-parallax="opacity: 0,.9, 1; scale: .8,1,1; viewport: 0.5; easing: 0.5">
+									<div className="content-blk -mb-5">
+										<div className="text-2xl md:text-3xl lg:text-5xl pt-10 font-serif text-center">Our <span className=" text-orange-500">Story</span></div>
+										<p className="font-sans text-2xl mx-12 pb-10 px-10 font-light text-center leading-loose tracking-wide">
+											The idea for Corner Project started many years ago when <span className="highlight">Tom</span> and <span className="highlight">Chris</span> were in their late teens. The two brothers envisioned opening a local establishment where people of all walks of life would come together to enjoy a beverage and a bite to eat. Both went off to college to study subjects that had little to do with their dreams of opening their establishment. <br /><br />In 2005, <span className="highlight">Tom</span> left a career in social work to attend culinary school and a few years later, <span className="highlight">Chris</span> began brewing beer on his stovetop. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div className="logo-mark logo-right" >
+
 							</div>
 						</div>
-					</div>
-					<div className="logo-mark logo-right" >
-
 					</div>
 				</div>
 			</section>

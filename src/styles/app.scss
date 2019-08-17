@@ -143,9 +143,12 @@ a {
 		left: -60px;
 	}
 }
+
+
 .our-story {
 	background-image: url("../images/banner-hero.jpg");
 	background-size: cover;
+	background-position: center;
 	.story-blk {
 		// background-image: url("../images/brush.png");
 		// background-size: contain;
@@ -158,22 +161,25 @@ a {
 	.logo-container {
 		position: relative;
 	}
+
+	
+	
 	.logo-mark {
-		width: 206px;
-		height: 230px;
+		width: 150px;
+		height: 169px;
 		background-image: url("../images/left-mark.png");
 		background-size: contain;
 		position: absolute;
 		z-index: 100;
 		&.logo-left {
-			left: 0px;
-			top: -34px;
+			left: -30px;
+			top: -27px;
 		}
 		&.logo-right {
 			-webkit-transform: rotate(180deg);
 			transform: rotate(180deg);
-			right: 0px;
-			bottom: -34px;
+			right: -30px;
+			bottom: -27px;
 		}
 	}
 

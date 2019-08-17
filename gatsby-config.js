@@ -64,9 +64,9 @@ module.exports = {
 						subsets: [`latin`],
 					},
 					{
-						family: `Open Sans`,
+						family: `Roboto`,
 						subsets: [`latin`],
-						variants: [`300`, `400`]
+						variants: [`300`, `400`, `700`, `900`]
 					},
 				],
 			},
