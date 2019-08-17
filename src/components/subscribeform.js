@@ -10,7 +10,7 @@ class Subscribe extends Component {
 			<div>
 				<form method="post" name="Subscribe" className="w-5/6 md:w-2/3 mx-auto" netlify-honeypot="bot-field" data-netlify="true">
 					<input type="hidden" name="form-name" value="Subscribe" />
-					<h3 className="text-4xl tracking-wider font-serif text-gray-200">Sign up for updates</h3>
+					<h3 className="text-4xl tracking-wider font-serif text-gray-100">Sign up for updates</h3>
 					<div className="uk-flex w-full lg:w-3/4 mx-auto flex-wrap md:flex-no-wrap justify-center md:justify-start">
 						<input type="hidden" name="bot-field" />
 							{/* Email */}

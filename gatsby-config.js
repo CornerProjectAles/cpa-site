@@ -2,7 +2,8 @@ module.exports = {
 	siteMetadata: {
 		title: `Corner Project`,
 		description: `Corner Project offers a rotating list of local and house made craft beers along with a small menu of snacks and sandwiches`,
-		author: `Chris Adamian`
+		author: `Chris Adamian`,
+		siteUrl: `https://www.cornerprojectales.com`
 	},
 	plugins: [
 		{
@@ -54,7 +55,7 @@ module.exports = {
 			},
 		},
 		`gatsby-plugin-sass`,
-		'gatsby-plugin-postcss',
+		"gatsby-plugin-postcss",
 		{
 			resolve: `gatsby-plugin-prefetch-google-fonts`,
 			options: {
@@ -66,7 +67,7 @@ module.exports = {
 					{
 						family: `Roboto`,
 						subsets: [`latin`],
-						variants: [`300`, `400`, `700`, `900`]
+						variants: [`300`, `400`, `700`, `900`],
 					},
 				],
 			},
@@ -83,9 +84,42 @@ module.exports = {
 					favicons: true,
 					firefox: true,
 					yandex: false,
-					windows: true
-				}
-			}
+					windows: true,
+				},
+			},
+		},
+		{
+			resolve: `gatsby-plugin-sitemap`,
+			options: {
+				output: `/sitemap.xml`,
+				// Exclude specific pages or groups of pages using glob parameters
+				// See: https://github.com/isaacs/minimatch
+				// The example below will exclude the single `path/to/page` and all routes beginning with `category`
+				exclude: ["/dev-404-page/", `/success/`],
+				query: `
+					{
+						site {
+							siteMetadata {
+								siteUrl
+							}
+						}
+						allSitePage {
+							edges {
+								node {
+									path
+								}
+							}
+						}
+				}`,
+				serialize: ({ site, allSitePage }) =>
+					allSitePage.edges.map(edge => {
+						return {
+							url: site.siteMetadata.siteUrl + edge.node.path,
+							changefreq: `daily`,
+							priority: 0.7,
+						}
+					}),
+			},
 		},
 		// this (optional) plugin enables Progressive Web App + Offline functionality
 		// To learn more, visit: https://gatsby.dev/offline
