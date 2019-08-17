@@ -2,7 +2,7 @@
 	"name": "cpa-site",
 	"private": true,
 	"description": "Website for Corner Project Ales: Family run brew pub & eatery",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"author": "Devanand <dev.ryder88@gmail.com>",
 	"dependencies": {
 		"gatsby": "^2.13.45",
