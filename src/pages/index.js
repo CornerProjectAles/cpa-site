@@ -53,9 +53,34 @@ const IndexPage = ({data}) => {
 					)}
 				</ul>
 			</div>
-			<section className="bg-gray-100 -mt-16">
+			{/* <section className="bg-gray-100 -mt-16">
 				<div className="container mx-auto px-20">
 					<div className="bg-orange-500 pt-6 py-12 relative z-20 rounded-lg text-center shadow-xl">
+						<Subscribe />
+					</div>
+				</div>
+			</section> */}
+
+			<section className="bg-white relative z-30 py-20" data-uk-parallax="bgy: -200">
+				<div className="container mx-auto text-center">
+					<h2 className="font-sans w-4/5 text-3xl mx-auto tracking-wider leading-relaxed font-serif">Our To-Go menu, available for take-out or curbside pickup only!</h2>
+					<div className="flex grid sm:grid-cols-2 gap-5 mt-5 px-5">
+						{home.menu.map((item, key) => 
+							<div className="col-span-1 border text-left p-5" key={key}>
+								<div className="font-bold text-xl flex justify-between">
+									<div>{item.name}</div>
+									<div className="ml-4 text-2xl font-light font-serif">{item.price}</div>
+									</div>
+								<div className="mt-2">{item.desc}</div>
+								
+							</div>
+						)}
+					</div>
+				</div>
+			</section>
+			<section className="bg-orange-700 ">
+				<div className="container mx-auto px-5 sm:px-20">
+					<div className="pt-6 py-12 relative z-20 text-center">
 						<Subscribe />
 					</div>
 				</div>
@@ -167,6 +192,11 @@ export const query = graphql`
 								}
 							}
 						}
+					}
+					menu {
+						desc
+						name
+						price
 					}
 					social {
 						name

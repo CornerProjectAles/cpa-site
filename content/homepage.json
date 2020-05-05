@@ -1,42 +1,85 @@
 {
-	"banners": [
-		{
-			"src": "images/1.jpg",
-			"alt": ""
-		},
-		{
-			"src": "images/2.jpg",
-			"alt": ""
-		},
-		{
-			"src": "images/3.jpg",
-			"alt": ""
-		},
-		{
-			"src": "images/4.jpg",
-			"alt": ""
-		},
-		{
-			"src": "images/5.jpg",
-			"alt": ""
-		}
-	], 
-	"social": [
-		{
-			"name": "instagram",
-			"url": "https://www.instagram.com/cornerprojectales/"
-		},
-		{
-			"name": "facebook",
-			"url": "https://www.facebook.com/Corner-Project-Ales-2271146709785008/"
-		},
-		{
-			"name": "twitter",
-			"url": "https://twitter.com/CornerProjAles"
-		},
-		{
-			"name": "mail",
-			"url": "mailto:info@cornerprojectales.com"
-		}
-	]
+  "banners": [
+    {
+      "src": "images/1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/3.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/4.jpg",
+      "alt": ""
+    },
+    {
+      "src": "images/5.jpg",
+      "alt": ""
+    }
+  ],
+  "menu": [
+    {
+      "name": "Anthem 22 oz. bottle",
+      "desc": "Anthem is a light bodied pale ale featuring Amarillo and Citra hops. This ale has notes of citrus and pine and comes in at 5.7% ABV. Great for a warm day!",
+      "price": "$5.00"
+    },
+
+    {
+      "name": "Lamb & Pork Flatbread Sandwich",
+      "desc": "Served on grilled sourdough flatbread with hummus, sumac cucumber yogurt, smoked espelette mild sauce, greens, herbs and pickles.",
+      "price": "$14.00"
+    },
+
+    {
+      "name": "Smoked Chicken Flatbread Sandwich",
+      "desc": "Served on grilled sourdough flatbread with hummus, sumac cucumber yogurt, smoked espelette mild sauce, greens, herbs and pickles.",
+      "price": "$14.00"
+    },
+
+    {
+      "name": "Grilled Cauliflower Flatbread Sandwich",
+      "desc": "Served on grilled sourdough flatbread with hummus, sumac cucumber yogurt, smoked espelette mild sauce, greens, herbs and pickles.",
+      "price": "$14.00"
+    },
+
+    {
+      "name": "Armenian Potato Salad",
+      "desc": "An 8 ounce serving of our oil-based potato salad with parsley and red onions.",
+      "price": "$4.00"
+    },
+
+    {
+      "name": "House Fermentations",
+      "desc": "An 8 ounce jar of house fermented spicy cauliflower, carrots and green onions",
+      "price": "$5.00"
+    },
+
+    {
+      "name": "Turmeric Sauerkraut",
+      "desc": "An 8 ounce jar of house fermented green cabbage and turmeric",
+      "price": "$5.00"
+    }
+  ],
+  "social": [
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/cornerprojectales/"
+    },
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/Corner-Project-Ales-2271146709785008/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/CornerProjAles"
+    },
+    {
+      "name": "mail",
+      "url": "mailto:info@cornerprojectales.com"
+    }
+  ]
 }
