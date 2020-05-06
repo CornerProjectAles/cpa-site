@@ -1,0 +1,36 @@
+backend:
+  name: github
+  repo: CornerProjectAles/cpa-site
+
+media_folder: static/images
+public_folder: images
+publish_mode: editorial_workflow
+
+collections:
+  - name: menu
+    label: Menu
+    folder: content/menu
+    create: true
+    editor:
+      preview: false
+    fields:
+      # - { name: path, label: Path }
+      - { name: price, label: Price }
+      - { name: title, label: Title }
+      - { name: desc, label: Description, widget: markdown }
+  - name: banners
+    label: Banners
+    folder: content/banners
+    create: true
+    fields: 
+      - { name: title, label: Alt }
+      - name: src, 
+        label: Image
+        widget: image
+  - name: social
+    label: Social
+    folder: content/social
+    create: true
+    fields:
+      - { name: title, label: Title}
+      - { name: url, label: Url}
