@@ -21,7 +21,7 @@ const IndexPage = ({data}) => {
 					{/* <img  src={logo} alt="asad"/> */}
 					{/* <img data-uk-parallax="opacity: 1,1,1; y: -50,-70,-70; x: 0,0,0; scale: 1.2,.7,.6; viewport: 0.8; easing: 0.5" width="420" src={logo} alt="asad"/> */}
 					<p className="text-3xl sm:text-3xl md:text-4xl lg:text-6xl text-white font-serif mt-16 tracking-wide">
-						Family run brew pub &amp; eatery
+					{home.frontmatter.title}
 					</p>
 					<div className="container mx-auto text-center">
 						<h2 className="text-2xl font-sans w-4/5 md:text-2xl lg:text-3xl mx-auto font-light font-sans">
@@ -30,9 +30,9 @@ const IndexPage = ({data}) => {
 					</div>
 					<div className="mt-10" >
 						<ul className="flex justify-center items-center p-0" >
-							{home.social.map((link, key) => 
-								<li className="mx-2" key={link.name}>
-									<a target="_blank" rel="noreferrer" href={link.url} aria-label={link.name} className="p-4 uk-icon-button block " data-uk-icon={`icon: ${link.name}; ratio:1.2`}></a>
+							{home.frontmatter.social.map((link, key) => 
+								<li className="mx-2" key={link.title}>
+									<a target="_blank" rel="noreferrer" href={link.url} aria-label={link.title} className="p-4 uk-icon-button block " data-uk-icon={`icon: ${link.title}; ratio:1.2`}></a>
 								</li>
 							)}
 						</ul>
@@ -40,12 +40,12 @@ const IndexPage = ({data}) => {
 				</div>
 				<div className="uk-overlay uk-position-cover bg-yellow-700 z-10 opacity-50"></div>
 				<ul className="uk-slideshow-items sm:height h-64" data-uk-height-viewport="offset-top: true; offset-bottom: 15">
-					{home.banners.map((banner, key) => 
+					{home.frontmatter.banners.map((banner, key) => 
 						<li key={key}>
 							{/* <img src="https://digitalmarketing.blob.core.windows.net/10239/images/items/image475690.jpg" alt="" data-uk-cover /> */}
 							<Image
 								fluid={banner.src.childImageSharp.fluid}
-								alt={'article.frontmatter.title'}
+								alt={banner.title}
 								className="uk-height-1-1"
 								data-uk-cover="true"
 							/>
@@ -65,10 +65,10 @@ const IndexPage = ({data}) => {
 				<div className="container mx-auto text-center">
 					<h2 className="font-sans w-4/5 text-3xl mx-auto tracking-wider leading-relaxed font-serif">Our To-Go menu, available for take-out or curbside pickup only!</h2>
 					<div className="flex grid sm:grid-cols-2 gap-5 mt-5 px-5">
-						{home.menu.map((item, key) => 
+						{home.frontmatter.menu.map((item, key) => 
 							<div className="col-span-1 border text-left p-5" key={key}>
 								<div className="font-bold text-xl flex justify-between">
-									<div>{item.name}</div>
+									<div>{item.title}</div>
 									<div className="ml-4 text-2xl font-light font-serif">{item.price}</div>
 									</div>
 								<div className="mt-2">{item.desc}</div>
@@ -180,27 +180,31 @@ export default IndexPage
 
 export const query = graphql`
 	query {
-		home: allContentJson {
+		home: allMarkdownRemark {
 			edges {
 				node {
-					banners {
-						alt
-						src {
-							childImageSharp {
-								fluid(maxWidth: 2000) {
-									...GatsbyImageSharpFluid
+					frontmatter {
+						title
+						desc
+						social {
+							title
+							url
+						}
+						banners {
+							title
+							src {
+								childImageSharp {
+									fluid(maxWidth: 2000) {
+										...GatsbyImageSharpFluid
+									}
 								}
 							}
 						}
-					}
-					menu {
-						desc
-						name
-						price
-					}
-					social {
-						name
-						url
+						menu {
+							title
+							desc
+							price
+						}
 					}
 				}
 			}

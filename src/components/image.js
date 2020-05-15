@@ -16,14 +16,16 @@ import Img from "gatsby-image"
 const Image = () => {
 	const data = useStaticQuery(graphql`
 		query {
-			home: allContentJson {
+			home: allMarkdownRemark {
 				edges {
 					node {
-						banners {
-							alt
-							src {
-								childImageSharp {
-									id
+						frontmatter {
+							banners {
+								title
+								src {
+									childImageSharp {
+										id
+									}
 								}
 							}
 						}
