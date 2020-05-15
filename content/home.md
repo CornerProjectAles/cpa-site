@@ -27,7 +27,7 @@ menu:
     desc: Baked in cast iron. Butter and honey.
     price: $5.00
   - title: Turmeric Sauerkraut
-    desc: An 8 ounce jar of house fermented green cabbage and turmeric
+    desc: An 8 ounce jar of house fermented green cabbage and turmeric.
     price: $5.00
   - title: Jalapeño Sauerkraut
     desc: An 8 ounce jar of house fermented green cabbage and jalapeño.
@@ -42,7 +42,7 @@ menu:
     price: $5.00
   - title: Shick Faced 2017 Pinot Noir (Shick Family Wines)
     desc: A heavy bodied Pinot Noir aged 20 months in 100% French oak barrels. 14.8%
-      ABV
+      ABV.
     price: $60.00
   - title: Zialena 2018 Sauvignon Blanc
     desc: Zialena's third vintage of Sauvignon Blanc from the Redwood Ranch Vineyard
