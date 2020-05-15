@@ -16,6 +16,39 @@ menu:
   - title: Beef Brisket Chili
     price: $9.00 - $16.00
     desc: Smoked Oakridge Angus. Radish. Scallion. Aleppo sour cream.
+  - title: Vegetarian Chili
+    desc: Black bean. Preserved summer '19 tomato. Radish. Scallion. Cilantro lime sour cream.
+    price: $9.00 - $16.00
+  - title: Savory Cornbread
+    desc: Baked in cast iron. Fermented jalapeño. Wagon Wheel cheese.
+    price: $6.00
+  - title: Sweet Cornbread
+    desc: Butter and honey.
+    price: $5.00
+  - title: Turmeric Sauerkraut
+    desc: An 8 ounce jar of house fermented green cabbage and turmeric
+    price: $5.00
+  - title: Jalapeño Sauerkraut
+    desc: An 8 ounce jar of house fermented green cabbage and jalapeño.
+    price: $5.00
+  - title: Coleslaw
+    desc: Red and green cabbages. Carrot. Mustard seed aioli.
+    price: $5.00
+  - title: Anthem Pale Ale 22 oz. bottle
+    desc: Anthem is a light bodied pale ale featuring Amarillo and Citra hops. This ale has notes of citrus and pine and comes in at 5.7% ABV. Great for a warm day!
+    price: $5.00
+  - title: Shick Faced 2017 Pinot Noir (Shick Family Wines)
+    desc: A heavy bodied Pinot Noir aged 20 months in 100% French oak barrels. 14.8% ABV
+    price: $60.00
+  - title: Zialena 2018 Sauvignon Blanc
+    desc: Zialena's third vintage of Sauvignon Blanc from the Redwood Ranch Vineyard in the southern part of Alexander Valley. 14.3% ABV.
+    price: $25.00
+  - title: Unisex Shirt
+    desc: Black tee with Corner Project logo on the chest.
+    price: $20.00
+  - title: Women's Shirt
+    desc: Black tee with Corner Project logo on the chest.
+    price: $20.00 (Only a few left)
 banners:
   - src: images/1.jpg
     title: Glasses
