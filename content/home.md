@@ -4,7 +4,7 @@ desc: We offer a rotating list of local and house made **craft beers** along
   with a small menu of **snacks** and **sandwiches.** Use our [Online Ordering
   Form](https://cornerprojectales.square.site/) to place your food order for
   take out or curbside pickup.
-menutitle: Our To-Go menu, available for take-out or curbside pickup only!
+menutitle: "Our To-Go menu, available for take-out or curbside pickup only! "
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
