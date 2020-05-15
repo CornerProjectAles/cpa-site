@@ -31,8 +31,8 @@ const IndexPage = ({data}) => {
 					<div className="mt-10" >
 						<ul className="flex justify-center items-center p-0" >
 							{home.social.map((link, key) => 
-								<li className="mx-2" key={key}>
-									<a target="_blank" rel="noopener" href={link.url} aria-label={link.name} className="p-4 uk-icon-button block " data-uk-icon={`icon: ${link.name}; ratio:1.2`}></a>
+								<li className="mx-2" key={link.name}>
+									<a target="_blank" rel="noreferrer" href={link.url} aria-label={link.name} className="p-4 uk-icon-button block " data-uk-icon={`icon: ${link.name}; ratio:1.2`}></a>
 								</li>
 							)}
 						</ul>
@@ -93,7 +93,7 @@ const IndexPage = ({data}) => {
 							<ul className="uk-slider-items uk-child-width-1-2@s uk-child-width-1-3@m uk-grid mb-10" data-uk-height-match>
 								{stories.map((story, key) => 
 									<li key={key}>
-										<a href={`https://www.instagram.com/p/${story.node.id}`} target="_blank"  rel="noopener" className="shadow-lg hover:shadow-xl bg-white rounded-b-lg block text-gray-800 no-underline rounded-t-lg mb-10 hover:text-gray-900 uk-transition-toggle">
+										<a href={`https://www.instagram.com/p/${story.node.id}`} target="_blank" rel="noreferrer" className="shadow-lg hover:shadow-xl bg-white rounded-b-lg block text-gray-800 no-underline rounded-t-lg mb-10 hover:text-gray-900 uk-transition-toggle">
 											<div className="relative overflow-hidden rounded-t-lg">
 												<Image
 													fluid={story.node.localFile.childImageSharp.fluid}

@@ -7,30 +7,63 @@ public_folder: images
 publish_mode: editorial_workflow
 
 collections:
-  - name: menu
-    label: Menu
-    folder: content/menu
-    create: true
-    editor:
-      preview: false
-    fields:
-      # - { name: path, label: Path }
-      - { name: price, label: Price }
-      - { name: title, label: Title }
-      - { name: desc, label: Description, widget: markdown }
-  - name: banners
-    label: Banners
-    folder: content/banners
-    create: true
-    fields: 
-      - { name: title, label: Alt }
-      - name: src
-        label: Image
-        widget: image
-  - name: social
-    label: Social
-    folder: content/social
-    create: true
-    fields:
-      - { name: title, label: Title}
-      - { name: url, label: Url}
+  - label: Pages
+    name: pages
+    files:
+      - label: Home page
+        name: home
+        file: content/home
+        create: true
+        editor:
+          preview: false
+        fields: 
+          - {label: Hero title, name: title, widget: string}
+          - {label: Hero desc, name: desc, widget: markdown }
+          - {label: Menu title, name: menutitle, widget: string }
+          - {label: Our story, name: story, widget: markdown }
+          - label: Menu
+            name: menu
+            widget: list
+            fields:
+              - { name: title, label: Title }
+              - { name: price, label: Price }
+              - { name: desc, label: Description, widget: markdown }
+          - label: Banners
+            name: banners
+            widget: list
+            fields:
+              - { name: src, label: Image, widget: image }
+              - { name: title, label: Image Alt}
+          - label: Social Links
+            name: social
+            widget: list
+            fields: 
+              - { name: title, label: Title}
+              - { name: url, label: Url}
+  # - name: menu
+  #   label: Menu
+  #   folder: content/menu
+  #   create: true
+  #   editor:
+  #     preview: false
+  #   fields:
+  #     # - { name: path, label: Path }
+  #     - { name: price, label: Price }
+  #     - { name: title, label: Title }
+  #     - { name: desc, label: Description, widget: markdown }
+  # - name: banners
+  #   label: Banners
+  #   folder: content/banners
+  #   create: true
+  #   fields: 
+  #     - { name: title, label: Alt }
+  #     - name: src
+  #       label: Image
+  #       widget: image
+  # - name: social
+  #   label: Social
+  #   folder: content/social
+  #   create: true
+  #   fields:
+  #     - { name: title, label: Title}
+  #     - { name: url, label: Url}

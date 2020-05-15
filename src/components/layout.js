@@ -7,7 +7,7 @@
 
 import React, { Component } from "react"
 import PropTypes from "prop-types"
-import { useStaticQuery, graphql } from "gatsby"
+// import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
 // import "./layout.css"
@@ -16,10 +16,10 @@ import "../styles/app.scss"
 // import '../scripts/app.js';
 
 class Layout extends Component {
-	constructor(props) {
-		super(props)
-		// this.state = { ready: false };
-	}
+	// constructor(props) {
+	// 	super(props)
+	// 	// this.state = { ready: false };
+	// }
 
 	componentDidMount = () => {
 		// state = { ready: false };
