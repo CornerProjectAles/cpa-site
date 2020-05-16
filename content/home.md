@@ -55,7 +55,7 @@ menu:
     price: $20.00
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
-    price: $20.00 (Only a few left)
+    price: $20.00
 banners:
   - src: images/1.jpg
     title: Glasses
