@@ -15,12 +15,24 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
+  - title: Pulled Pork Sandwich
+    price: $16
+    desc: Smoked Stone Valley Pork Butt. Pickled Red Onion. Greens. Espelette Mayo
+      on a Creekside Bakery Milk Bun. Choice of side salad or potato salad.
+      Gluten free option available.
+  - title: Grilled Mushroom Melt
+    price: $15
+    desc: Wood Grilled Crimini Mushrooms. Wagon Wheel Cheese. Greens. Sliced Pullman
+      White Bread. Choice of side salad or potato salad.
   - title: Turmeric Sauerkraut
     desc: An 8 ounce jar of house fermented green cabbage and turmeric.
     price: $5
   - title: Jalapeño Sauerkraut
     desc: An 8 ounce jar of house fermented green cabbage and jalapeño.
     price: $5
+  - title: Chocolate Beer Brownie
+    price: $5
+    desc: Flourless chocolate brownie. Contains butter.
   - title: Anthem Pale Ale 22 oz. bottle
     desc: Anthem is a light bodied pale ale featuring Amarillo and Citra hops. This
       ale has notes of citrus and pine and comes in at 5.7% ABV. Great for a
@@ -40,18 +52,6 @@ menu:
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
-  - title: Pulled Pork Sandwich
-    price: $16
-    desc: Smoked Stone Valley Pork Butt. Pickled Red Onion. Greens. Espelette Mayo
-      on a Creekside Bakery Milk Bun. Choice of side salad or potato salad.
-      Gluten free option available.
-  - title: Grilled Mushroom Melt
-    price: $15
-    desc: Wood Grilled Crimini Mushrooms. Wagon Wheel Cheese. Greens. Sliced Pullman
-      White Bread. Choice of side salad or potato salad.
-  - title: Chocolate Beer Brownie
-    price: $5
-    desc: Flourless chocolate brownie. Contains butter.
 banners:
   - src: images/1.jpg
     title: Glasses
