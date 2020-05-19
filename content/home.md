@@ -17,7 +17,7 @@ story: >-
 menu:
   - title: Pulled Pork Sandwich
     price: $16
-    desc: Smoked Stone Valley Pork Butt. Pickled Red Onion. Greens. Espelette Mayo
+    desc: Smoked Stone Valley Pork Butt. Pickled red onion. Greens. Espelette mayo
       on a Creekside Bakery Milk Bun. Choice of side salad or potato salad.
       Gluten free option available.
   - title: Grilled Mushroom Melt
@@ -32,7 +32,7 @@ menu:
     price: $5
   - title: Chocolate Beer Brownie
     price: $5
-    desc: Flourless chocolate brownie. Contains butter.
+    desc: Flourless chocolate brownie. Contains butter and gluten.
   - title: Anthem Pale Ale 22 oz. bottle
     desc: Anthem is a light bodied pale ale featuring Amarillo and Citra hops. This
       ale has notes of citrus and pine and comes in at 5.7% ABV. Great for a
