@@ -17,34 +17,41 @@ story: >-
 menu:
   - title: Turmeric Sauerkraut
     desc: An 8 ounce jar of house fermented green cabbage and turmeric.
-    price: $5.00
+    price: $5
   - title: Jalapeño Sauerkraut
     desc: An 8 ounce jar of house fermented green cabbage and jalapeño.
-    price: $5.00
+    price: $5
   - title: Anthem Pale Ale 22 oz. bottle
     desc: Anthem is a light bodied pale ale featuring Amarillo and Citra hops. This
       ale has notes of citrus and pine and comes in at 5.7% ABV. Great for a
       warm day!
-    price: $5.00
+    price: $5
   - title: Shick Faced 2017 Pinot Noir (Shick Family Wines)
     desc: A heavy bodied Pinot Noir aged 20 months in 100% French oak barrels. 14.8%
       ABV.
-    price: $60.00
+    price: $60
   - title: Zialena 2018 Sauvignon Blanc
     desc: Zialena's third vintage of Sauvignon Blanc from the Redwood Ranch Vineyard
       in the southern part of Alexander Valley. 14.3% ABV.
-    price: $25.00
+    price: $25
   - title: Unisex Shirt
     desc: Black tee with Corner Project logo on the chest.
-    price: $20.00
+    price: $20
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
-    price: $20.00
+    price: $20
   - title: Pulled Pork Sandwich
     price: $16
     desc: Smoked Stone Valley Pork Butt. Pickled Red Onion. Greens. Espelette Mayo
       on a Creekside Bakery Milk Bun. Choice of side salad or potato salad.
       Gluten free option available.
+  - title: Grilled Mushroom Melt
+    price: $15
+    desc: Wood Grilled Crimini Mushrooms. Wagon Wheel Cheese. Greens. Sliced Pullman
+      White Bread. Choice of side salad or potato salad.
+  - title: Chocolate Beer Brownie
+    price: $5
+    desc: Flourless chocolate brownie. Contains butter.
 banners:
   - src: images/1.jpg
     title: Glasses
