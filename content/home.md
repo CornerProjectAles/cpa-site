@@ -22,7 +22,7 @@ menu:
       Gluten free option available.
   - title: Grilled Mushroom Melt
     price: $15
-    desc: Wood Grilled Crimini Mushrooms. Wagon Wheel Cheese. Greens. Sliced Pullman
+    desc: Wood-grilled Crimini mushrooms. Wagon Wheel cheese. Greens. Sliced Pullman
       White Bread. Choice of side salad or potato salad.
   - title: Turmeric Sauerkraut
     desc: An 8 ounce jar of house fermented green cabbage and turmeric.
