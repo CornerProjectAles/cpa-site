@@ -15,27 +15,11 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: Beef Brisket Chili
-    price: $9.00 - $16.00
-    desc: Smoked Oakridge Angus. Radish. Scallion. Aleppo sour cream.
-  - title: Vegetarian Chili
-    desc: Black bean. Preserved summer '19 tomato. Radish. Scallion. Cilantro lime
-      sour cream.
-    price: $9.00 - $16.00
-  - title: Savory Cornbread
-    desc: Baked in cast iron. Fermented jalapeño. Wagon Wheel cheese.
-    price: $6.00
-  - title: Sweet Cornbread
-    desc: Baked in cast iron. Butter and honey.
-    price: $5.00
   - title: Turmeric Sauerkraut
     desc: An 8 ounce jar of house fermented green cabbage and turmeric.
     price: $5.00
   - title: Jalapeño Sauerkraut
     desc: An 8 ounce jar of house fermented green cabbage and jalapeño.
-    price: $5.00
-  - title: Coleslaw
-    desc: Red and green cabbages. Carrot. Mustard seed aioli.
     price: $5.00
   - title: Anthem Pale Ale 22 oz. bottle
     desc: Anthem is a light bodied pale ale featuring Amarillo and Citra hops. This
@@ -56,6 +40,11 @@ menu:
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20.00
+  - title: Pulled Pork Sandwich
+    price: $16
+    desc: Smoked Stone Valley Pork Butt. Pickled Red Onion. Greens. Espelette Mayo
+      on a Creekside Bakery Milk Bun. Choice of side salad or potato salad.
+      Gluten free option available.
 banners:
   - src: images/1.jpg
     title: Glasses
