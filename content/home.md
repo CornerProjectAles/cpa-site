@@ -15,47 +15,44 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: Beef Brisket Chili
-    price: $9.00 - $16.00
-    desc: Smoked Oakridge Angus. Radish. Scallion. Aleppo sour cream.
-  - title: Vegetarian Chili
-    desc: Black bean. Preserved summer '19 tomato. Radish. Scallion. Cilantro lime
-      sour cream.
-    price: $9.00 - $16.00
-  - title: Savory Cornbread
-    desc: Baked in cast iron. Fermented jalapeño. Wagon Wheel cheese.
-    price: $6.00
-  - title: Sweet Cornbread
-    desc: Baked in cast iron. Butter and honey.
-    price: $5.00
+  - title: Pulled Pork Sandwich
+    price: $16
+    desc: Smoked Stone Valley Pork Butt. Pickled red onion. Greens. Espelette mayo
+      on a Creekside Bakery Milk Bun. Choice of side salad or potato salad.
+      Gluten free option available.
+  - title: Grilled Mushroom Melt
+    price: $15
+    desc: Wood-grilled Crimini mushrooms. Wagon Wheel cheese. Greens. Sliced
+      Creekside Bakery Pullman White Bread. Choice of side salad or potato
+      salad.
   - title: Turmeric Sauerkraut
     desc: An 8 ounce jar of house fermented green cabbage and turmeric.
-    price: $5.00
+    price: $5
   - title: Jalapeño Sauerkraut
     desc: An 8 ounce jar of house fermented green cabbage and jalapeño.
-    price: $5.00
-  - title: Coleslaw
-    desc: Red and green cabbages. Carrot. Mustard seed aioli.
-    price: $5.00
+    price: $5
+  - title: Chocolate Beer Brownie
+    price: $5
+    desc: Flourless chocolate brownie. Contains butter and gluten.
   - title: Anthem Pale Ale 22 oz. bottle
     desc: Anthem is a light bodied pale ale featuring Amarillo and Citra hops. This
       ale has notes of citrus and pine and comes in at 5.7% ABV. Great for a
       warm day!
-    price: $5.00
+    price: $5
   - title: Shick Faced 2017 Pinot Noir (Shick Family Wines)
     desc: A heavy bodied Pinot Noir aged 20 months in 100% French oak barrels. 14.8%
       ABV.
-    price: $60.00
+    price: $60
   - title: Zialena 2018 Sauvignon Blanc
     desc: Zialena's third vintage of Sauvignon Blanc from the Redwood Ranch Vineyard
       in the southern part of Alexander Valley. 14.3% ABV.
-    price: $25.00
+    price: $25
   - title: Unisex Shirt
     desc: Black tee with Corner Project logo on the chest.
-    price: $20.00
+    price: $20
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
-    price: $20.00 (Only a few left)
+    price: $20
 banners:
   - src: images/1.jpg
     title: Glasses
