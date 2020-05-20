@@ -28,6 +28,9 @@ const IndexPage = ({data}) => {
 							We offer a rotating list of local and house made <b>craft beers</b> along with a small menu of <b>snacks</b> and <b>sandwiches</b>
 						</h2>
 					</div>
+					<div className="mt-10">
+						<a href="https://cornerprojectales.square.site/" className=" border-2 border-gray-200 px-5 py-2 text-xl font-bold hover:bg-gray-100" target="_blank" rel="norefferer">Order Now</a>
+					</div>
 					<div className="mt-10" >
 						<ul className="flex justify-center items-center p-0" >
 							{home.frontmatter.social.map((link, key) => 
@@ -75,6 +78,9 @@ const IndexPage = ({data}) => {
 								
 							</div>
 						)}
+					</div>
+					<div className="mt-16">
+						<a href="https://cornerprojectales.square.site/" className=" border-2 border-gray-600 px-5 py-2 text-xl font-bold text-gray-700 hover:bg-gray-100" target="_blank" rel="norefferer">Order Now</a>
 					</div>
 				</div>
 			</section>
