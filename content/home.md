@@ -31,7 +31,7 @@ menu:
       sumac vinaigrette.
   - title: Potato Salad
     price: $5
-    desc: Olive oil. Lemon. Scallion. Parsley. Black pepper.
+    desc: Olive oil. Lemon. Scallion. Parsley. Black pepper. 8 oz.
   - title: Turmeric Sauerkraut
     desc: An 8 ounce jar of house fermented green cabbage and turmeric.
     price: $5
