@@ -21,10 +21,10 @@ menu:
       on a Creekside Bakery Milk Bun. Choice of side salad or potato salad.
       Gluten free option available.
   - title: Grilled Mushroom Melt
-    price: $15
-    desc: Wood-grilled Crimini mushrooms. Wagon Wheel cheese. Greens. Sliced
-      Creekside Bakery Pullman White Bread. Choice of side salad or potato
-      salad.
+    price: $16
+    desc: Wood-grilled Crimini mushrooms. Wagon Wheel cheese. Greens. Carmelized
+      onions. Sliced Creekside Bakery Pullman White Bread. Choice of side salad
+      or potato salad.
   - title: Turmeric Sauerkraut
     desc: An 8 ounce jar of house fermented green cabbage and turmeric.
     price: $5
@@ -32,7 +32,7 @@ menu:
     desc: An 8 ounce jar of house fermented green cabbage and jalapeño.
     price: $5
   - title: Chocolate Beer Brownie
-    price: $5
+    price: $6
     desc: Flourless chocolate brownie. Contains butter and gluten.
   - title: Anthem Pale Ale 22 oz. bottle
     desc: Anthem is a light bodied pale ale featuring Amarillo and Citra hops. This
