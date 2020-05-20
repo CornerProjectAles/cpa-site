@@ -53,6 +53,13 @@ menu:
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
+  - title: Side Salad
+    price: $6
+    desc: Red H Farm butter lettuces. Red cabbage. Kale. Carrots. Radish. Tahini
+      sumac vinaigrette.
+  - title: Potato Salad
+    price: $5
+    desc: Olive oil. Lemon. Scallion. Parsley. Black pepper.
 banners:
   - src: images/1.jpg
     title: Glasses
