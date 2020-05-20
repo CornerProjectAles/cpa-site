@@ -25,6 +25,13 @@ menu:
     desc: Wood-grilled Crimini mushrooms. Wagon Wheel cheese. Greens. Carmelized
       onions. Sliced Creekside Bakery Pullman White Bread. Choice of side salad
       or potato salad.
+  - title: Side Salad
+    price: $6
+    desc: Red H Farm butter lettuces. Red cabbage. Kale. Carrots. Radish. Tahini
+      sumac vinaigrette.
+  - title: Potato Salad
+    price: $5
+    desc: Olive oil. Lemon. Scallion. Parsley. Black pepper.
   - title: Turmeric Sauerkraut
     desc: An 8 ounce jar of house fermented green cabbage and turmeric.
     price: $5
@@ -53,13 +60,6 @@ menu:
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
-  - title: Side Salad
-    price: $6
-    desc: Red H Farm butter lettuces. Red cabbage. Kale. Carrots. Radish. Tahini
-      sumac vinaigrette.
-  - title: Potato Salad
-    price: $5
-    desc: Olive oil. Lemon. Scallion. Parsley. Black pepper.
 banners:
   - src: images/1.jpg
     title: Glasses
