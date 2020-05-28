@@ -33,7 +33,7 @@ menu:
     desc: An 8 ounce jar of house fermented green cabbage and jalapeño.
     price: $5
   - title: Fermented Red Radish
-    desc: An 8 ounce jar of house fermented red table radishes
+    desc: An 8 ounce jar of house fermented red table radishes.
     price: $5
   - title: Chocolate Beer Brownie
     price: $6
