@@ -18,13 +18,13 @@ story: >-
 menu:
   - title: Meatloaf Sandwich
     price: $16
-    desc: Oakridge Angus beef. Stone Valley pork and house ground bacon. Charred red
-      onion. Field greens. Aioli. Wagon Wheel cheese. On sliced Creekside
-      Pullman white bread. Served with a side green salad.
+    desc: Oakridge Angus beef. Stone Valley pork and house ground bacon. Wagon Wheel
+      cheese. Field greens. Charred red onion. Aioli on sliced Creekside Pullman
+      white bread. Served with a side green salad.
   - title: Veggie Burger
     price: $16
-    desc: Chic peas. Grilled Red H Farm cauliflower. Quinoa. Greens. Jalapeño kraut.
-      Spicy mayo on Red Bird brioche. Served with a side green salad.
+    desc: Chic peas. Grilled Red H Farm cauliflower. Quinoa. Field greens. Jalapeño
+      kraut. Spicy mayo on Red Bird brioche. Served with a side green salad.
   - title: Side Salad
     price: $6
     desc: Red H Farm butter lettuces. Red cabbage. Kale. Carrots. Radish. Tahini
