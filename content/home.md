@@ -16,28 +16,24 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: Smoked Pork Sandwich
+  - title: Meatloaf Sandwich
     price: $16
-    desc: Smoked Stone Valley Pork Butt. Pickled red onion. Greens. Espelette mayo
-      on a Creekside Bakery Milk Bun. Choice of side salad or potato salad.
-      Gluten free option available.
-  - title: Grilled Mushroom Melt
+    desc: Oakridge Angus beef. Stone Valley pork and house ground bacon. Wagon Wheel
+      cheese. Field greens. Charred red onion. Aioli on sliced Creekside Pullman
+      white bread. Served with a side green salad.
+  - title: Veggie Burger
     price: $16
-    desc: Wood-grilled Crimini mushrooms. Wagon Wheel cheese. Greens. Carmelized
-      onions. Sliced Creekside Bakery Pullman White Bread. Choice of side salad
-      or potato salad.
+    desc: Chic peas. Grilled Red H Farm cauliflower. Quinoa. Field greens. Jalapeño
+      kraut. Spicy mayo on Red Bird brioche. Served with a side green salad.
   - title: Side Salad
     price: $6
     desc: Red H Farm butter lettuces. Red cabbage. Kale. Carrots. Radish. Tahini
       sumac vinaigrette.
-  - title: Potato Salad
-    price: $5
-    desc: Olive oil. Lemon. Scallion. Parsley. Black pepper. 8 oz.
-  - title: Turmeric Sauerkraut
-    desc: An 8 ounce jar of house fermented green cabbage and turmeric.
-    price: $5
   - title: Jalapeño Sauerkraut
     desc: An 8 ounce jar of house fermented green cabbage and jalapeño.
+    price: $5
+  - title: Fermented Red Radish
+    desc: An 8 ounce jar of house fermented red table radishes.
     price: $5
   - title: Chocolate Beer Brownie
     price: $6
