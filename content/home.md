@@ -2,7 +2,7 @@
 title: Family run brew pub & eatery
 desc: We offer a rotating list of local and house made **craft beers** along
   with a small menu of **snacks** and **sandwiches.**
-menutitle: Our menu for Saturday and Sunday, May 30th and 31st
+menutitle: Our To-Go menu for Saturday and Sunday, May 30th and 31st
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
