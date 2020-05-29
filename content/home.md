@@ -1,9 +1,7 @@
 ---
 title: Family run brew pub & eatery
 desc: We offer a rotating list of local and house made **craft beers** along
-  with a small menu of **snacks** and **sandwiches.**  Use our [Online Ordering
-  Form](https://cornerprojectales.square.site/) to place your food order for
-  take out or curbside pickup.
+  with a small menu of **snacks** and **sandwiches.**
 menutitle: "Our To-Go menu for Saturday, Sunday and Monday, May 23rd, 24th and
   25th, available for take-out or curbside pickup only! "
 story: >-
