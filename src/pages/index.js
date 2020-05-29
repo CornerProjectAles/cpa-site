@@ -25,7 +25,7 @@ const IndexPage = ({data}) => {
 					</p>
 					<div className="container mx-auto text-center">
 						<h2 className="text-2xl font-sans w-4/5 md:text-2xl lg:text-3xl mx-auto font-light font-sans">
-							We offer a rotating list of local and house made <b>craft beers</b> along with a small menu of <b>snacks</b> and <b>sandwiches</b>
+						{home.frontmatter.desc}
 						</h2>
 					</div>
 					<div className="mt-10">
@@ -66,7 +66,7 @@ const IndexPage = ({data}) => {
 
 			<section className="bg-white relative z-30 py-20" data-uk-parallax="bgy: -200">
 				<div className="container mx-auto text-center">
-					<h2 className="font-sans w-4/5 text-3xl mx-auto tracking-wider leading-relaxed font-serif">Our To-Go menu, available for take-out or curbside pickup only!</h2>
+					<h2 className="font-sans w-4/5 text-3xl mx-auto tracking-wider leading-relaxed font-serif">{home.frontmatter.menutitle}</h2>
 					<div className="flex grid sm:grid-cols-2 gap-5 mt-5 px-5">
 						{home.frontmatter.menu.map((item, key) => 
 							<div className="col-span-1 border text-left p-5" key={key}>
