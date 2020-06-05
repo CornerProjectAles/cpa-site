@@ -46,6 +46,9 @@ menu:
     desc: Wood Grilled Mary’s organic chicken leg. Red H Farm gem lettuces.
       Fermented and raw radishes. Arugula. Scallions. Mint. Lemon sumac
       vinaigrette. Pita chips.
+  - title: Pickle Plate
+    price: $7
+    desc: Assorted house fermented vegetables.
 banners:
   - src: images/1.jpg
     title: Glasses
