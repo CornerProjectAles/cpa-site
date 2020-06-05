@@ -29,7 +29,7 @@ const IndexPage = ({data}) => {
 						</h2>
 					</div>
 					<div className="mt-10">
-						<a href="https://cornerprojectales.square.site/" className=" border-2 border-gray-200 px-5 py-2 text-xl font-bold hover:bg-gray-100" target="_blank" rel="norefferer">Order Now</a>
+						<a href="https://cornerprojectales.square.site/" className=" border-2 border-gray-200 px-5 py-2 text-xl font-bold hover:bg-gray-100" target="_blank" rel="noreferrer">Order Now</a>
 					</div>
 					<div className="mt-10" >
 						<ul className="flex justify-center items-center p-0" >
@@ -80,7 +80,7 @@ const IndexPage = ({data}) => {
 						)}
 					</div>
 					<div className="mt-16">
-						<a href="https://cornerprojectales.square.site/" className=" border-2 border-gray-600 px-5 py-2 text-xl font-bold text-gray-700 hover:bg-gray-100" target="_blank" rel="norefferer">Order Now</a>
+						<a href="https://cornerprojectales.square.site/" className=" border-2 border-gray-600 px-5 py-2 text-xl font-bold text-gray-700 hover:bg-gray-100" target="_blank" rel="noreferrer">Order Now</a>
 					</div>
 				</div>
 			</section>
@@ -192,6 +192,7 @@ export const query = graphql`
 					frontmatter {
 						title
 						desc
+						menutitle
 						social {
 							title
 							url
