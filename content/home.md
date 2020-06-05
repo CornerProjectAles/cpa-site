@@ -15,13 +15,8 @@ story: >-
 menu:
   - title: Meatloaf Sandwich
     price: $16
-    desc: Oakridge Angus beef. Stone Valley pork and house ground bacon. Wagon Wheel
-      cheese. Field greens. Charred red onion. Aioli on sliced Creekside Pullman
-      white bread. Served with a side green salad.
-  - title: Veggie Burger
-    price: $16
-    desc: Chic peas. Grilled Red H Farm cauliflower. Quinoa. Field greens. Jalapeño
-      kraut. Spicy mayo on Red Bird brioche. Served with a side green salad.
+    desc: Oakridge Angus beef. Stone Valley pork. Bacon. Charred Red Onion. Field
+      Greens. Aioli. Wagon Wheel Cheese. Red Bird Ciabatta. Side Salad.
   - title: Fermented Red Radish
     desc: An 8 ounce jar of house fermented red table radishes.
     price: $5
@@ -36,20 +31,16 @@ menu:
       ale has notes of citrus and pine and comes in at 5.7% ABV. Great for a
       warm day!
     price: $5
-  - title: Shick Faced 2017 Pinot Noir (Shick Family Wines)
-    desc: A heavy bodied Pinot Noir aged 20 months in 100% French oak barrels. 14.8%
-      ABV.
-    price: $60
-  - title: Zialena 2018 Sauvignon Blanc
-    desc: Zialena's third vintage of Sauvignon Blanc from the Redwood Ranch Vineyard
-      in the southern part of Alexander Valley. 14.3% ABV.
-    price: $25
   - title: Unisex Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
+  - title: Falafel Sandwich
+    price: $15
+    desc: Grilled Sourdough Flatbread. Chic peas. Chili. Herbs. House cultured
+      yogurt. Hummus. Salad greens. Pickles.
 banners:
   - src: images/1.jpg
     title: Glasses
