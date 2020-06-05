@@ -12,7 +12,7 @@ import { graphql } from 'gatsby'
 
 const IndexPage = ({data}) => {
 	const home = data.home.edges[0].node;
-	const stories = data.insta.edges;
+	// const stories = data.insta.edges;
 	return (
 		<Layout>
 			<SEO title="Home" />
@@ -91,7 +91,7 @@ const IndexPage = ({data}) => {
 					</div>
 				</div>
 			</section>
-			<section className="bg-gray-100 pt-32 pb-16">
+			{/* <section className="bg-gray-100 pt-32 pb-16">
 				<div className="container mx-auto relative">
 					<h2 className="font-serif text-4xl text-center mt-10 mb-12 uk-flex justify-center items-center">Follow us on Instagram</h2>
 					<div className="" data-uk-slider>
@@ -122,16 +122,10 @@ const IndexPage = ({data}) => {
 											</div>
 											<div className="p-5 hover:-m-12"><div className="desc">{story.node.caption}</div></div>
 										</a>
-										{/* <img src="https://digitalmarketing.blob.core.windows.net/10239/images/items/image475690.jpg" alt="" data-uk-cover /> */}
-										{/* {JSON.stringify(story)} */}
 									</li>
 								)}
 
 							</ul>
-						{/* <div className="uk-hidden@s uk-light">
-							<a className="uk-position-center-left uk-position-small" href="#" data-uk-slidenav-previous uk-slider-item="previous"></a>
-							<a className="uk-position-center-right uk-position-small" href="#" data-uk-slidenav-next uk-slider-item="next"></a>
-						</div> */}
 
 							
 						</div>
@@ -145,7 +139,7 @@ const IndexPage = ({data}) => {
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> */}
 			{/* <section className="py-16" data-uk-parallax="bgy: -200">
 				<div className="container mx-auto text-center">
 					<h2 className="font-sans w-4/5 text-3xl mx-auto tracking-wider font-serif">Corner Project offers a rotating list of local and house made craft beers along with a small menu of snacks and sandwiches</h2>
@@ -211,24 +205,6 @@ export const query = graphql`
 							title
 							desc
 							price
-						}
-					}
-				}
-			}
-		},
-		insta: allInstaNode {
-			edges {
-				node {
-					id
-					caption
-					comments
-					likes
-					timestamp
-					localFile {
-						childImageSharp {
-							fluid(maxHeight: 500, maxWidth: 500 quality: 50) {
-								...GatsbyImageSharpFluid_withWebp_tracedSVG
-							}
 						}
 					}
 				}
