@@ -17,6 +17,18 @@ menu:
     price: $16
     desc: Oakridge Angus beef. Stone Valley pork. Bacon. Charred Red Onion. Field
       Greens. Aioli. Wagon Wheel Cheese. Red Bird Ciabatta. Side Salad.
+  - title: Falafel Sandwich
+    price: $15
+    desc: Grilled Sourdough Flatbread. Chic peas. Chili. Herbs. House cultured
+      yogurt. Hummus. Salad greens. Pickles.
+  - title: Grilled Chicken Fattoush Salad
+    price: $15
+    desc: Wood Grilled Mary’s organic chicken leg. Red H Farm gem lettuces.
+      Fermented and raw radishes. Arugula. Scallions. Mint. Lemon sumac
+      vinaigrette. Pita chips.
+  - title: Pickle Plate
+    price: $7
+    desc: Assorted house fermented vegetables.
   - title: Fermented Red Radish
     desc: An 8 ounce jar of house fermented red table radishes.
     price: $5
@@ -37,18 +49,6 @@ menu:
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
-  - title: Falafel Sandwich
-    price: $15
-    desc: Grilled Sourdough Flatbread. Chic peas. Chili. Herbs. House cultured
-      yogurt. Hummus. Salad greens. Pickles.
-  - title: Grilled Chicken Fattoush Salad
-    price: $15
-    desc: Wood Grilled Mary’s organic chicken leg. Red H Farm gem lettuces.
-      Fermented and raw radishes. Arugula. Scallions. Mint. Lemon sumac
-      vinaigrette. Pita chips.
-  - title: Pickle Plate
-    price: $7
-    desc: Assorted house fermented vegetables.
 banners:
   - src: images/1.jpg
     title: Glasses
