@@ -16,10 +16,10 @@ menu:
   - title: Meatloaf Sandwich
     price: $16
     desc: Oakridge Angus beef. Stone Valley pork. Bacon. Charred Red Onion. Field
-      Greens. Aioli. Wagon Wheel Cheese. Red Bird Ciabatta. Side Salad.
+      greens. Aioli. Wagon Wheel cheese. Red Bird ciabatta. Side salad.
   - title: Falafel Sandwich
     price: $15
-    desc: Grilled Sourdough Flatbread. Chic peas. Chili. Herbs. House cultured
+    desc: Grilled sourdough flatbread. Chic peas. Chili. Herbs. House cultured
       yogurt. Hummus. Salad greens. Pickles.
   - title: Grilled Chicken Fattoush Salad
     price: $15
