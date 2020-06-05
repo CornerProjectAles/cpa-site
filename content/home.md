@@ -41,6 +41,11 @@ menu:
     price: $15
     desc: Grilled Sourdough Flatbread. Chic peas. Chili. Herbs. House cultured
       yogurt. Hummus. Salad greens. Pickles.
+  - title: Grilled Chicken Fattoush Salad
+    price: $15
+    desc: Wood Grilled Mary’s organic chicken leg. Red H Farm gem lettuces.
+      Fermented and raw radishes. Arugula. Scallions. Mint. Lemon sumac
+      vinaigrette. Pita chips.
 banners:
   - src: images/1.jpg
     title: Glasses
