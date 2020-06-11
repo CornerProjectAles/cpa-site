@@ -13,19 +13,18 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: Meatloaf Sandwich
+  - title: Duck Leg Sandwich
     price: $16
-    desc: Oakridge Angus beef. Stone Valley pork. Bacon. Charred Red Onion. Field
-      greens. Aioli. Wagon Wheel cheese. Red Bird ciabatta. Side salad.
-  - title: Falafel Sandwich
+    desc: Confit Duck Leg. Orange Marmalade. Field Greens. Sliced Creekside Pullman
+      White. Little Gem Side Salad.
+  - title: Tuna Melt
+    price: $16
+    desc: Bodega Bay Albacore. Dill Caper Mayo. Preserved Meyer Lemon. Wagon Wheel
+      Cheese. Grilled Creekside Pullman White. Little Gem Side Salad.
+  - title: Grilled Veggie Flatbread Sandwich
     price: $15
-    desc: Grilled sourdough flatbread. Chic peas. Chili. Herbs. House cultured
-      yogurt. Hummus. Salad greens. Pickles.
-  - title: Grilled Chicken Fattoush Salad
-    price: $15
-    desc: Wood Grilled Mary’s organic chicken leg. Red H Farm gem lettuces.
-      Fermented and raw radishes. Arugula. Scallions. Mint. Lemon sumac
-      vinaigrette. Pita chips.
+    desc: House-Made Sourdough Flatbread. Hummus. Costata Romanesco. Herbs. Olives &
+      Feta.
   - title: Pickle Plate
     price: $7
     desc: Assorted house fermented vegetables.
@@ -49,6 +48,9 @@ menu:
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
+  - title: Smoked Trout Mousse
+    price: $9
+    desc: McFarland Springs Rainbow Trout. Crostini. Pickles.
 banners:
   - src: images/1.jpg
     title: Glasses
