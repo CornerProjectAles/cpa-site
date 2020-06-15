@@ -28,6 +28,9 @@ menu:
   - title: Pickle Plate
     price: $7
     desc: Assorted house fermented vegetables.
+  - title: Smoked Trout Mousse
+    price: $9
+    desc: McFarland Springs Rainbow Trout. Crostini. Pickles.
   - title: Fermented Red Radish
     desc: An 8 ounce jar of house fermented red table radishes.
     price: $5
@@ -37,20 +40,12 @@ menu:
   - title: Chocolate Beer Brownie
     price: $6
     desc: Flourless chocolate brownie. Contains butter and gluten.
-  - title: Anthem Pale Ale 22 oz. bottle
-    desc: Anthem is a light bodied pale ale featuring Amarillo and Citra hops. This
-      ale has notes of citrus and pine and comes in at 5.7% ABV. Great for a
-      warm day!
-    price: $5
   - title: Unisex Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
-  - title: Smoked Trout Mousse
-    price: $9
-    desc: McFarland Springs Rainbow Trout. Crostini. Pickles.
 banners:
   - src: images/1.jpg
     title: Glasses
