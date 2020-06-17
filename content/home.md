@@ -28,6 +28,9 @@ menu:
   - title: Pickle Plate
     price: $7
     desc: Assorted house fermented vegetables.
+  - title: Hummus & Pita
+    price: $7
+    desc: House Fermented Sourdough Pita Baked Over Wood Coals.
   - title: Fermented Red Radish
     desc: An 8 ounce jar of house fermented red table radishes.
     price: $5
@@ -43,9 +46,6 @@ menu:
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
-  - title: Hummus & Pita
-    price: $7
-    desc: House Made Hummus. Baked Pita Wedges.
 banners:
   - src: images/1.jpg
     title: Glasses
