@@ -2,7 +2,7 @@
 title: Family run brew pub & eatery
 desc: We offer a rotating list of local and house made craft beers along with a
   small menu of snacks and sandwiches.
-menutitle: Our To-Go lunch menu for Friday, Saturday & Sunday, June 12th, 13th & 14th
+menutitle: Our To-Go lunch menu for Friday, Saturday & Sunday, June 19th, 20th & 21st
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -13,24 +13,24 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: Duck Leg Sandwich
+  - title: Smoked Pork Sandwich
     price: $16
-    desc: Confit Duck Leg. Orange Marmalade. Field Greens. Sliced Creekside Pullman
-      White. Little Gem Side Salad.
-  - title: Tuna Melt
-    price: $16
-    desc: Bodega Bay Albacore. Dill Caper Mayo. Preserved Meyer Lemon. Wagon Wheel
-      Cheese. Grilled Creekside Pullman White. Little Gem Side Salad.
+    desc: Smoked Stone Valley Pork Butt. Orange Marmalade. Arugula. Aleppo Mayo on
+      Sliced Creekside Bakery Pullman White Bread. Butter Lettuce Side Salad.
   - title: Grilled Veggie Flatbread Sandwich
     price: $15
     desc: House-Made Sourdough Flatbread. Hummus. Costata Romanesco. Herbs. Olives &
       Feta.
+  - desc: Mary’s Organic Chicken Leg. Kale. Butter Hearts. Red Cabbage. Young
+      Carrots. Breadcrumbs.
+    title: Grilled Chicken Caesar Salad
+    price: $16
   - title: Pickle Plate
     price: $7
     desc: Assorted house fermented vegetables.
-  - title: Smoked Trout Mousse
-    price: $9
-    desc: McFarland Springs Rainbow Trout. Crostini. Pickles.
+  - title: Hummus & Pita
+    price: $7
+    desc: House Fermented Sourdough Pita Baked Over Wood Coals.
   - title: Fermented Red Radish
     desc: An 8 ounce jar of house fermented red table radishes.
     price: $5
