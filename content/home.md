@@ -30,7 +30,7 @@ menu:
     desc: Assorted house fermented vegetables.
   - title: Hummus & Pita
     price: $7
-    desc: House Fermented Sourdough Pita Baked Over Wood Coals.
+    desc: House-Fermented Sourdough Pita Baked Over Wood Coals.
   - title: Fermented Red Radish
     desc: An 8 ounce jar of house fermented red table radishes.
     price: $5
