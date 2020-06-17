@@ -13,7 +13,7 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: Pulled Pork Sandwich
+  - title: Smoked Pork Sandwich
     price: $16
     desc: Smoked Stone Valley Pork Butt. Orange Marmalade. Arugula. Aleppo Mayo on
       Sliced Creekside Bakery Pullman White Bread. Butter Lettuce Side Salad.
