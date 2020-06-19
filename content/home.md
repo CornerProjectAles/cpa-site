@@ -14,7 +14,7 @@ story: >-
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
   - title: Smoked Pork Sandwich
-    price: $16
+    price: $17
     desc: Smoked Stone Valley Pork Butt. Orange Marmalade. Arugula. Aleppo Mayo on
       Sliced Creekside Bakery Pullman White Bread. Butter Lettuce Side Salad.
   - title: Grilled Veggie Flatbread Sandwich
@@ -30,7 +30,7 @@ menu:
     desc: Assorted house fermented vegetables.
   - title: Hummus & Pita
     price: $7
-    desc: House Fermented Sourdough Pita Baked Over Wood Coals.
+    desc: House-Fermented Sourdough Pita Baked Over Wood Coals.
   - title: Fermented Red Radish
     desc: An 8 ounce jar of house fermented red table radishes.
     price: $5
