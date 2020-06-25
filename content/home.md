@@ -13,7 +13,7 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: The CP Burger
+  - title: The CP Patty Melt
     price: $17
     desc: Oakridge Angus Beef. Stone Valley Pork. Bacon. Charred Red Onion. Arugula.
       Aioli. Wagon Wheel Cheese. Red Bird Ciabatta. Butter Lettuce Side Salad.
