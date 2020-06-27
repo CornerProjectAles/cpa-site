@@ -16,7 +16,8 @@ menu:
   - title: The Meatloaf Sandwich
     price: $17
     desc: Oakridge Angus Beef. Stone Valley Pork. Bacon. Charred Red Onion. Arugula.
-      Aioli. Wagon Wheel Cheese. Red Bird Ciabatta. Butter Lettuce Side Salad.
+      Aioli. Wagon Wheel Cheese. Creekside Pullman White. Butter Lettuce Side
+      Salad.
   - title: Grilled Veggie Flatbread Sandwich
     price: $15
     desc: House-Made Sourdough Flatbread. Hummus. Grilled Summer Squash. Arugula.
