@@ -2,7 +2,7 @@
 title: Family run brew pub & eatery
 desc: We offer a rotating list of local and house made craft beers along with a
   small menu of snacks and sandwiches.
-menutitle: Our To-Go lunch menu for Friday, Saturday & Sunday, June 26th, 27th & 28th
+menutitle: Our To-Go lunch menu for Thursday, Friday & Sunday, July 2nd, 3rd & 5th
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -16,20 +16,21 @@ menu:
   - title: The Meatloaf Sandwich
     price: $17
     desc: Oakridge Angus Beef. Stone Valley Pork. Bacon. Charred Red Onion. Arugula.
-      Aioli. Wagon Wheel Cheese. Creekside Pullman White. Butter Lettuce Side
-      Salad.
-  - title: Grilled Veggie Flatbread Sandwich
+      Aioli. Wagon Wheel Cheese. Red Bird Ciabatta. Butter Lettuce Side Salad.
+  - title: Beer Brat
+    price: $14
+    desc: Beer Braised Bratwurst. Mustard. Turmeric Sauerkraut. Fermented Jalapeno.
+  - desc: Mary’s Organic Chicken. Russian River Organics Farm Gems. Avocado.
+      Tarragon. Young Carrot. Red Cabbage. Radish. Crunchy Blended Bread.
+    title: Little Gem Chicken Goddess
     price: $15
-    desc: House-Made Sourdough Flatbread. Hummus. Grilled Summer Squash. Arugula.
-      Olive & Sumac Feta Salad.
-  - desc: Mary’s Organic Chicken. Kale. Butter Lettuce Hearts. Red Cabbage. Carrots.
-      Parmesan-Herbed Breadcrumbs
-    title: Grilled Chicken Caesar Salad
-    price: $16
+  - title: Pork Rillette
+    price: $9
+    desc: W/ Crostini & Pickles
   - title: Pickle Plate
     price: $7
     desc: Assorted house fermented vegetables.
-  - title: Hummus & Pita
+  - title: Hummus, Pita & Pickles
     price: $7
     desc: House-Fermented Sourdough Pita Baked Over Wood Coals.
   - title: Fermented Red Radish
