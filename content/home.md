@@ -20,10 +20,6 @@ menu:
   - title: Beer Brat
     price: $14
     desc: Beer Braised Bratwurst. Mustard. Turmeric Sauerkraut. Fermented Jalapeño.
-  - desc: Mary’s Organic Chicken. Russian River Organics Farm Gems. Avocado.
-      Tarragon. Young Carrot. Red Cabbage. Radish. Crunchy Blended Bread.
-    title: Little Gem Chicken Goddess
-    price: $15
   - title: Pork Rillette
     price: $9
     desc: W/ Crostini & Pickles
