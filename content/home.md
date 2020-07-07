@@ -13,32 +13,25 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: The Meatloaf Sandwich
+  - title: The Geyserville Cheesesteak
     price: $17
-    desc: Oakridge Angus Beef. Stone Valley Pork. Bacon. Charred Red Onion. Arugula.
-      Aioli. Wagon Wheel Cheese. Red Bird Ciabatta. Butter Lettuce Side Salad.
-  - title: Beer Brat
-    price: $14
-    desc: Beer Braised Bratwurst. Mustard. Turmeric Sauerkraut. Fermented Jalapeño.
-  - title: Little Gems Grilled Chicken Salad
+    desc: Grilled Oakridge Angus Bavette Steak. Charred Red Onion. Fermented
+      Jalapeño. Wagon Wheel Cheese. Red Bird Ciabatta. Little Gems Side Salad.
+  - title: Pork Sausage Sub
     price: $15
-    desc: Mary’s Organic Chicken. Russian River Organics Farm Gems. Avocado.
-      Tarragon. Young Carrot. Red Cabbage. Radish. Goddess Dressing. Croutons.
+    desc: Stone Valley Pork. Stone Ground Mustard. Turmeric Sauerkraut. Fennel.
+      Baguette. Arugula Side Salad.
+  - title: Little Gem Salad W/ Green Goddess
+    price: $12
+    desc: Russian River Organics Little Gems. Avocado. Tarragon. Pepitas. Watermelon
+      Radish. Carrot. Red Cabbage. Herbed Breadcrumbs. **Add Smoked Mary’s
+      Organic Chicken $3.**
   - title: Pork Rillette
     price: $9
     desc: W/ Crostini & Pickles
   - title: Pickle Plate
     price: $7
     desc: Assorted house fermented vegetables.
-  - title: Hummus, Pita & Pickles
-    price: $7
-    desc: House-Fermented Sourdough Pita Baked Over Wood Coals.
-  - title: Fermented Red Radish
-    desc: An 8 ounce jar of house fermented red table radishes.
-    price: $5
-  - title: Jalapeño Sauerkraut
-    desc: An 8 ounce jar of house fermented green cabbage and jalapeño.
-    price: $5
   - title: Chocolate Beer Brownie
     price: $6
     desc: Flourless chocolate brownie. Contains butter and gluten.
