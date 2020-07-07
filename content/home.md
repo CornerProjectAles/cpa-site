@@ -2,7 +2,7 @@
 title: Family run brew pub & eatery
 desc: We offer a rotating list of local and house made craft beers along with a
   small menu of snacks and sandwiches.
-menutitle: Our To-Go lunch menu for Thursday, Friday & Sunday, July 2nd, 3rd & 5th
+menutitle: Our To-Go lunch menu for Thursday-Sunday, July 9th-12th
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
