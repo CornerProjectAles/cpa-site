@@ -26,6 +26,10 @@ menu:
     desc: Russian River Organics Little Gems. Avocado. Tarragon. Pepitas. Watermelon
       Radish. Carrot. Red Cabbage. Herbed Breadcrumbs. **Add Smoked Mary’s
       Organic Chicken $3.**
+  - desc: Wood Fire Roasted Eggplant. Smoked Espelette. Sourdough Pita. Fermented
+      Cherry Bell Radish.
+    price: $8
+    title: Baba Ghanouj W/ House Pita & Pickles
   - title: Pork Rillette
     price: $9
     desc: W/ Crostini & Pickles
