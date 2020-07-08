@@ -25,7 +25,7 @@ menu:
     price: $12
     desc: Russian River Organics Little Gems. Avocado. Tarragon. Pepitas. Watermelon
       Radish. Carrot. Red Cabbage. Herbed Breadcrumbs. **Add Smoked Mary’s
-      Organic Chicken $3.**
+      Organic Chicken $4.**
   - desc: Wood Fire Roasted Eggplant. Smoked Espelette. Sourdough Pita. Fermented
       Cherry Bell Radish.
     price: $8
