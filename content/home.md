@@ -22,13 +22,15 @@ menu:
     desc: Stone Valley Pork. Stone Ground Mustard. Turmeric Sauerkraut. Fennel.
       Baguette. Arugula Side Salad.
   - title: Little Gem Salad W/ Green Goddess
-    price: $12
+    price: $14
     desc: >-
       Russian River Organics Little Gems. Avocado. Tarragon. Pepitas. Watermelon
       Radish. Carrot. Red Cabbage. Herbed Breadcrumbs.
 
 
-      **Add Smoked Mary’s Organic Chicken $5.**
+
+
+      **Add Smoked Mary’s Organic Chicken $3.**
   - desc: Wood Fire Roasted Eggplant. Smoked Espelette. Sourdough Pita. Fermented
       Cherry Bell Radish.
     price: $8
