@@ -20,7 +20,7 @@ menu:
   - title: Pork Sausage Sub
     price: $16
     desc: Stone Valley Pork Sausage. Pork Pâté. Stone Ground Mustard. Turmeric
-      Sauerkraut. Pickled Fennel. Baguette. Arugula Side Salad.
+      Sauerkraut. Pickled Fennel. Creekside Bakery Milk Bun. Arugula Side Salad.
   - title: Gem Salad
     price: $14
     desc: >-
