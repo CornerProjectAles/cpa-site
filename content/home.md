@@ -13,36 +13,39 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: The Geyserville Cheesesteak
+  - title: The Reuben
     price: $17
-    desc: Grilled Oakridge Angus Bavette Steak. Charred Red Onion. Fermented
-      Jalapeño. Wagon Wheel Cheese. Red Bird Ciabatta. Little Gems Side Salad.
+    desc: Corned Oakridge Angus Brisket. Russian Dressing. Wagon Wheel Cheese.
+      Sauerkraut. Creekside Bakery Marbled Rye. Little Gems Side Salad.
   - title: Pork Sausage Sub
-    price: $15
-    desc: Stone Valley Pork. Stone Ground Mustard. Turmeric Sauerkraut. Fennel.
-      Baguette. Arugula Side Salad.
-  - title: Little Gem Salad W/ Green Goddess
+    price: $16
+    desc: Stone Valley Pork Sausage. Pork Pate. Stone Ground Mustard. Turmeric
+      Sauerkraut. Pickled Fennel. Baguette. Arugula Side Salad.
+  - title: Gem Salad
     price: $14
     desc: >-
-      Russian River Organics Little Gems. Avocado. Tarragon. Pepitas. Watermelon
-      Radish. Carrot. Red Cabbage. Herbed Breadcrumbs.
+      Bernier Farms Little Gems. Chiogga Beets. Shaved Baby Carrots. Armenian
+      Cucumber. Pumpkin Seeds. Breadcrumbs. Yogurt. Tahini Sumac Vinaigrette.
 
 
-
+      \
 
       **Add Smoked Mary’s Organic Chicken $3.**
   - desc: Wood Fire Roasted Eggplant. Smoked Espelette. Sourdough Pita. Fermented
       Cherry Bell Radish.
     price: $8
     title: Baba Ghanouj W/ House Pita & Pickles
+  - title: Deviled Eggs
+    price: $8
+    desc: Organic Egg. Mustard. Dried Espelette. Smoked Espelette Vinegar. Tarragon.
   - title: Pork Rillette
     price: $9
     desc: W/ Crostini & Pickles
   - title: Pickle Plate
     price: $7
     desc: Assorted house fermented vegetables.
-  - title: Chocolate Beer Brownie
-    price: $6
+  - title: Chocolate Beer Brownie & Whipped Cream
+    price: $7
     desc: Flourless chocolate brownie. Contains butter and gluten.
   - title: Unisex Shirt
     desc: Black tee with Corner Project logo on the chest.
