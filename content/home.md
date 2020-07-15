@@ -2,7 +2,7 @@
 title: Family run brew pub & eatery
 desc: We offer a rotating list of local and house made craft beers along with a
   small menu of snacks and sandwiches.
-menutitle: Our To-Go lunch menu for Thursday-Sunday, July 9th-12th
+menutitle: Our To-Go lunch menu for Thursday-Sunday, July 16th-19th
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -19,7 +19,7 @@ menu:
       Sauerkraut. Creekside Bakery Marbled Rye. Little Gems Side Salad.
   - title: Pork Sausage Sub
     price: $16
-    desc: Stone Valley Pork Sausage. Pork Pate. Stone Ground Mustard. Turmeric
+    desc: Stone Valley Pork Sausage. Pork Pâté. Stone Ground Mustard. Turmeric
       Sauerkraut. Pickled Fennel. Baguette. Arugula Side Salad.
   - title: Gem Salad
     price: $14
@@ -46,7 +46,7 @@ menu:
     desc: Assorted house fermented vegetables.
   - title: Chocolate Beer Brownie & Whipped Cream
     price: $7
-    desc: Flourless chocolate brownie. Contains butter and gluten.
+    desc: Flourless Chocolate Brownie. Contains Butter And Gluten.
   - title: Unisex Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
