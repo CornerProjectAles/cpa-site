@@ -46,7 +46,7 @@ menu:
     desc: Assorted house fermented vegetables.
   - title: Chocolate Beer Brownie & Whipped Cream
     price: $7
-    desc: Flourless chocolate brownie. Contains butter and gluten.
+    desc: Flourless Chocolate Brownie. Contains Butter And Gluten.
   - title: Unisex Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
