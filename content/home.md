@@ -24,8 +24,9 @@ menu:
   - title: Gem Salad
     price: $14
     desc: >-
-      Bernier Farms Little Gems. Chiogga Beets. Shaved Baby Carrots. Armenian
-      Cucumber. Pumpkin Seeds. Breadcrumbs. Yogurt. Tahini Sumac Vinaigrette.
+      Bernier Farms Little Gems. Avocado. Chiogga Beets. Shaved Baby Carrots.
+      Armenian Cucumber. Pumpkin Seeds. Breadcrumbs. Yogurt. Tahini Sumac
+      Vinaigrette.
 
 
       \
