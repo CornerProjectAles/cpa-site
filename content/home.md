@@ -61,6 +61,9 @@ menu:
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
+  - title: Wood-Grilled Padron Peppers
+    price: $5
+    desc: Blistered Padron Peppers. Olive Oil. Salt. Lemon.
 banners:
   - src: images/1.jpg
     title: Glasses
