@@ -17,10 +17,17 @@ menu:
     price: $17
     desc: Corned Oakridge Angus Brisket. Russian Dressing. Wagon Wheel Cheese.
       Sauerkraut. Creekside Bakery Marbled Rye. Little Gems Side Salad.
+  - title: The Patty Melt
+    price: $17
+    desc: Ground Beef. Ground Bacon. Charred Red Onion. Cheese. Aioli. Marble Rye.
   - title: Pork Sausage Sub
     price: $16
     desc: Stone Valley Pork Sausage. Pork Pâté. Stone Ground Mustard. Turmeric
       Sauerkraut. Pickled Fennel. Creekside Bakery Milk Bun. Arugula Side Salad.
+  - title: Grilled Veggie Sandwich
+    price: $15
+    desc: Grilled Cauliflower. Charred Red Onion. Wagon Wheel Cheese. Aioli. Marble
+      Rye.
   - title: Gem Salad
     price: $14
     desc: >-
