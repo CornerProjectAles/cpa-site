@@ -26,8 +26,8 @@ menu:
       Sauerkraut. Pickled Fennel. Creekside Bakery Milk Bun. Arugula Side Salad.
   - title: Grilled Veggie Sandwich
     price: $15
-    desc: Grilled Cauliflower. Charred Red Onion. Wagon Wheel Cheese. Aioli. Marble
-      Rye.
+    desc: Grilled Cauliflower. Charred Red Onion. Padron Peppers. Wagon Wheel
+      Cheese. Aioli. Marble Rye.
   - title: Gem Salad
     price: $14
     desc: >-
