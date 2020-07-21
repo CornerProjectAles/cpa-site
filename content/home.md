@@ -23,17 +23,9 @@ menu:
       Sauerkraut. Pickled Fennel. Creekside Bakery Milk Bun. Arugula Side Salad.
   - title: Gem Salad
     price: $14
-    desc: >-
-      Bernier Farms Little Gems. Avocado. Chiogga Beets. Shaved Baby Carrots.
+    desc: Bernier Farms Little Gems. Avocado. Chiogga Beets. Shaved Baby Carrots.
       Red Cabbage. Armenian Cucumber. Breadcrumbs. Yogurt. Tahini Sumac
-      Vinaigrette.
-
-
-      \
-
-      \
-
-      **Add Smoked Mary’s Organic Chicken $3.**
+      Vinaigrette. Add Smoked Mary’s Organic Chicken $3.
   - desc: Wood Fire Roasted Eggplant. Smoked Espelette. Sourdough Pita. Fermented
       Cherry Bell Radish.
     price: $8
