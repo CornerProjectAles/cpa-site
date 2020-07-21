@@ -13,28 +13,23 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: The Reuben
+  - title: Meatball Sandwich
     price: $17
-    desc: Corned Oakridge Angus Brisket. Russian Dressing. Wagon Wheel Cheese.
-      Sauerkraut. Creekside Bakery Marbled Rye. Little Gems Side Salad.
-  - title: The Patty Melt
-    price: $17
-    desc: Ground Beef. Ground Bacon. Charred Red Onion. Cheese. Aioli. Marble Rye.
-  - title: Pork Sausage Sub
-    price: $16
-    desc: Stone Valley Pork Sausage. Pork Pâté. Stone Ground Mustard. Turmeric
-      Sauerkraut. Pickled Fennel. Creekside Bakery Milk Bun. Arugula Side Salad.
+    desc: Oakridge Angus Beef. Stone Valley Pork. Basil Arugula Pesto. Marinara.
+      Pecorino. Wagon Wheel Cheese. Greens. Red Bird Ciabatta.
   - title: Grilled Veggie Sandwich
     price: $15
-    desc: Grilled Cauliflower. Charred Red Onion. Padron Peppers. Wagon Wheel
-      Cheese. Aioli. Marble Rye.
+    desc: Stone Valley Pork Sausage. Pork Pâté. Stone Ground Mustard. Turmeric
+      Sauerkraut. Pickled Fennel. Creekside Bakery Milk Bun. Arugula Side Salad.
   - title: Gem Salad
     price: $14
     desc: >-
       Bernier Farms Little Gems. Avocado. Chiogga Beets. Shaved Baby Carrots.
-      Armenian Cucumber. Pumpkin Seeds. Breadcrumbs. Yogurt. Tahini Sumac
+      Red Cabbage. Armenian Cucumber. Breadcrumbs. Yogurt. Tahini Sumac
       Vinaigrette.
 
+
+      \
 
       \
 
@@ -46,9 +41,9 @@ menu:
   - title: Deviled Eggs
     price: $8
     desc: Organic Egg. Mustard. Dried Espelette. Smoked Espelette Vinegar. Tarragon.
-  - title: Pork Rillette
-    price: $9
-    desc: W/ Crostini & Pickles
+  - title: Padron Peppers
+    price: $5
+    desc: Blistered Padron Peppers. Olive Oil. Salt. Lemon.
   - title: Pickle Plate
     price: $7
     desc: Assorted house fermented vegetables.
@@ -61,9 +56,6 @@ menu:
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
-  - title: Wood-Grilled Padron Peppers
-    price: $5
-    desc: Blistered Padron Peppers. Olive Oil. Salt. Lemon.
 banners:
   - src: images/1.jpg
     title: Glasses
