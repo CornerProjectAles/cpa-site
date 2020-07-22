@@ -35,7 +35,7 @@ menu:
     desc: Organic Egg. Mustard. Smoked Espelette. Tarragon.
   - title: Padron Peppers
     price: $5
-    desc: Blistered Padron Peppers. Olive Oil. Salt. Lemon.
+    desc: Wood Grilled Padrons. Olive Oil. Lemon. Espelette Vinegar.
   - title: Pickle Plate
     price: $7
     desc: Assorted house fermented vegetables.
