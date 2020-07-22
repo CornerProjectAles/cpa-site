@@ -30,7 +30,7 @@ menu:
       Cherry Bell Radish.
     price: $8
     title: Baba Ghanouj W/ House Pita & Pickles
-  - title: Deviled Eggs
+  - title: Deviled Eggs (4)
     price: $9
     desc: Organic Egg. Mustard. Smoked Espelette. Tarragon.
   - title: Padron Peppers
