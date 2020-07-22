@@ -19,8 +19,8 @@ menu:
       Pecorino. Wagon Wheel Cheese. Greens. Red Bird Ciabatta.
   - title: Grilled Veggie Sandwich
     price: $15
-    desc: Stone Valley Pork Sausage. Pork Pâté. Stone Ground Mustard. Turmeric
-      Sauerkraut. Pickled Fennel. Creekside Bakery Milk Bun. Arugula Side Salad.
+    desc: Grilled and Marinated Red H Farm Cauliflower. Charred Red Onion. Aleppo
+      Mayo. Arugula. Pickled Fennel. Wagon Wheel Cheese. Red Bird Ciabatta.
   - title: Gem Salad
     price: $14
     desc: Bernier Farms Little Gems. Avocado. Chiogga Beets. Shaved Baby Carrots.
