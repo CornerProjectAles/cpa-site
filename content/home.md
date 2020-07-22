@@ -26,13 +26,13 @@ menu:
     desc: Bernier Farms Little Gems. Avocado. Chiogga Beets. Shaved Baby Carrots.
       Red Cabbage. Armenian Cucumber. Breadcrumbs. Yogurt. Tahini Sumac
       Vinaigrette. Add Smoked Mary’s Organic Chicken $3.
-  - desc: Wood Fire Roasted Eggplant. Smoked Espelette. Sourdough Pita. Fermented
+  - desc: Coal Roasted Eggplant. Smoked Paprika. Sourdough Pita. Olives. Fermented
       Cherry Bell Radish.
     price: $8
     title: Baba Ghanouj W/ House Pita & Pickles
   - title: Deviled Eggs
-    price: $8
-    desc: Organic Egg. Mustard. Dried Espelette. Smoked Espelette Vinegar. Tarragon.
+    price: $9
+    desc: Organic Egg. Mustard. Smoked Espelette. Tarragon.
   - title: Padron Peppers
     price: $5
     desc: Blistered Padron Peppers. Olive Oil. Salt. Lemon.
