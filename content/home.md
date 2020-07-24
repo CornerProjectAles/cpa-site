@@ -48,6 +48,9 @@ menu:
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
+  - title: Summer Tomato Salad
+    price: $8
+    desc: Heirloom Tomatoes. Cucumber. Feta. Mint. Shallot Vinaigrette.
 banners:
   - src: images/1.jpg
     title: Glasses
