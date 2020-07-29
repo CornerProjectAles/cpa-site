@@ -13,19 +13,28 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
+  - title: Pork Shoulder & Grilled Peach Sandwich
+    price: $17
+    desc: Smoked Stone Valley Pork Butt. Dry Creek Peaches. Arugula. Red Bird
+      Ciabatta. Choice of Side Potato Salad or Gem Salad.
   - title: Meatball Sandwich
     price: $17
     desc: Oakridge Angus Beef. Stone Valley Pork. Basil Arugula Pesto. Marinara.
-      Pecorino. Wagon Wheel Cheese. Greens. Red Bird Ciabatta.
+      Pecorino. Wagon Wheel Cheese. Greens. Red Bird Ciabatta. Choice of Side
+      Potato Salad or Gem Salad.
   - title: Grilled Veggie Sandwich
     price: $15
-    desc: Grilled and Marinated Red H Farm Cauliflower. Charred Red Onion. Aleppo
-      Mayo. Arugula. Pickled Fennel. Wagon Wheel Cheese. Red Bird Ciabatta.
-  - title: Gem Salad
+    desc: Grilled and Marinated Red H Farm Cauliflower. Charred Red Onion. Padron
+      Peppers. Aleppo Mayo. Arugula. Jalapeno Kraut. Wagon Wheel Cheese. Served
+      On Creekside Marble Rye. Choice of Side Potato Salad or Gem Salad.
+  - title: Gem Salad With Black Beans and Grilled Corn
     price: $14
-    desc: Bernier Farms Little Gems. Avocado. Chiogga Beets. Shaved Baby Carrots.
-      Red Cabbage. Armenian Cucumber. Breadcrumbs. Yogurt. Tahini Sumac
-      Vinaigrette. Add Smoked Mary’s Organic Chicken $3.
+    desc: Bernier Farms Little Gems and Corn. Black Beans. Avocado. Red Cabbage.
+      Shaved Carrots. Armenian Cucumber. Chiogga Beets. Creamy Cilantro
+      Dressing. Add Smoked Chicken $3
+  - title: Summer Tomato Salad
+    price: $9
+    desc: Heirloom Tomatoes. Feta Cheese. Mint. Shallot. Red Wine Vinaigrette.
   - desc: Coal Roasted Eggplant. Smoked Paprika. Sourdough Pita. Olives. Fermented
       Cherry Bell Radish.
     price: $8
@@ -33,9 +42,6 @@ menu:
   - title: Deviled Eggs (4)
     price: $9
     desc: Organic Egg. Mustard. Smoked Espelette. Tarragon.
-  - title: Padron Peppers
-    price: $5
-    desc: Wood Grilled Padrons. Olive Oil. Lemon. Espelette Vinegar.
   - title: Pickle Plate
     price: $7
     desc: Assorted house fermented vegetables.
@@ -48,9 +54,6 @@ menu:
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
-  - title: Summer Tomato Salad
-    price: $8
-    desc: Heirloom Tomatoes. Cucumber. Feta. Mint. Shallot Vinaigrette.
 banners:
   - src: images/1.jpg
     title: Glasses
