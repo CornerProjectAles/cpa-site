@@ -34,7 +34,8 @@ menu:
       Add Smoked Chicken $3
   - title: Summer Tomato Salad
     price: $9
-    desc: Heirloom Tomatoes. Feta Cheese. Mint. Shallot. Red Wine Vinaigrette.
+    desc: Heirloom Tomatoes. Cucumber. Feta Cheese. Mint. Shallot. Red Wine
+      Vinaigrette.
   - desc: Coal Roasted Eggplant. Smoked Paprika. Sourdough Pita. Olives. Fermented
       Cherry Bell Radish.
     price: $8
