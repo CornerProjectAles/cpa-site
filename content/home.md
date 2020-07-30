@@ -25,13 +25,13 @@ menu:
   - title: Grilled Veggie Sandwich
     price: $15
     desc: Grilled and Marinated Red H Farm Cauliflower. Charred Red Onion. Padron
-      Peppers. Aleppo Mayo. Arugula. Jalapeno Kraut. Wagon Wheel Cheese. Served
+      Peppers. Aleppo Mayo. Arugula. Turmeric Kraut. Wagon Wheel Cheese. Served
       On Creekside Marble Rye. Choice of Side Potato Salad or Gem Salad.
   - title: Gem Salad With Black Beans and Grilled Corn
     price: $14
     desc: Bernier Farms Little Gems and Corn. Black Beans. Avocado. Red Cabbage.
-      Shaved Carrots. Armenian Cucumber. Chiogga Beets. Creamy Cilantro
-      Dressing. Add Smoked Chicken $3
+      Shaved Carrots. Watermelon Radish. Pepitas. Creamy Cilantro Dressing. Add
+      Smoked Chicken $3
   - title: Summer Tomato Salad
     price: $9
     desc: Heirloom Tomatoes. Feta Cheese. Mint. Shallot. Red Wine Vinaigrette.
