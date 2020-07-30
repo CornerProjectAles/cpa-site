@@ -30,7 +30,7 @@ menu:
   - title: Gem Salad With Black Beans and Grilled Corn
     price: $14
     desc: Bernier Farms Little Gems and Corn. Black Beans. Avocado. Red Cabbage.
-      Shaved Carrots. Watermelon Radish. Pepitas. Creamy Lime Cilantro Dressing.
+      Shaved Carrots. Watermelon Radish. Pepitas. Creamy Cilantro Lime Dressing.
       Add Smoked Chicken $3
   - title: Summer Tomato Salad
     price: $9
