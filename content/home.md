@@ -32,7 +32,6 @@ menu:
     price: $14
     desc: Bernier Farms Little Gems and Corn. Black Beans. Avocado. Red Cabbage.
       Shaved Carrots. Watermelon Radish. Pepitas. Creamy Cilantro Lime Dressing.
-      Add Smoked Chicken $3
   - title: Summer Tomato Salad
     price: $9
     desc: Heirloom Tomatoes. Cucumber. Feta Cheese. Mint. Shallot. Red Wine
