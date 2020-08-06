@@ -14,38 +14,31 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: Pork Shoulder & Grilled Peach Sandwich
+  - title: The Geyserville Cheesesteak
     price: $17
-    desc: Smoked Stone Valley Pork Butt. Dry Creek Peaches. Arugula. Red Bird
-      Ciabatta. Choice of Side Potato Salad or Gem Salad.
-  - title: Meatball Sandwich
-    price: $17
-    desc: Oakridge Angus Beef. Stone Valley Pork. Basil Arugula Pesto. Marinara.
-      Pecorino. Wagon Wheel Cheese. Greens. Red Bird Ciabatta. Choice of Side
-      Potato Salad or Gem Salad.
-  - title: Grilled Veggie Sandwich
-    price: $15
-    desc: Grilled and Marinated Red H Farm Cauliflower. Charred Red Onion. Padron
-      Peppers. Aleppo Mayo. Arugula. Turmeric Kraut. Wagon Wheel Cheese. Served
-      On Creekside Marble Rye. Choice of Side Potato Salad or Gem Salad.
-  - title: Gem Salad With Black Beans and Grilled Corn
+    desc: Grilled Oakridge Angus Bavette Steak. Grilled Red Onion. Fermented Padron
+      Peppers. Espelette Mayo. Wagon Wheel Cheese. Red Bird Ciabatta. Choice of
+      Gem Side Salad or Potato Salad.
+  - title: Little Gem Salad W/ Green Goddess
     price: $14
-    desc: Bernier Farms Little Gems and Corn. Black Beans. Avocado. Red Cabbage.
-      Shaved Carrots. Watermelon Radish. Pepitas. Creamy Cilantro Lime Dressing.
+    desc: Bernier Farms Little Gems. Avocado. Tarragon. Pepitas. Watermelon Radish.
+      Carrot. Red Cabbage. Herbed Breadcrumbs. Add Smoked King Salmon $5.
+  - title: Chilled Corn Chowder
+    price: $7
+    desc: Bernier Farms Corn. Thyme. Fresh Cream and Chives.
+  - title: Cold Pasta Salad
+    price: $9
+    desc: Grilled and Marinated Cauliflower. Fregola Sardo. Chic Peas. Charred Red
+      Onion. Parsley. Capers. Garlic-Anchovy Vinaigrette.
   - title: Summer Tomato Salad
     price: $9
-    desc: Heirloom Tomatoes. Cucumber. Feta Cheese. Mint. Shallot. Red Wine
-      Vinaigrette.
-  - desc: Coal Roasted Eggplant. Smoked Paprika. Sourdough Pita. Olives. Fermented
-      Cherry Bell Radish.
-    price: $8
-    title: Baba Ghanouj W/ House Pita & Pickles
+    desc: Heirloom Tomatoes. Feta Cheese. Mint. Shallot-Sumac Vinaigrette.
   - title: Deviled Eggs (4)
     price: $9
     desc: Organic Egg. Mustard. Smoked Espelette. Tarragon.
   - title: Pickle Plate
     price: $7
-    desc: Assorted house fermented vegetables.
+    desc: Organic Egg. Pepper Brine. Smoked Espelette. Tarragon.
   - title: Chocolate Beer Brownie & Whipped Cream
     price: $7
     desc: Flourless Chocolate Brownie. Contains Butter And Gluten.
