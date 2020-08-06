@@ -19,6 +19,16 @@ menu:
     desc: Grilled Oakridge Angus Bavette Steak. Grilled Red Onion. Fermented Padron
       Peppers. Espelette Mayo. Wagon Wheel Cheese. Red Bird Ciabatta. Choice of
       Gem Side Salad or Potato Salad.
+  - title: BLT
+    price: $14
+    desc: Maplewood Bacon. Butter Lettuce. Heirloom Tomato. Fermented Green Tomato.
+      Garlic Aioli. Sliced Country White Bread. Choice of Gem Side Salad or
+      Potato Salad.
+  - title: CuLT
+    price: $12
+    desc: Lantern Farm Serpentine Cucumber. Butter Lettuce. Heirloom Tomato.
+      Fermented Green Tomato. Garlic Aioli. Sliced Country White Bread. Choice
+      of Gem Side Salad or Potato Salad.
   - title: Little Gem Salad W/ Green Goddess
     price: $14
     desc: Bernier Farms Little Gems. Avocado. Tarragon. Pepitas. Watermelon Radish.
