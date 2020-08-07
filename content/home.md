@@ -20,7 +20,7 @@ menu:
       Peppers. Espelette Mayo. Wagon Wheel Cheese. Red Bird Ciabatta. Choice of
       Gem Side Salad or Potato Salad.
   - title: BLT
-    price: $14
+    price: $15
     desc: Maplewood Bacon. Butter Lettuce. Heirloom Tomato. Fermented Green Tomato.
       Garlic Aioli. Sliced Country White Bread. Choice of Gem Side Salad or
       Potato Salad.
