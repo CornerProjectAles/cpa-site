@@ -22,8 +22,8 @@ menu:
   - title: BLT
     price: $15
     desc: Maplewood Bacon. Butter Lettuce. Heirloom Tomato. Fermented Green Tomato.
-      Garlic Aioli. Sliced Country White Bread. Choice of Gem Side Salad or
-      Potato Salad.
+      Garlic Aioli. Toasted Sliced Country White Bread. Choice of Gem Side Salad
+      or Potato Salad.
   - title: CuLT
     price: $12
     desc: Lantern Farm Serpentine Cucumber. Butter Lettuce. Heirloom Tomato.
