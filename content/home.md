@@ -26,7 +26,7 @@ menu:
   - title: Gem Caesar Salad
     price: $14
     desc: Little Gem Hearts. Kale. Red Cabbage. Carrots. Parmesan Herbed
-      Breadcrumbs. Add Grilled Organic Chicken $4
+      Breadcrumbs. Add Grilled Organic Chicken $4.
   - title: Heirloom Tomato Toast
     price: $9
     desc: Bernier Farms Little Gems. Avocado. Tarragon. Pepitas. Watermelon Radish.
