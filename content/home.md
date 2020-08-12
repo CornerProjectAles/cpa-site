@@ -14,35 +14,26 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: The Geyserville Cheesesteak
+  - title: The Meatloaf Sandwich
     price: $17
-    desc: Grilled Oakridge Angus Bavette Steak. Grilled Red Onion. Fermented Padron
-      Peppers. Espelette Mayo. Wagon Wheel Cheese. Red Bird Ciabatta. Choice of
-      Gem Side Salad or Potato Salad.
-  - title: BLT
+    desc: Oakridge Angus Beef. Stone Valley Pork. Bacon. Charred Red Onion. Aioli.
+      Wagon Wheel Cheese. Red Bird Ciabatta. Choice of Gem Side Salad or Potato
+      Salad.
+  - title: Wood Grilled Veggie Flatbread
     price: $15
-    desc: Maplewood Bacon. Butter Lettuce. Heirloom Tomato. Fermented Green Tomato.
-      Garlic Aioli. Toasted Sliced Country White Bread. Choice of Gem Side Salad
-      or Potato Salad.
-  - title: CuLT
-    price: $12
-    desc: Lantern Farm Serpentine Cucumber. Butter Lettuce. Heirloom Tomato.
-      Fermented Green Tomato. Garlic Aioli. Sliced Country White Bread. Choice
-      of Gem Side Salad or Potato Salad.
-  - title: Little Gem Salad W/ Green Goddess
+    desc: House-Made Sourdough Flatbread. Hummus. Grilled and Marinated Eggplant and
+      Summer Squash. Herbs. Olives & Feta.
+  - title: Gem Caesar Salad
     price: $14
+    desc: Little Gem Hearts. Kale. Red Cabbage. Carrots. Parmesan Herbed
+      Breadcrumbs. Add Grilled Organic Chicken $4.
+  - title: Heirloom Tomato Toast
+    price: $9
     desc: Bernier Farms Little Gems. Avocado. Tarragon. Pepitas. Watermelon Radish.
       Carrot. Red Cabbage. Herbed Breadcrumbs. Add Smoked King Salmon $5.
-  - title: Chilled Corn Chowder
-    price: $7
+  - title: Chilled Sweet Corn Chowder
+    price: $7/$10
     desc: Bernier Farms Corn. Thyme. Fresh Cream and Chives.
-  - title: Cold Pasta Salad
-    price: $9
-    desc: Grilled and Marinated Cauliflower. Fregola Sardo. Chic Peas. Charred Red
-      Onion. Parsley. Capers. Garlic-Anchovy Vinaigrette.
-  - title: Summer Tomato Salad
-    price: $9
-    desc: Heirloom Tomatoes. Feta Cheese. Mint. Shallot-Sumac Vinaigrette.
   - title: Deviled Eggs (4)
     price: $9
     desc: Organic Egg. Mustard. Smoked Espelette. Tarragon.
@@ -51,9 +42,9 @@ menu:
     desc: Organic Egg. Pepper Brine. Smoked Espelette. Tarragon.
   - title: Chocolate Beer Brownie & Whipped Cream
     price: $7
-    desc: Flourless Chocolate Brownie. Contains Butter And Gluten.
+    desc: Organic Egg. Pepper Brine. Smoked Espelette. Tarragon.
   - title: Unisex Shirt
-    desc: Black tee with Corner Project logo on the chest.
+    desc: Assorted House Fermented Vegetables.
     price: $20
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
