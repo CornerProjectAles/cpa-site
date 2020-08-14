@@ -29,7 +29,7 @@ menu:
       Breadcrumbs. Add Grilled Organic Chicken $4.
   - title: Heirloom Tomato Toast
     price: $9
-    desc: Garlic Aioli. Mint.
+    desc: Garlic Aioli. Armenian Cucumber. Mint.
   - title: Chilled Sweet Corn Chowder
     price: $7/$10
     desc: Bernier Farms Corn. Thyme. Fresh Cream and Chives.
