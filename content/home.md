@@ -29,8 +29,7 @@ menu:
       Breadcrumbs. Add Grilled Organic Chicken $4.
   - title: Heirloom Tomato Toast
     price: $9
-    desc: Bernier Farms Little Gems. Avocado. Tarragon. Pepitas. Watermelon Radish.
-      Carrot. Red Cabbage. Herbed Breadcrumbs. Add Smoked King Salmon $5.
+    desc: Garlic Aioli. Mint.
   - title: Chilled Sweet Corn Chowder
     price: $7/$10
     desc: Bernier Farms Corn. Thyme. Fresh Cream and Chives.
@@ -42,7 +41,7 @@ menu:
     desc: Organic Egg. Pepper Brine. Smoked Espelette. Tarragon.
   - title: Chocolate Beer Brownie & Whipped Cream
     price: $7
-    desc: Organic Egg. Pepper Brine. Smoked Espelette. Tarragon.
+    desc: Flourless Chocolate Brownie. Contains Butter And Gluten.
   - title: Unisex Shirt
     desc: Assorted House Fermented Vegetables.
     price: $20
