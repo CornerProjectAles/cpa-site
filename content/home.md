@@ -17,19 +17,21 @@ menu:
   - title: The Meatloaf Sandwich
     price: $17
     desc: Oakridge Angus Beef. Stone Valley Pork. Bacon. Charred Red Onion. Aioli.
-      Wagon Wheel Cheese. Red Bird Ciabatta. Choice of Gem Side Salad or Potato
-      Salad.
-  - title: Wood Grilled Veggie Flatbread
-    price: $15
-    desc: House-Made Sourdough Flatbread. Hummus. Grilled and Marinated Eggplant and
-      Summer Squash. Herbs. Olives & Feta.
-  - title: Gem Caesar Salad
-    price: $14
-    desc: Little Gem Hearts. Kale. Red Cabbage. Carrots. Parmesan Herbed
-      Breadcrumbs. Add Grilled Organic Chicken $4.
+      Wagon Wheel. Red Bird Ciabatta. Served with Potato Salad or Green Salad.
+  - title: Grilled Cheese
+    price: $13
+    desc: Cowgirl Creamery Wagon Wheel. Fermented mild jalapeños. BurtoNZ French.
+      Served with Potato Salad or Green Salad.
+  - title: Cobb Salad
+    price: $16
+    desc: Baby Red Romaine. Bacon. Egg. Grilled Chicken Breast. Cherry Tomato. Blue
+      Cheese. House Ranch.
   - title: Heirloom Tomato Toast
-    price: $9
-    desc: Garlic Aioli. Armenian Cucumber. Mint.
+    price: $10
+    desc: Garlic Aioli. Mint. Parsley. Sumac. Grilled Levain.
+  - title: Beet Hummus Toast
+    price: $11
+    desc: Goat Cheese. Orange Marmalade. Rainbow Chard Sprouts. Grilled Levain.
   - title: Chilled Sweet Corn Chowder
     price: $7/$10
     desc: Bernier Farms Corn. Thyme. Fresh Cream and Chives.
