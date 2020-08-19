@@ -20,8 +20,8 @@ menu:
       Wagon Wheel. Red Bird Ciabatta. Served with Potato Salad or Green Salad.
   - title: Grilled Cheese
     price: $13
-    desc: Cowgirl Creamery Wagon Wheel. Fermented mild jalapeños. BurtoNZ French.
-      Served with Potato Salad or Green Salad.
+    desc: Cowgirl Creamery Wagon Wheel. Fermented Mild Jalapeños. BurtoNZ French.
+      Served With Potato Salad Or Green Salad.
   - title: Cobb Salad
     price: $16
     desc: Baby Red Romaine. Bacon. Egg. Grilled Chicken Breast. Cherry Tomato. Blue
