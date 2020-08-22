@@ -14,10 +14,11 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: The Meatloaf Sandwich
+  - title: The Geyserville Cheesesteak
     price: $17
-    desc: Oakridge Angus Beef. Stone Valley Pork. Bacon. Charred Red Onion. Aioli.
-      Wagon Wheel. Red Bird Ciabatta. Served with Potato Salad or Green Salad.
+    desc: Grilled Oakridge Angus Bavette Steak. Grilled Red Onion. Fermented Padron
+      Peppers. Espelette Mayo. Wagon Wheel Cheese. Red Bird Ciabatta. Choice of
+      Gem Side Salad or Potato Salad.
   - title: Grilled Cheese
     price: $13
     desc: Cowgirl Creamery Wagon Wheel. Fermented Mild Jalapeños. BurtoNZ French.
