@@ -16,9 +16,9 @@ story: >-
 menu:
   - title: The Geyserville Cheesesteak
     price: $17
-    desc: Grilled Oakridge Angus Bavette Steak. Grilled Red Onion. Fermented Padron
-      Peppers. Espelette Mayo. Wagon Wheel Cheese. Red Bird Ciabatta. Choice of
-      Gem Side Salad or Potato Salad.
+    desc: Grilled Stemple Creek Bavette Steak. Grilled Red Onion. Fermented
+      Jalapeños. Espelette Mayo. Wagon Wheel Cheese. Red Bird Ciabatta. Choice
+      of Gem Side Salad or Potato Salad.
   - title: Grilled Cheese
     price: $13
     desc: Cowgirl Creamery Wagon Wheel. Fermented Mild Jalapeños. BurtoNZ French.
