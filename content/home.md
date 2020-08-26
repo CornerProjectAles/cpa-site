@@ -41,7 +41,7 @@ menu:
     desc: Organic Egg. Pepper Brine. Smoked Espelette. Tarragon.
   - title: Salted Chocolate Chip Cookie
     price: $4
-    desc: Flourless Chocolate Brownie. Contains Butter And Gluten.
+    desc: Tcho chocolate chips. Organic flour. Sea salt.
   - title: Unisex Shirt
     desc: Assorted House Fermented Vegetables.
     price: $20
