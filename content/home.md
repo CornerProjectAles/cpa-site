@@ -39,6 +39,9 @@ menu:
   - title: Pickle Plate
     price: $7
     desc: Organic Egg. Pepper Brine. Smoked Espelette. Tarragon.
+  - title: Bartletts & Blue
+    price: $5
+    desc: Bartlett pears and Point Reyes Blue Cheese.
   - title: Salted Chocolate Chip Cookie
     price: $4
     desc: Tcho chocolate chips. Organic flour. Sea salt.
