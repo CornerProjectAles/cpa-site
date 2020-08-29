@@ -16,9 +16,8 @@ story: >-
 menu:
   - title: Pork Shoulder & Grilled Peach Sandwich
     price: $17
-    desc: Grilled Stemple Creek Bavette Steak. Grilled Red Onion. Fermented
-      Jalapeños. Espelette Mayo. Wagon Wheel Cheese. Red Bird Ciabatta. Choice
-      of Gem Side Salad or Potato Salad.
+    desc: Smoked Stone Valley Pork Butt. Dry Creek Peaches. Arugula. Red Bird
+      Ciabatta. Served with Side Gem Salad or Side Tabouli.
   - title: Grilled Cheese
     price: $13
     desc: Cowgirl Creamery Wagon Wheel. Fermented Mild Jalapeños. BurtoNZ French.
