@@ -37,7 +37,7 @@ menu:
     desc: Goat Cheese. Orange Marmalade. Rainbow Chard Sprouts. Grilled Levain.
   - title: Pickle Plate
     price: $7
-    desc: Organic Egg. Pepper Brine. Smoked Espelette. Tarragon.
+    desc: Assorted House Fermented Vegetables.
   - title: Bartletts & Blue
     price: $5
     desc: Bartlett pears and Point Reyes Blue Cheese.
