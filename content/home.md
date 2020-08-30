@@ -17,7 +17,7 @@ menu:
   - title: Pork Shoulder & Grilled Peach Sandwich
     price: $17
     desc: Smoked Stone Valley Pork Butt. Dry Creek Peaches. Arugula. Red Bird
-      Ciabatta. Served with Side Gem Salad or Side Tabouli.
+      Ciabatta. Served with Side Gem Salad.
   - title: Grilled Cheese
     price: $13
     desc: Cowgirl Creamery Wagon Wheel. Fermented Mild Jalapeños. BurtoNZ French.
