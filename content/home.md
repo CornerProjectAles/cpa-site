@@ -24,8 +24,8 @@ menu:
       Summer Squash. Herbs. Olives. Goat Cheese.
   - title: Grilled Chicken Fattoush Salad
     price: $15
-    desc: Organic Chicken Leg. Baby Red Romaine. Watermelon Radish. Cherry Tomato.
-      Armenian Cucumber. Scallions. Mint. Lemon Sumac Vinaigrette. Pita Chips.
+    desc: Organic Chicken Leg. Baby Red Romaine. Radish. Cherry Tomato. Armenian
+      Cucumber. Scallions. Mint. Lemon Sumac Vinaigrette. Pita Chips.
   - title: Gazpacho
     price: $7/$11
     desc: Heirloom Tomato. Armenian Cucumber. Corno Di Toro Peppers.
