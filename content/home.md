@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Menu For Thursday-Sunday, August 27th-30th
+menutitle: Menu For Thursday-Sunday, September 3rd-6th
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -14,36 +14,39 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: Pork Shoulder & Grilled Peach Sandwich
+  - title: The Reuben
     price: $17
-    desc: Smoked Stone Valley Pork Butt. Dry Creek Peaches. Arugula. Red Bird
-      Ciabatta. Served with Side Gem Salad.
-  - title: Grilled Cheese
-    price: $13
-    desc: Cowgirl Creamery Wagon Wheel. Fermented Mild Jalapeños. BurtoNZ French.
-      Served with Side Gem Salad.
-  - title: Cobb Salad
-    price: $16
-    desc: Baby Red Romaine. Bacon. Egg. Smoked Chicken Leg. Sungold Tomato. Point
-      Reyes Blue Cheese. House Buttermilk Ranch.
+    desc: Corned Oakridge Angus Brisket. Russian Dressing. Wagon Wheel Cheese.
+      Sauerkraut. Creekside Bakery Marbled Rye. Side Salad or Potato Salad.
+  - title: Wood Grilled Veggie Flatbread
+    price: $15
+    desc: House-Made Sourdough Flatbread. Hummus. Grilled and Marinated Eggplant and
+      Summer Squash. Herbs. Olives. Goat Cheese.
+  - title: Grilled Chicken Fattoush Salad
+    price: $15
+    desc: Organic Chicken Leg. Baby Red Romaine. Watermelon Radish. Cherry Tomato.
+      Armenian Cucumber. Scallions. Mint. Lemon Sumac Vinaigrette. Pita Chips.
   - title: Gazpacho
     price: $7/$11
     desc: Heirloom Tomato. Armenian Cucumber. Corno Di Toro Peppers.
   - title: Heirloom Tomato Toast
     price: $10
     desc: Garlic Aioli. Mint. Parsley. Sumac. Grilled Levain.
-  - title: Beet Hummus Toast
-    price: $11
-    desc: Goat Cheese. Orange Marmalade. Rainbow Chard Sprouts. Grilled Levain.
-  - title: Pickle Plate
-    price: $7
-    desc: Assorted House Fermented Vegetables.
+  - title: Hummus & Pita
+    price: $6
+    desc: With Olives and Smoked Espelette.
   - title: Bartletts & Blue
     price: $5
     desc: Bartlett pears and Point Reyes Blue Cheese.
+  - title: Pickle Plate
+    price: $7
+    desc: Assorted House Fermented Vegetables.
   - title: Salted Chocolate Chip Cookie
     price: $4
     desc: Tcho chocolate chips. Organic flour. Sea salt.
+  - title: Bacon & Chocolate Chip Cookie
+    price: $5
+    desc: Tcho chocolate chips. Organic flour. Bacon.
   - title: Unisex Shirt
     desc: Assorted House Fermented Vegetables.
     price: $20
