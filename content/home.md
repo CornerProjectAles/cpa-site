@@ -37,7 +37,7 @@ menu:
     desc: With Olives and Smoked Espelette.
   - title: Bartletts & Blue
     price: $5
-    desc: Bartlett pears and Point Reyes Blue Cheese.
+    desc: Bartlett Pears and Point Reyes Blue Cheese.
   - title: Pickle Plate
     price: $7
     desc: Assorted House Fermented Vegetables.
