@@ -23,9 +23,13 @@ menu:
     desc: House-Made Sourdough Flatbread. Hummus. Grilled and Marinated Eggplant,
       Peppers & Summer Squash. Herbs. Olives. Goat Cheese.
   - title: Grilled Chicken Fattoush Salad
-    price: $15
-    desc: Organic Chicken Leg. Baby Red Romaine. Radish. Cherry Tomato. Armenian
+    price: $16
+    desc: Organic Chicken Leg. Baby Red Romaine.Radish. Cherry Tomato. Armenian
       Cucumber. Scallions. Mint. Lemon Sumac Vinaigrette. Pita Chips.
+  - title: Fattoush Salad
+    price: $14
+    desc: Baby Red Romaine.Radish. Cherry Tomato. Armenian Cucumber. Scallions.
+      Mint. Lemon Sumac Vinaigrette. Pita Chips.
   - title: Gazpacho
     price: $7/$11
     desc: Heirloom Tomato. Armenian Cucumber. Corno Di Toro Peppers.
