@@ -30,6 +30,10 @@ menu:
     price: $14
     desc: Baby Red Romaine.Radish. Cherry Tomato. Armenian Cucumber. Scallions.
       Mint. Lemon Sumac Vinaigrette. Pita Chips.
+  - title: Fermented Jalapeño Grilled Cheese
+    price: $13
+    desc: Cowgirl Creamery Wagon Wheel. Fermented Mild Jalapeños. BurtoNZ French.
+      Served with Side Green Salad or Potato Salad.
   - title: Gazpacho
     price: $7/$11
     desc: Heirloom Tomato. Armenian Cucumber. Corno Di Toro Peppers.
