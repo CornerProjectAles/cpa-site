@@ -18,10 +18,10 @@ menu:
     price: $17
     desc: Corned Oakridge Angus Brisket. Russian Dressing. Wagon Wheel Cheese.
       Sauerkraut. Creekside Bakery Marbled Rye. Side Salad or Potato Salad.
-  - title: Wood Grilled Veggie Flatbread
-    price: $15
-    desc: House-Made Sourdough Flatbread. Hummus. Grilled and Marinated Eggplant,
-      Peppers & Summer Squash. Herbs. Olives. Goat Cheese.
+  - title: Wood Grilled Veggie Toast
+    price: $12
+    desc: Levain. Hummus. Grilled and Marinated Eggplant, Peppers & Summer Squash.
+      Herbs. Olives. Goat Cheese.
   - title: Grilled Chicken Fattoush Salad
     price: $16
     desc: Organic Chicken Leg. Baby Red Romaine.Radish. Cherry Tomato. Armenian
