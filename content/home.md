@@ -46,9 +46,6 @@ menu:
   - title: Pickle Plate
     price: $7
     desc: Assorted House Fermented Vegetables.
-  - title: Hummus & Pita
-    price: $6
-    desc: With Olives and Smoked Espelette.
   - title: Chocolate Chip Cookie
     price: $4
     desc: Tcho chocolate chips. Organic flour.
