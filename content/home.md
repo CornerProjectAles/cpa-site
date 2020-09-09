@@ -25,7 +25,7 @@ menu:
   - title: Fermented Jalapeño Grilled Cheese
     price: $13
     desc: Cowgirl Creamery Wagon Wheel. Fermented Mild Jalapeños. BurtoNZ French.
-      Served with Side Green Salad or Potato Salad.
+      Side Grem Salad or Potato Salad.
   - title: Greek Salad
     price: $15
     desc: Little Gems. Olives. Cucumber. Cherry Tomato. Chic Peas. Pickled Red
