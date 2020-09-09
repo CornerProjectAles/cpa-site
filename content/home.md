@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Menu For Thursday-Sunday, September 3rd-6th
+menutitle: Menu For Thursday-Sunday, September 10th - 13th
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -16,42 +16,42 @@ story: >-
 menu:
   - title: The Reuben
     price: $17
-    desc: Corned Oakridge Angus Brisket. Russian Dressing. Wagon Wheel Cheese.
-      Sauerkraut. Creekside Bakery Marbled Rye. Side Salad or Potato Salad.
-  - title: Wood Grilled Veggie Toast
-    price: $12
-    desc: Levain. Hummus. Grilled and Marinated Eggplant, Peppers & Summer Squash.
-      Herbs. Olives. Goat Cheese.
-  - title: Grilled Chicken Fattoush Salad
-    price: $16
-    desc: Organic Chicken Leg. Baby Red Romaine.Radish. Cherry Tomato. Armenian
-      Cucumber. Scallions. Mint. Lemon Sumac Vinaigrette. Pita Chips.
-  - title: Fattoush Salad
-    price: $14
-    desc: Baby Red Romaine.Radish. Cherry Tomato. Armenian Cucumber. Scallions.
-      Mint. Lemon Sumac Vinaigrette. Pita Chips.
+    desc: Corned Beef Brisket. Russian Dressing. Cowgirl Creamery Wagon Wheel.
+      Sauerkraut. Creekside Bakery Marbled Rye. Side Gem Salad or Potato Salad.
+  - title: Pulled Pork & Jalapeño Grilled Cheese
+    price: $15
+    desc: Stone Valley Pork Butt. Fermented Mild Jalapenos. Peach Jam. Cowgirl
+      Creamery Wagon Wheel. BurtoNZ French. Side Gem Salad or Potato Salad.
   - title: Fermented Jalapeño Grilled Cheese
     price: $13
     desc: Cowgirl Creamery Wagon Wheel. Fermented Mild Jalapeños. BurtoNZ French.
       Served with Side Green Salad or Potato Salad.
-  - title: Gazpacho
-    price: $7/$11
-    desc: Heirloom Tomato. Armenian Cucumber. Corno Di Toro Peppers.
+  - title: Greek Salad
+    price: $15
+    desc: Little Gems. Olives. Cucumber. Cherry Tomato. Chic Peas. Pickled Red
+      Onion. Feta. Tahini Sumac Vinaigrette.
+  - title: Wood Grilled Veggie Toast
+    price: $12
+    desc: Grilled and Marinated Eggplant, Peppers & Summer Squash. Hummus. Herbs.
+      Olives. Goat Cheese. Levain. Side Gem Salad.
   - title: Heirloom Tomato Toast
     price: $10
     desc: Garlic Aioli. Mint. Parsley. Sumac. Grilled Levain.
-  - title: Hummus & Pita
-    price: $6
-    desc: With Olives and Smoked Espelette.
+  - title: Gazpacho
+    price: $7/$11
+    desc: Heirloom Tomato. Armenian Cucumber. Corno Di Toro Peppers.
   - title: Bartletts & Blue
     price: $5
     desc: Bartlett Pears and Point Reyes Blue Cheese.
   - title: Pickle Plate
     price: $7
     desc: Assorted House Fermented Vegetables.
-  - title: Salted Chocolate Chip Cookie
+  - title: Hummus & Pita
+    price: $6
+    desc: With Olives and Smoked Espelette.
+  - title: Chocolate Chip Cookie
     price: $4
-    desc: Tcho chocolate chips. Organic flour. Sea salt.
+    desc: Tcho chocolate chips. Organic flour.
   - title: Bacon & Chocolate Chip Cookie
     price: $5
     desc: Tcho chocolate chips. Organic flour. Bacon.
