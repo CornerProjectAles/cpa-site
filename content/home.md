@@ -53,7 +53,7 @@ menu:
     price: $5
     desc: Tcho chocolate chips. Organic flour. Bacon.
   - title: Unisex Shirt
-    desc: Assorted House Fermented Vegetables.
+    desc: Black tee with Corner Project logo on the chest.
     price: $20
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
