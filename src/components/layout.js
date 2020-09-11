@@ -10,6 +10,7 @@ import PropTypes from "prop-types"
 // import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
+import Footer from "./footer"
 // import "./layout.css"
 import "../styles/app.scss"
 // import "../styles/style.css"
@@ -37,9 +38,7 @@ class Layout extends Component {
 				<div>
 				<Header siteTitle="Corner Project" />
 				<main>{this.props.children}</main>
-				<footer className="uk-text-center uk-padding uk-section-muted">
-					© {new Date().getFullYear()}, Corner Project
-				</footer>
+				<Footer siteTitle="Corner Project" />
 				</div>
 			</>
 		)
