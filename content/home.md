@@ -30,7 +30,7 @@ menu:
   - title: Wood Grilled Veggie Toast
     price: $12
     desc: Grilled and Marinated Eggplant, Peppers & Summer Squash. Hummus. Herbs.
-      Olives. Goat Cheese. Levain. Side Gem Salad.
+      Goat Cheese. Levain. Side Gem Salad.
   - title: Heirloom Tomato Toast
     price: $10
     desc: Garlic Aioli. Mint. Parsley. Sumac. Grilled Levain.
