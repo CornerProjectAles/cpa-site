@@ -18,6 +18,10 @@ menu:
     price: $15
     desc: Smoked Pork Butt. Jalapeño-Black Mission Fig Jam. Cowgirl Creamery Wagon
       Wheel. BurtoNZ French. Side Gem Salad or Potato Salad.
+  - desc: Cowgirl Creamery Wagon Wheel. Fermented Mild Jalapeños. BurtoNZ French.
+      Side Gem Salad or Potato Salad.
+    title: Fermented Jalapeño Grilled Cheese
+    price: $13
   - title: Chicken Salad Sandwich
     price: $15
     desc: Herbed Chicken Breast. Baby Red Romaine. Commis Pear. Aioli. BurtoNZ
