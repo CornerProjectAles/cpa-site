@@ -24,8 +24,8 @@ menu:
     price: $13
   - title: Chicken Salad Sandwich
     price: $15
-    desc: Herbed Chicken Breast. Baby Red Romaine. Comice Pear. Aioli. BurtoNZ
-      French. Side Gem Salad or Potato Salad.
+    desc: Herbed Chicken Breast. Pecans. Currants. Baby Red Romaine. Comice Pear.
+      Aioli. BurtoNZ French. Side Gem Salad or Potato Salad.
   - title: Garden Salad
     price: $12
     desc: Cherry Tomato. Serpentine Cucumber. Carrot. Cabbage. Watermelon Radish.
