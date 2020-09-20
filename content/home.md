@@ -15,17 +15,16 @@ story: >-
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
   - title: Pulled Pork & Jalapeño Fig Jam Sandwich
-    price: $15
+    price: $14
     desc: Smoked Pork Butt. Jalapeño-Black Mission Fig Jam. Cowgirl Creamery Wagon
-      Wheel. BurtoNZ French. Side Gem Salad or Potato Salad.
+      Wheel. BurtoNZ French.
   - desc: Cowgirl Creamery Wagon Wheel. Fermented Mild Jalapeños. BurtoNZ French.
-      Side Gem Salad or Potato Salad.
     title: Fermented Jalapeño Grilled Cheese
     price: $13
   - title: Chicken Salad Sandwich
     price: $15
     desc: Herbed Chicken Breast. Pecans. Currants. Baby Red Romaine. Comice Pear.
-      Aioli. BurtoNZ French. Side Gem Salad or Potato Salad.
+      Aioli. BurtoNZ French.
   - title: Garden Salad
     price: $12
     desc: Cherry Tomato. Serpentine Cucumber. Carrot. Cabbage. Watermelon Radish.
