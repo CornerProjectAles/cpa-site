@@ -31,9 +31,9 @@ menu:
       Pecorino. Seeds. Choice of House Ranch, Point Reyes Blue Cheese or
       Vinaigrette.
   - title: Wood Grilled Veggie Toast
-    price: $12
+    price: $11
     desc: Grilled and Marinated Eggplant, Peppers & Summer Squash. Hummus. Herbs.
-      Goat Cheese. Levain. Side Gem Salad.
+      Goat Cheese. Levain.
   - title: Heirloom Tomato Toast
     price: $10
     desc: Garlic Aioli. Mint. Parsley. Sumac. Grilled Levain.
