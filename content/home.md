@@ -20,9 +20,9 @@ menu:
       Wheel. BurtoNZ French.
   - desc: Cowgirl Creamery Wagon Wheel. Fermented Mild Jalapeños. BurtoNZ French.
     title: Fermented Jalapeño Grilled Cheese
-    price: $13
+    price: $12
   - title: Chicken Salad Sandwich
-    price: $15
+    price: $14
     desc: Herbed Chicken Breast. Pecans. Currants. Baby Red Romaine. Comice Pear.
       Aioli. BurtoNZ French.
   - title: Garden Salad
