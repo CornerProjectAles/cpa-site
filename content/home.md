@@ -37,7 +37,7 @@ menu:
     desc: Aioli. Mint. Parsley. Sumac. Grilled Levain.
   - title: Gazpacho
     price: $7/$11
-    desc: Aioli. Mint. Parsley. Sumac. Grilled Levain.
+    desc: Heirloom Tomato. Armenian Cucumber. Corno Di Toro Peppers.
   - title: Deviled Eggs
     price: $9
     desc: Organic Egg. Pepper Brine. Smoked Espelette. Tarragon.
