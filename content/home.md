@@ -14,44 +14,41 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: Pulled Pork & Jalapeño Fig Jam Sandwich
-    price: $14
-    desc: Smoked Pork Butt. Jalapeño-Black Mission Fig Jam. Cowgirl Creamery Wagon
-      Wheel. BurtoNZ French.
-  - desc: Cowgirl Creamery Wagon Wheel. Fermented Mild Jalapeños. BurtoNZ French.
-    title: Fermented Jalapeño Grilled Cheese
-    price: $12
+  - title: The Meatball Sandwich
+    price: $17
+    desc: Ground Beef and Pork. Smoked Tomato Marinara. Basil-Arugula Pesto. Wagon
+      Wheel. Red Bird Ciabatta. Side Gem Salad or Potato Salad.
   - title: Chicken Salad Sandwich
-    price: $14
-    desc: Herbed Chicken Breast. Pecans. Currants. Baby Red Romaine. Comice Pear.
-      Aioli. BurtoNZ French.
-  - title: Garden Salad
-    price: $12
+    price: $15
+    desc: Poached Chicken Breast. Pecans. Golden Raisins. Comice Pear. Red Gem
+      Lettuce. Aioli. BurtoNZ French. Side Gem Salad or Potato Salad.
+  - title: Mediterranean Gem Salad
+    price: $15
     desc: Cherry Tomato. Serpentine Cucumber. Carrot. Cabbage. Watermelon Radish.
       Pecorino. Seeds. Choice of House Ranch, Point Reyes Blue Cheese or
       Vinaigrette.
   - title: Wood Grilled Veggie Toast
-    price: $11
-    desc: Grilled and Marinated Eggplant, Peppers & Summer Squash. Hummus. Herbs.
-      Goat Cheese. Levain.
+    price: $12
+    desc: Coal Roasted Eggplant. Grilled and Marinated Peppers & Summer Squash.
+      Herbs. Goat Cheese. Levain. Side Gem Salad.
   - title: Heirloom Tomato Toast
     price: $10
     desc: Garlic Aioli. Mint. Parsley. Sumac. Grilled Levain.
   - title: Gazpacho
     price: $7/$11
-    desc: Heirloom Tomato. Armenian Cucumber. Corno Di Toro Peppers.
-  - title: Bosc & Blue
+    desc: Aioli. Mint. Parsley. Sumac. Grilled Levain.
+  - title: Deviled Eggs
+    price: $9
+    desc: Organic Egg. Pepper Brine. Smoked Espelette. Tarragon.
+  - title: Bartletts & Blue
     price: $5
     desc: Pears and Point Reyes Blue Cheese.
   - title: Pickle Plate
     price: $7
     desc: Assorted House Fermented Vegetables.
-  - title: Chocolate Chip Cookie
+  - title: Oatmeal Raisin Cookie
     price: $4
-    desc: Tcho chocolate chips. Organic flour.
-  - title: Bacon & Chocolate Chip Cookie
-    price: $5
-    desc: Tcho chocolate chips. Organic flour. Bacon.
+    desc: Organic Oats. Thompson Raisins.
   - title: Unisex Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
