@@ -16,8 +16,9 @@ story: >-
 menu:
   - title: The Meatball Sandwich
     price: $17
-    desc: Ground Beef and Pork. Smoked Tomato Marinara. Basil-Arugula Pesto. Wagon
-      Wheel. Red Bird Ciabatta. Side Gem Salad or Potato Salad.
+    desc: Ground Beef and Pork. Smoked Tomato Marinara. Basil-Arugula Pesto
+      (Contains Pecorino and Sunflower Seeds). Wagon Wheel Cheese. Red Bird
+      Ciabatta. Side Gem Salad or Potato Salad.
   - title: Chicken Salad Sandwich
     price: $15
     desc: Poached Chicken Breast. Pecans. Golden Raisins. Comice Pear. Red Gem
