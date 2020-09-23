@@ -34,7 +34,7 @@ menu:
       Herbs. Goat Cheese. Levain. Side Gem Salad.
   - title: Heirloom Tomato Toast
     price: $10
-    desc: Garlic Aioli. Mint. Parsley. Sumac. Grilled Levain.
+    desc: Aioli. Mint. Parsley. Sumac. Grilled Levain.
   - title: Gazpacho
     price: $7/$11
     desc: Aioli. Mint. Parsley. Sumac. Grilled Levain.
