@@ -18,11 +18,11 @@ menu:
     price: $17
     desc: Ground Beef and Pork. Smoked Tomato Marinara. Basil-Arugula Pesto
       (Contains Pecorino and Sunflower Seeds). Wagon Wheel Cheese. Red Bird
-      Ciabatta. Side Gem Salad or Potato Salad.
+      Ciabatta. Side Potato Salad.
   - title: Chicken Salad Sandwich
     price: $15
     desc: Poached Chicken Breast. Pecans. Golden Raisins. Comice Pear. Red Gem
-      Lettuce. Aioli. BurtoNZ French. Side Gem Salad or Potato Salad.
+      Lettuce. Aioli. BurtoNZ French. Side Gem Salad.
   - title: Mediterranean Gem Salad
     price: $15
     desc: Cherry Tomato. Serpentine Cucumber. Carrot. Cabbage. Watermelon Radish.
