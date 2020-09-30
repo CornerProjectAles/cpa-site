@@ -14,33 +14,28 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: The Meatball Sandwich
-    price: $17
-    desc: Ground Beef and Pork. Smoked Tomato Marinara. Basil-Arugula Pesto
-      (Contains Pecorino and Sunflower Seeds). Wagon Wheel Cheese. Red Bird
-      Ciabatta. Side Potato Salad.
-  - title: Chicken Salad Sandwich
+  - title: The Lamb Sandwich
+    price: $18
+    desc: Smoked Lamb Shoulder. House Yogurt. Mint. Harissa. Arugula. Pickled Red
+      Onion. Redbird Ciabatta. Side Gem Salad or Armenian Potato Salad.
+  - title: The Veggie Sando
     price: $15
-    desc: Poached Chicken Breast. Pecans. Golden Raisins. Comice Pear. Red Gem
-      Lettuce. Aioli. BurtoNZ French. Side Gem Salad.
-  - title: Mediterranean Gem Salad
+    desc: Heirloom Tomato. Serpentine Cucumber. Pickled Red Onion. Gem Lettuce.
+      Herbed Aioli. BurtoNZ French. Side Gem Salad or Armenian Potato Salad.
+  - title: Gem Caesar Salad
     price: $15
-    desc: Cherry Tomato. Serpentine Cucumber. Carrot. Cabbage. Watermelon Radish.
-      Pecorino. Seeds. Choice of House Ranch, Point Reyes Blue Cheese or
-      Vinaigrette.
-  - title: Wood Grilled Veggie Toast
-    price: $12
-    desc: Coal Roasted Eggplant. Grilled and Marinated Peppers & Summer Squash.
-      Herbs. Goat Cheese. Levain. Side Arugula Salad.
-  - title: Heirloom Tomato Toast
+    desc: Red & Green Little Gems. Dino Kale. Red Cabbage. Carrots. Herbed
+      Breadcrumbs. Parmesan. Add Grilled Organic Chicken $4.
+  - title: Meatball Slider $5
+    price: $5
+    desc: Ground Beef and Pork. Spicy Marinara. Basil-Arugula Pesto. Pecorino.
+  - title: Baba Ghanouj W/ House Pita & Fire Roasted Peppers
+    price: $11
+    desc: Coal Roasted Eggplant. Smoked Espelette. Sourdough Pita. Olives.
+      Wood-Fired Corno di Toro Peppers.
+  - title: Dirty Deviled Eggs
     price: $10
-    desc: Aioli. Mint. Parsley. Sumac. Grilled Levain.
-  - title: Gazpacho
-    price: $7/$11
-    desc: Heirloom Tomato. Armenian Cucumber. Corno Di Toro Peppers.
-  - title: Deviled Eggs
-    price: $9
-    desc: Organic Egg. Pepper Brine. Smoked Espelette. Tarragon.
+    desc: Organic Eggs. Pepper Brine. Smoked Espelette Vinegar. Bacon.
   - title: Bartletts & Blue
     price: $5
     desc: Pears and Point Reyes Blue Cheese.
