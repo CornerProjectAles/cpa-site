@@ -26,7 +26,7 @@ menu:
     price: $15
     desc: Red & Green Little Gems. Dino Kale. Red Cabbage. Carrots. Herbed
       Breadcrumbs. Parmesan. Add Grilled Organic Chicken $4.
-  - title: Meatball Slider $5
+  - title: Meatball Slider
     price: $5
     desc: Ground Beef and Pork. Spicy Marinara. Basil-Arugula Pesto. Pecorino.
   - title: Baba Ghanouj W/ House Pita & Fire Roasted Peppers
