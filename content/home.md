@@ -18,10 +18,6 @@ menu:
     price: $18
     desc: Smoked Lamb Shoulder. House Yogurt. Mint. Harissa. Arugula. Pickled Red
       Onion. Redbird Ciabatta. Side Gem Salad or Armenian Potato Salad.
-  - title: Chicken Salad Sandwich
-    price: $15
-    desc: Poached Chicken Breast. Pecans. Golden Raisins. Comice Pear. Red Gem
-      Lettuce. Aioli. BurtoNZ French. Side Gem Salad.
   - title: The Veggie Sando
     price: $15
     desc: Heirloom Tomato. Serpentine Cucumber. Pickled Red Onion. Gem Lettuce.
