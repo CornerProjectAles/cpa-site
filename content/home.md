@@ -26,8 +26,8 @@ menu:
     price: $15
     desc: Red & Green Little Gems. Dino Kale. Red Cabbage. Carrots. Herbed
       Breadcrumbs. Parmesan. Add Grilled Organic Chicken $4.
-  - title: Meatball Slider
-    price: $5/ea or 3 for $13
+  - title: Meatball Sliders
+    price: $5/$13
     desc: Ground Beef and Pork. Spicy Marinara. Basil-Arugula Pesto. Pecorino.
   - title: Mezze Plate
     price: $14
