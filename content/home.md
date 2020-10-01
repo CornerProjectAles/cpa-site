@@ -27,13 +27,13 @@ menu:
     desc: Red & Green Little Gems. Dino Kale. Red Cabbage. Carrots. Herbed
       Breadcrumbs. Parmesan. Add Grilled Organic Chicken $4.
   - title: Meatball Slider
-    price: $5
+    price: $5/ea or 3 for $13
     desc: Ground Beef and Pork. Spicy Marinara. Basil-Arugula Pesto. Pecorino.
-  - title: Baba Ghanouj W/ House Pita & Fire Roasted Peppers
-    price: $11
-    desc: Coal Roasted Eggplant. Smoked Espelette. Sourdough Pita. Olives.
-      Wood-Fired Corno di Toro Peppers.
-  - title: Dirty Deviled Eggs
+  - title: Mezza Plate
+    price: $14
+    desc: Coal Roasted Eggplant. Smoked Espelette.HouseSourdough Pita.
+      Olives.Cucumber. Feta.Wood-Fired Corno di Toro Peppers.
+  - title: Dirty Deviled Eggs (4)
     price: $10
     desc: Organic Eggs. Pepper Brine. Smoked Espelette Vinegar. Bacon.
   - title: Bartletts & Blue
@@ -42,9 +42,9 @@ menu:
   - title: Pickle Plate
     price: $7
     desc: Assorted House Fermented Vegetables.
-  - title: Oatmeal Raisin Cookie
+  - title: Chocolate Chip Cookie
     price: $4
-    desc: Organic Oats. Thompson Raisins.
+    desc: Tcho chocolate chips. Organic flour.
   - title: Unisex Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
