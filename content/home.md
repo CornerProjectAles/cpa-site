@@ -29,10 +29,10 @@ menu:
   - title: Meatball Slider
     price: $5/ea or 3 for $13
     desc: Ground Beef and Pork. Spicy Marinara. Basil-Arugula Pesto. Pecorino.
-  - title: Mezza Plate
+  - title: Mezze Plate
     price: $14
-    desc: Coal Roasted Eggplant. Smoked Espelette.HouseSourdough Pita.
-      Olives.Cucumber. Feta.Wood-Fired Corno di Toro Peppers.
+    desc: Coal Roasted Eggplant. Smoked Espelette. HouseSourdough Pita. Olives.
+      Cucumber. Feta. Wood-Fired Corno di Toro Peppers.
   - title: Dirty Deviled Eggs (4)
     price: $10
     desc: Organic Eggs. Pepper Brine. Smoked Espelette Vinegar. Bacon.
