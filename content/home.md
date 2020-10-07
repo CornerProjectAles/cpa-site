@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Menu For Thursday-Sunday, October 1st - 4th
+menutitle: Menu For Thursday-Sunday, October 8th - 11th
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -16,23 +16,24 @@ story: >-
 menu:
   - title: The Lamb Sandwich
     price: $18
-    desc: Smoked Lamb Shoulder. House Yogurt. Mint. Harissa. Arugula. Pickled Red
-      Onion. Redbird Ciabatta. Side Gem Salad or Armenian Potato Salad.
+    desc: Roasted Lamb Shoulder. Tzatziki. Harissa. Arugula. Pickled Red Onion.
+      Redbird Ciabatta. Side Gem Salad or Potato Salad.
   - title: The Veggie Sando
     price: $15
     desc: Heirloom Tomato. Serpentine Cucumber. Pickled Red Onion. Gem Lettuce.
-      Herbed Aioli. BurtoNZ French. Side Gem Salad or Armenian Potato Salad.
+      Herbed Aioli. BurtoNZ French. Side Gem Salad or Potato Salad. Add Cheese
+      $1.
+  - title: Pulled Pork Sliders
+    price: $6 / $15
+    desc: Smoked Pork Butt. Aleppo Mayo. Fermented Jalapeño Cole Slaw.
   - title: Gem Caesar Salad
     price: $15
     desc: Red & Green Little Gems. Dino Kale. Red Cabbage. Carrots. Herbed
-      Breadcrumbs. Parmesan. Add Grilled Organic Chicken $4.
-  - title: Meatball Sliders
-    price: $4 / $11
-    desc: Ground Beef and Pork. Spicy Marinara. Basil-Arugula Pesto. Pecorino.
+      Breadcrumbs. Parmesan.
   - title: Mezze Plate
     price: $14
-    desc: Coal Roasted Eggplant. Smoked Espelette. HouseSourdough Pita. Olives.
-      Cucumber. Feta. Wood-Fired Corno di Toro Peppers.
+    desc: Coal Roasted Eggplant. House Sourdough Pita. Olives. Cucumber.
+      Pomegranate. Feta.Wood-Fired Corno di Toro Peppers.
   - title: Dirty Deviled Eggs (4)
     price: $10
     desc: Organic Eggs. Pepper Brine. Smoked Espelette Vinegar. Bacon.
@@ -42,9 +43,9 @@ menu:
   - title: Pickle Plate
     price: $7
     desc: Assorted House Fermented Vegetables.
-  - title: Chocolate Chip Cookie
+  - title: Oatmeal Rasisin Cookie
     price: $4
-    desc: Tcho chocolate chips. Organic flour.
+    desc: Organic Oats. Thompson Raisins.
   - title: Unisex Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
