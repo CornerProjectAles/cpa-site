@@ -37,7 +37,7 @@ menu:
   - title: Dirty Deviled Eggs (4)
     price: $10
     desc: Organic Eggs. Pepper Brine. Smoked Espelette Vinegar. Bacon.
-  - title: Bartletts & Blue
+  - title: Pears & Blue
     price: $5
     desc: Pears and Point Reyes Blue Cheese.
   - title: Pickle Plate
