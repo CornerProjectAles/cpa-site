@@ -26,10 +26,10 @@ menu:
   - title: Pulled Pork Sliders
     price: $6 / $15
     desc: Smoked Pork Butt. Aleppo Mayo. Fermented Jalapeño Cole Slaw.
-  - title: Gem Caesar Salad
-    price: $15
-    desc: Red & Green Little Gems. Dino Kale. Red Cabbage. Carrots. Herbed
-      Breadcrumbs. Parmesan.
+  - title: Nicoise Salad
+    price: $17
+    desc: Red and Green Little Gems. Albacore Tuna. Cherry Tomato. Hard Cooked Egg.
+      Olives. Fermented Romano Beans.
   - title: Mezze Plate
     price: $14
     desc: Coal Roasted Eggplant. House Sourdough Pita. Olives. Cucumber.
