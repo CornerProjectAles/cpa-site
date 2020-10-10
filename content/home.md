@@ -14,6 +14,10 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
+  - desc: Harissa. Tzatziki. Pickled Red Onion. Arugula. Creekside Black Sesame Bun.
+      Side Gem Salad or Potato Salad.
+    price: $16
+    title: Lamb and Beef Sausage
   - title: The Lamb Sandwich
     price: $18
     desc: Roasted Lamb Shoulder. Tzatziki. Harissa. Arugula. Pickled Red Onion.
