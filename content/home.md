@@ -22,6 +22,10 @@ menu:
     price: $18
     desc: Roasted Lamb Shoulder. Tzatziki. Harissa. Arugula. Pickled Red Onion.
       Redbird Ciabatta. Side Gem Salad or Potato Salad.
+  - title: Tuna Melt
+    price: $17
+    desc: Albacore. Dill Caper Mayo. Point Reyes Toma. BurtoNZ French. Side Gem
+      Salad or Potato Salad.
   - title: The Veggie Sando
     price: $15
     desc: Heirloom Tomato. Serpentine Cucumber. Pickled Red Onion. Gem Lettuce.
