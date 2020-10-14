@@ -27,21 +27,20 @@ menu:
     desc: Smoked Pork Butt. Aleppo Mayo. Fermented Jalapeño Cole Slaw.
   - title: Garden Salad
     price: $14
-    desc: Red and Green Little Gems. Albacore Tuna. Cherry Tomato. Hard Cooked Egg.
-      Olives. Fermented Romano Beans.
+    desc: Little Gems. Kale. Carrot. Red Cabbage. Pickled Red Onion. Seeds. Parsley.
+      House Vinaigrette.
   - title: Dirty Deviled Eggs (4)
     price: $10
     desc: Organic Eggs. Pepper Brine. Smoked Espelette Vinegar. Bacon.
   - title: Pears & Blue
     price: $5
-    desc: Little Gems. Kale. Carrot. Red Cabbage. Pickled Red Onion. Seeds. Parsley.
-      House Vinaigrette.
+    desc: Comice Pears and Point Reyes Blue Cheese.
   - title: Pickle Plate
     price: $7
     desc: Assorted House Fermented Vegetables.
   - title: Flourless Chocolate Brownie
     price: $6
-    desc: Organic Oats. Thompson Raisins.
+    desc: Tcho organic fair trade chocolate. Contains butter.
   - title: Unisex Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
