@@ -14,45 +14,33 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - desc: Harissa. Tzatziki. Pickled Red Onion. Arugula. Creekside Black Sesame Bun.
-      Side Gem Salad or Potato Salad.
-    price: $16
-    title: Lamb and Beef Sausage
-  - title: The Lamb Sandwich
-    price: $18
-    desc: Roasted Lamb Shoulder. Tzatziki. Harissa. Arugula. Pickled Red Onion.
-      Redbird Ciabatta. Side Gem Salad or Potato Salad.
   - title: Tuna Melt
     price: $17
     desc: Albacore. Dill Caper Mayo. Point Reyes Toma. BurtoNZ French. Side Gem
       Salad or Potato Salad.
-  - title: The Veggie Sando
-    price: $15
-    desc: Heirloom Tomato. Serpentine Cucumber. Pickled Red Onion. Gem Lettuce.
-      Herbed Aioli. BurtoNZ French. Side Gem Salad or Potato Salad. Add Cheese
-      $1.
+  - desc: Harissa. Tzatziki. Pickled Red Onion. Arugula. Creekside Black Sesame Bun.
+      Side Gem Salad or Potato Salad.
+    price: $16
+    title: Lamb and Beef Sausage
   - title: Pulled Pork Sliders
     price: $6 / $15
     desc: Smoked Pork Butt. Aleppo Mayo. Fermented Jalapeño Cole Slaw.
-  - title: Nicoise Salad
-    price: $17
+  - title: Garden Salad
+    price: $14
     desc: Red and Green Little Gems. Albacore Tuna. Cherry Tomato. Hard Cooked Egg.
       Olives. Fermented Romano Beans.
-  - title: Mezze Plate
-    price: $14
-    desc: Coal Roasted Eggplant. House Sourdough Pita. Olives. Cucumber.
-      Pomegranate. Feta.Wood-Fired Corno di Toro Peppers.
   - title: Dirty Deviled Eggs (4)
     price: $10
     desc: Organic Eggs. Pepper Brine. Smoked Espelette Vinegar. Bacon.
   - title: Pears & Blue
     price: $5
-    desc: Pears and Point Reyes Blue Cheese.
+    desc: Little Gems. Kale. Carrot. Red Cabbage. Pickled Red Onion. Seeds. Parsley.
+      House Vinaigrette.
   - title: Pickle Plate
     price: $7
     desc: Assorted House Fermented Vegetables.
-  - title: Oatmeal Rasisin Cookie
-    price: $4
+  - title: Flourless Chocolate Brownie
+    price: $6
     desc: Organic Oats. Thompson Raisins.
   - title: Unisex Shirt
     desc: Black tee with Corner Project logo on the chest.
