@@ -21,7 +21,7 @@ menu:
   - desc: Harissa. Tzatziki. Pickled Red Onion. Arugula. Creekside Black Sesame Bun.
       Side Gem Salad or Potato Salad.
     price: $16
-    title: Lamb and Beef Sausage
+    title: Lamb and Beef Kabob
   - title: Pulled Pork Sliders
     price: $6 / $15
     desc: Smoked Pork Butt. Aleppo Mayo. Fermented Jalapeño Cole Slaw.
