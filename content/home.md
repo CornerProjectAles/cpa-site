@@ -14,6 +14,11 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
+  - title: The Meatloaf Sandwich
+    price: $17
+    desc: Oakridge Angus Beef. Stone Valley Pork. Bacon. Arugula. Charred Red Onion.
+      Aioli. Point Reyes Toma. Red Bird Ciabatta. Served with Potato Salad or
+      Green Salad.
   - title: Tuna Melt
     price: $17
     desc: Albacore. Dill Caper Mayo. Point Reyes Toma. BurtoNZ French. Side Gem
