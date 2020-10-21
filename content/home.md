@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Menu For Thursday-Sunday, October 15th - 18th
+menutitle: Menu For Thursday-Sunday, October 22nd - 25th
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -16,24 +16,24 @@ story: >-
 menu:
   - title: The Meatloaf Sandwich
     price: $17
-    desc: Oakridge Angus Beef. Stone Valley Pork. Bacon. Arugula. Charred Red Onion.
-      Aioli. Point Reyes Toma. Red Bird Ciabatta. Served with Potato Salad or
-      Green Salad.
-  - title: Tuna Melt
-    price: $17
-    desc: Albacore. Dill Caper Mayo. Point Reyes Toma. BurtoNZ French. Side Gem
-      Salad or Potato Salad.
-  - desc: Harissa. Tzatziki. Pickled Red Onion. Arugula. Creekside Black Sesame Bun.
-      Side Gem Salad or Potato Salad.
-    price: $16
-    title: Lamb and Beef Kabob
-  - title: Pulled Pork Sliders
-    price: $6 / $15
-    desc: Smoked Pork Butt. Aleppo Mayo. Fermented Jalapeño Cole Slaw.
+    desc: Oakridge Angus Beef. Stone Valley Pork. Bacon. Charred Red Onion. Aioli.
+      Point Reyes Toma. Red Bird Ciabatta. Served with Potato Salad or Green
+      Salad.
+  - title: Chicken Salad Sandwich
+    price: $15
+    desc: Poached Chicken Breast. Pecans. Golden Raisins. Comice Pear. Red Gem
+      Lettuce. Aioli. BurtoNZ French. Side Gem Salad or Potato Salad.
+  - desc: Lamb and Pork. Mint Pistachio Pesto. Smoked Espelette Tomato Sauce.
+    price: $6 each or 3 for $15
+    title: Lamb Meatball Sliders
   - title: Garden Salad
     price: $14
     desc: Little Gems. Kale. Carrot. Red Cabbage. Pickled Red Onion. Seeds. Parsley.
       House Vinaigrette.
+  - title: Albacore Crudo
+    price: $12
+    desc: House Cured Albacore. Lime-Jalapeño Pepper Brine. Pickled Shallots.
+      Fermented Fresno Chilis. Cherry Tomatoes.
   - title: Dirty Deviled Eggs (4)
     price: $10
     desc: Organic Eggs. Pepper Brine. Smoked Espelette Vinegar. Bacon.
