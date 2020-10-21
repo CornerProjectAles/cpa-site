@@ -22,7 +22,8 @@ menu:
   - title: Chicken Salad Sandwich
     price: $15
     desc: Poached Chicken Breast. Pecans. Golden Raisins. Comice Pear. Red Gem
-      Lettuce. Aioli. BurtoNZ French. Side Gem Salad or Potato Salad.
+      Lettuce. Aioli. BurtoNZ French. Served With Side Potato Salad or Side
+      Green Salad.
   - desc: Lamb and Pork. Mint Pistachio Pesto. Smoked Espelette Tomato Sauce.
     price: $6 each or 3 for $15
     title: Lamb Meatball Sliders
