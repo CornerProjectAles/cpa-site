@@ -17,12 +17,13 @@ menu:
   - title: The Reuben
     price: $17
     desc: Corned Oakridge Angus Brisket. Russian Dressing. Point Reyes Toma.
-      Sauerkraut. Creekside Bakery Marbled Rye. Side Salad or Potato Salad.
+      Sauerkraut. Creekside Bakery Marbled Rye. Side Green Salad or Potato
+      Salad.
   - title: The Geyserville Cheesesteak
     price: $17
     desc: Grilled Oakridge Angus Bavette Steak. Charred Red Onion. Fermented
-      Jalapeños. Aleppo Mayo. Point Reyes Toma. Red Bird Ciabatta. Side Salad or
-      Potato Salad.
+      Jalapeños. Aleppo Mayo. Point Reyes Toma. Red Bird Ciabatta. Side Green
+      Salad or Potato Salad.
   - title: Chicken Salad Sandwich
     price: $15
     desc: Poached Chicken Breast. Pecans. Golden Raisins. Comice Pear. Red Gem
