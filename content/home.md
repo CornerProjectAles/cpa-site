@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Menu For Thursday-Sunday, October 22nd - 25th
+menutitle: Menu For Thursday - Sunday, Oct 29th - Nov 1st
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -14,33 +14,29 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: The Meatloaf Sandwich
+  - title: The Reuben
     price: $17
-    desc: Oakridge Angus Beef. Stone Valley Pork. Bacon. Charred Red Onion. Aioli.
-      Point Reyes Toma. Red Bird Ciabatta. Served with Potato Salad or Green
-      Salad.
+    desc: Corned Oakridge Angus Brisket. Russian Dressing. Point Reyes Toma.
+      Sauerkraut. Creekside Bakery Marbled Rye. Side Salad or Potato Salad.
+  - title: The Geyserville Cheesesteak
+    price: $17
+    desc: Grilled Oakridge Angus Bavette Steak. Charred Red Onion. Fermented
+      Jalapeños. Aleppo Mayo. Point Reyes Toma. Red Bird Ciabatta. Side Salad or
+      Potato Salad.
   - title: Chicken Salad Sandwich
     price: $15
     desc: Poached Chicken Breast. Pecans. Golden Raisins. Comice Pear. Red Gem
-      Lettuce. Aioli. BurtoNZ French. Served With Side Potato Salad or Side
-      Green Salad.
-  - desc: Lamb and Pork. Mint Pistachio Pesto. Smoked Espelette Tomato Sauce.
+      Lettuce. Aioli. BurtoNZ French. Side Green Salad or Potato Salad.
+  - desc: Lamb and Pork. Mint Pistachio Pesto. Curry Tomato Sauce.
     price: $6 each or 3 for $15
     title: Lamb Meatball Sliders
-  - title: Garden Salad
+  - title: Fall Gem Salad
     price: $14
-    desc: Little Gems. Kale. Carrot. Red Cabbage. Pickled Red Onion. Seeds. Parsley.
-      House Vinaigrette.
-  - title: Albacore Crudo
-    price: $12
-    desc: House Cured Albacore. Lime-Jalapeño Pepper Brine. Pickled Shallots.
-      Fermented Fresno Chilis. Cherry Tomatoes.
+    desc: Red and Green Little Gems. Cranberries. Comice Pears. Point Reyes Blue
+      Cheese. Toasted Walnuts. Sherry Viniagrette.
   - title: Dirty Deviled Eggs (4)
     price: $10
     desc: Organic Eggs. Pepper Brine. Smoked Espelette Vinegar. Bacon.
-  - title: Pears & Blue
-    price: $5
-    desc: Comice Pears and Point Reyes Blue Cheese.
   - title: Pickle Plate
     price: $7
     desc: Assorted House Fermented Vegetables.
