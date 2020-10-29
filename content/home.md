@@ -50,6 +50,10 @@ menu:
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
+  - title: Tomato Soup
+    price: $6 / $10
+    desc: Lantern Farm Tomatoes. Thyme. Black Pepper. Bay. Garlic. Greens. Creme
+      Fraiche. Add Grilled Cheese $9.
 banners:
   - src: images/1.jpg
     title: Glasses
