@@ -31,6 +31,10 @@ menu:
   - desc: Lamb and Pork. Mint Pistachio Pesto. Curry Tomato Sauce.
     price: $6 each or 3 for $15
     title: Lamb Meatball Sliders
+  - title: Tomato Soup
+    price: $6 / $10
+    desc: Lantern Farm Tomatoes. Thyme. Black Pepper. Bay. Garlic. Greens. Creme
+      Fraiche. Add Grilled Cheese $9.
   - title: Fall Gem Salad
     price: $14
     desc: Red and Green Little Gems. Cranberries. Comice Pears. Point Reyes Blue
