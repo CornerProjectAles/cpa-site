@@ -17,7 +17,7 @@ menu:
   - title: The Reuben
     price: $17
     desc: Corned Oakridge Angus Brisket. Russian Dressing. Point Reyes Toma.
-      Sauerkraut. Creekside Bakery Marbled Rye. Side Salad or Potato Salad.
+      Sauerkraut. Creekside Bakery Marbled Rye. Side Gem Salad or Potato Salad.
   - title: Tuna Melt
     price: $17
     desc: Poached Albacore. Dill Caper Mayo. Point Reyes Toma. BurtoNZ Sourdough.
