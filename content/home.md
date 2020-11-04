@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Menu For Thursday - Sunday, Oct 29th - Nov 1st
+menutitle: Menu For Thursday - Sunday, November 5th - 8th
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -17,31 +17,21 @@ menu:
   - title: The Reuben
     price: $17
     desc: Corned Oakridge Angus Brisket. Russian Dressing. Point Reyes Toma.
-      Sauerkraut. Creekside Bakery Marbled Rye. Side Green Salad or Potato
-      Salad.
-  - title: The Geyserville Cheesesteak
+      Sauerkraut. Creekside Bakery Marbled Rye. Side Salad or Potato Salad.
+  - title: Tuna Melt
     price: $17
-    desc: Grilled Oakridge Angus Bavette Steak. Charred Red Onion. Fermented
-      Jalapeños. Aleppo Mayo. Point Reyes Toma. Red Bird Ciabatta. Side Green
-      Salad or Potato Salad.
-  - title: Chicken Salad Sandwich
-    price: $15
-    desc: Poached Chicken Breast. Pecans. Golden Raisins. Comice Pear. Red Gem
-      Lettuce. Aioli. BurtoNZ French. Side Green Salad or Potato Salad.
-  - desc: Lamb and Pork. Mint Pistachio Pesto. Curry Tomato Sauce.
-    price: $6 each or 3 for $15
-    title: Lamb Meatball Sliders
+    desc: Poached Albacore. Dill Caper Mayo. Point Reyes Toma. BurtoNZ Sourdough.
+      Side Gem Salad or Potato Salad.
   - title: Tomato Soup
     price: $6 / $10
     desc: Lantern Farm Tomatoes. Thyme. Black Pepper. Bay. Garlic. Greens. Creme
       Fraiche. Add Grilled Cheese $9.
-  - title: Fall Gem Salad
-    price: $14
-    desc: Red and Green Little Gems. Cranberries. Comice Pears. Point Reyes Blue
-      Cheese. Toasted Walnuts. Sherry Viniagrette.
   - title: Dirty Deviled Eggs (4)
     price: $10
     desc: Organic Eggs. Pepper Brine. Smoked Espelette Vinegar. Bacon.
+  - title: Pears & Blue
+    price: $5
+    desc: Comice Pears and Point Reyes Blue Cheese.
   - title: Pickle Plate
     price: $7
     desc: Assorted House Fermented Vegetables.
