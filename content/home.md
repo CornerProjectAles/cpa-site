@@ -23,6 +23,10 @@ menu:
     price: $17
     desc: Poached Albacore. Dill Caper Remoulade. Point Reyes Toma. BurtoNZ
       Sourdough. Side Arugula Salad or Potato Salad.
+  - desc: Smoked Stone Valley Pork Butt. Bone Broth. Hominy. Cabbage. Cilantro. Pink
+      Beauty Radish. Lime. Crema.
+    title: Pozole
+    price: $18
   - title: Tomato Soup
     price: $6 / $10
     desc: Lantern Farm Tomatoes. Thyme. Black Pepper. Bay. Garlic. Greens. Creme
