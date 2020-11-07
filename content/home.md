@@ -27,6 +27,10 @@ menu:
       Beauty Radish. Lime. Crema.
     title: Pozole
     price: $18
+  - title: Fall Gem Salad
+    price: $16
+    desc: Red and Green Little Gems. Cranberries. Comice Pears. Point Reyes Blue
+      Cheese. Candied Walnuts. Sherry Vinaigrette.
   - title: Tomato Soup
     price: $6 / $10
     desc: Lantern Farm Tomatoes. Thyme. Black Pepper. Bay. Garlic. Greens. Creme
