@@ -14,11 +14,11 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: The Reuben
+  - title: The Geyserville Cheesesteak
     price: $17
-    desc: Corned Oakridge Angus Brisket. Russian Dressing. Point Reyes Toma.
-      Sauerkraut. Creekside Bakery Marbled Rye. Side Arugula Salad or Potato
-      Salad.
+    desc: Grilled Oakridge Angus Bavette Steak. Charred Red Onion. Fermented
+      Jalapeños. Aleppo Mayo. Point Reyes Toma. Red Bird Ciabatta. Side Arugula
+      Salad or Potato Salad.
   - title: Tuna Melt
     price: $17
     desc: Poached Albacore. Dill Caper Remoulade. Point Reyes Toma. BurtoNZ
