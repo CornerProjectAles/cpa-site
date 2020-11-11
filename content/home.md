@@ -34,7 +34,7 @@ menu:
   - title: Fall Gem Salad
     price: $16
     desc: Red and Green Little Gems. Cranberries. Comice Pears. Point Reyes Blue
-      Cheese.CandiedWalnuts. Sherry Vinaigrette.
+      Cheese. Candied Walnuts. Sherry Vinaigrette.
   - title: Pickle Plate
     price: $7
     desc: Assorted House Fermented & Pickled Vegetables.
