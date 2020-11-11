@@ -25,11 +25,11 @@ menu:
   - title: The Geyserville Cheesesteak
     price: $17
     desc: Grilled Oakridge Angus Bavette Steak. Charred Red Onion. Fermented
-      Jalapeños. Smoked Espelette Mayo. Point Reyes Toma. Red Bird Ciabatta.
-      Side Green Salad or Potato Salad.
+      Jalapeños. Smoked Espelette Mayo. Point Reyes Toma Cheese. Red Bird
+      Ciabatta. Side Green Salad or Potato Salad.
   - title: Tuna Melt
     price: $17
-    desc: Poached Albacore. Dill Caper Remoulade. Point Reyes Toma. BurtoNZ
+    desc: Poached Albacore. Dill Caper Remoulade. Point Reyes Toma Cheese. BurtoNZ
       Sourdough. Side Green Salad or Potato Salad.
   - title: Fall Gem Salad
     price: $16
