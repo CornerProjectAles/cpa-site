@@ -14,6 +14,14 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
+  - desc: Smoked Stone Valley Pork Butt. Bone Broth. Hominy. Cabbage. Pepper-Lime
+      Crema. Cilantro. Pink Beauty Radish.
+    title: Pozole
+    price: $18
+  - title: Roasted Tomato Soup
+    price: $6 / $10
+    desc: Lantern Farm Tomatoes. Thyme. Black Pepper. Bay. Garlic. Greens. Creme
+      Fraiche. Add Grilled Cheese $9.
   - title: The Geyserville Cheesesteak
     price: $17
     desc: Grilled Oakridge Angus Bavette Steak. Charred Red Onion. Fermented
@@ -22,28 +30,18 @@ menu:
   - title: Tuna Melt
     price: $17
     desc: Poached Albacore. Dill Caper Remoulade. Point Reyes Toma. BurtoNZ
-      Sourdough. Side Arugula Salad or Potato Salad.
-  - desc: Smoked Stone Valley Pork Butt. Bone Broth. Hominy. Cabbage. Cilantro. Pink
-      Beauty Radish. Lime. Crema.
-    title: Pozole
-    price: $18
+      Sourdough. Side Green Salad or Potato Salad.
   - title: Fall Gem Salad
     price: $16
     desc: Red and Green Little Gems. Cranberries. Comice Pears. Point Reyes Blue
-      Cheese. Candied Walnuts. Sherry Vinaigrette.
-  - title: Tomato Soup
-    price: $6 / $10
-    desc: Lantern Farm Tomatoes. Thyme. Black Pepper. Bay. Garlic. Greens. Creme
-      Fraiche. Add Grilled Cheese $9.
-  - title: Dirty Deviled Eggs (4)
-    price: $10
-    desc: Organic Eggs. Pepper Brine. Smoked Espelette Vinegar. Bacon.
-  - title: Pears & Blue
-    price: $5
-    desc: Comice Pears and Point Reyes Blue Cheese.
+      Cheese.CandiedWalnuts. Sherry Vinaigrette.
   - title: Pickle Plate
     price: $7
-    desc: Assorted House Fermented Vegetables.
+    desc: Assorted House Fermented & Pickled Vegetables.
+  - title: Pickle Jar
+    price: $8 / $10
+    desc: Fermented Romano Beans ($10), Kimchi Daikon Radish ($10), Mediterranean
+      Radish ($8) or Green Tomato ($8).
   - title: Flourless Chocolate Brownie
     price: $6
     desc: Tcho organic fair trade chocolate. Contains butter.
