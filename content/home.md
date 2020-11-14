@@ -35,6 +35,9 @@ menu:
     price: $16
     desc: Red and Green Little Gems. Cranberries. Comice Pears. Point Reyes Blue
       Cheese. Candied Walnuts. Sherry Vinaigrette.
+  - title: Dirty Deviled Eggs (4)
+    price: $10
+    desc: Organic Eggs. Pepper Brine. Smoked Espelette Vinegar. Bacon.
   - title: Pickle Plate
     price: $7
     desc: Assorted House Fermented & Pickled Vegetables.
