@@ -29,8 +29,8 @@ menu:
       Marbled Rye. Side Green Salad or Potato Salad.
   - title: Tuna Melt
     price: $17
-    desc: Poached Albacore. Dill Caper Remoulade. Point Reyes Toma Cheese. BurtoNZ
-      Sourdough. Side Green Salad or Potato Salad.
+    desc: Poached Albacore. Dill Caper Remoulade. Point Reyes Toma Cheese. Creekside
+      Marbled Rye. Side Green Salad or Potato Salad.
   - title: Fall Gem Salad
     price: $16
     desc: Red and Green Little Gems. Cranberries. Comice Pears. Point Reyes Blue
