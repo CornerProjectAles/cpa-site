@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Menu For Thursday - Sunday, November 12th - 15th
+menutitle: Menu For Thursday - Sunday, November 19th - 22nd
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -14,37 +14,33 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - desc: Smoked Stone Valley Pork Butt. Bone Broth. Hominy. Cabbage. Pepper-Lime
-      Crema. Cilantro. Pink Beauty Radish.
-    title: Pozole
-    price: $18
-  - title: Roasted Tomato Soup
-    price: $6 / $10
-    desc: Lantern Farm Tomatoes. Thyme. Black Pepper. Bay. Garlic. Greens. Creme
-      Fraiche. Add Grilled Cheese $9.
-  - title: The Geyserville Cheesesteak
-    price: $17
-    desc: Grilled Oakridge Angus Bavette Steak. Charred Red Onion. Fermented
-      Jalapeños. Smoked Espelette Mayo. Point Reyes Toma Cheese. Creekside
-      Marbled Rye. Side Green Salad or Potato Salad.
-  - title: Tuna Melt
-    price: $17
-    desc: Poached Albacore. Dill Caper Remoulade. Point Reyes Toma Cheese. Creekside
-      Marbled Rye. Side Green Salad or Potato Salad.
-  - title: Fall Gem Salad
+  - desc: Smoked Oakridge Angus Beef Briskit. Radish. Scallion. Aleppo Sour Cream.
+    title: Beef Chili
+    price: $8 / $12
+  - title: Veggie Chili
+    price: $7 / $11
+    desc: Black Bean Chili. Fire Roasted Tomato. Radish. Scallion. Cilantro Lime
+      Sour Cream.
+  - title: Pulled Pork Sandwich
     price: $16
-    desc: Red and Green Little Gems. Cranberries. Comice Pears. Point Reyes Blue
-      Cheese. Candied Walnuts. Sherry Vinaigrette.
-  - title: Dirty Deviled Eggs (4)
-    price: $10
-    desc: Organic Eggs. Pepper Brine. Smoked Espelette Vinegar. Bacon.
+    desc: Smoked Stone Valley Pork Shoulder. Red Jalapeño Cole Slaw. Smoked
+      Espelette Mayo. Side Green Salad or Potato Salad.
+  - title: Fig Jam Grilled Cheese
+    price: $13
+    desc: Black Mission Figs. Point Reyes Toma. BurtoNZ Sourdough. Side Green Salad
+      or Potato Salad.
+  - title: Roasted Beet Salad
+    price: $14
+    desc: Arugula. Goat Cheese.CandiedVine & Branch Walnuts. Sherry Vinaigrette.
+  - title: Pears and Blue
+    price: $5
+    desc: Comice Pears and Point Reyes Blue Cheese.
   - title: Pickle Plate
     price: $7
     desc: Assorted House Fermented & Pickled Vegetables.
-  - title: Pickle Jar
-    price: $8 / $10
-    desc: Fermented Romano Beans ($10), Kimchi Daikon Radish ($10), Mediterranean
-      Radish ($8) or Green Tomato ($8).
+  - title: Cast Iron Cornbread
+    price: $6
+    desc: Baked In Cast Iron. Giusto's Organic Corn Meal. Honey.
   - title: Flourless Chocolate Brownie
     price: $6
     desc: Tcho organic fair trade chocolate. Contains butter.
