@@ -31,7 +31,8 @@ menu:
       or Potato Salad.
   - title: Roasted Beet Salad
     price: $14
-    desc: Arugula. Goat Cheese.CandiedVine & Branch Walnuts. Sherry Vinaigrette.
+    desc: Arugula. Goat Cheese. Candied Vine & Branch Walnuts. Honey Balsamic
+      Vinaigrette.
   - title: Pears and Blue
     price: $5
     desc: Comice Pears and Point Reyes Blue Cheese.
