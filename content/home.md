@@ -42,6 +42,9 @@ menu:
   - title: Cast Iron Cornbread
     price: $6
     desc: Baked In Cast Iron. Giusto's Organic Corn Meal. Honey.
+  - title: Gluten-Free Cast Iron Cornbread
+    price: $6
+    desc: Baked In Cast Iron. Giusto's Corn Meal. Brown Rice Flower. Honey.
   - title: Flourless Chocolate Brownie
     price: $6
     desc: Tcho organic fair trade chocolate. Contains butter.
