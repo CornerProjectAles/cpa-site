@@ -20,8 +20,8 @@ menu:
       Salsa. Red Bird Ciabatta. Side Green Salad or Potato Salad.
   - title: Fermented Jalapeño Grilled Cheese
     price: $14
-    desc: Fermented Red Jalapeños. Point Reyes Toma. BurtoNZ Sourdough. Side Salad
-      or Potato Salad.
+    desc: Fermented Red Jalapeños. Point Reyes Toma. BurtoNZ Sourdough. Side Green
+      Salad or Potato Salad.
   - desc: Smoked Oakridge Angus Beef Briskit. Radish. Scallion. Aleppo Sour Cream.
     title: Beef Chili
     price: $8 / $12
