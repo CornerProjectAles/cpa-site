@@ -43,7 +43,7 @@ menu:
     price: $7
     desc: Assorted House Fermented & Pickled Vegetables.
   - title: Cast Iron Cornbread
-    price: $6
+    price: $7
     desc: Baked In Cast Iron. Giusto's Organic Corn Meal. Honey.
   - title: Flourless Chocolate Brownie
     price: $6
