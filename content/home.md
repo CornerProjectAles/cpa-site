@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Menu For Friday - Sunday, November 27th - 29th
+menutitle: Menu For Thursday - Sunday, December 3rd - 6th
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -17,12 +17,12 @@ menu:
   - title: Porchetta Sandwich
     price: $18
     desc: Stone Valley Pork Belly Stuffed with House Sausage. Braised Greens. Herb
-      Salsa. Red Bird Ciabatta. Side Green Salad or Potato Salad.
-  - title: Fermented Jalapeño Grilled Cheese
-    price: $14
-    desc: Fermented Red Jalapeños. Point Reyes Toma. BurtoNZ Sourdough. Side Green
-      Salad or Potato Salad.
-  - desc: Smoked Oakridge Angus Beef Briskit. Radish. Scallion. Aleppo Sour Cream.
+      Salsa. BurtoNZ Bun. Side Green Salad or Potato Salad.
+  - title: Tuna Melt
+    price: $17
+    desc: Poached Albacore. Dill Caper Remoulade. Point Reyes Toma. BurtoNZ
+      Sourdough. Side Green Salad or Potato Salad.
+  - desc: Smoked Oakridge Angus Beef Brisket. Radish. Scallion. Aleppo Sour Cream.
     title: Beef Chili
     price: $8 / $12
   - title: Veggie Chili
@@ -31,8 +31,8 @@ menu:
       Sour Cream.
   - title: Roasted Beet Salad
     price: $14
-    desc: Arugula. Goat Cheese. Candied Vine & Branch Walnuts. Honey Balsamic
-      Vinaigrette.
+    desc: Arugula. Goat Cheese. Candied Vine & Branch Walnuts. Persimmon. Tangerine.
+      Honey Balsamic Vinaigrette.
   - title: Grilled Cauliflower Salad
     price: $12
     desc: Wood Grilled Cauliflower. Garlic. Anchovy. Capers. Olives. Parsley.
