@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Menu For Thursday-Sunday, September 10th - 13th
+menutitle: Menu For Thursday - Sunday, December 3rd - 6th
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -14,44 +14,40 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: The Reuben
+  - title: Porchetta Sandwich
+    price: $18
+    desc: Stone Valley Pork Belly Stuffed with House Sausage. Braised Greens. Herb
+      Salsa. BurtoNZ Bun. Side Green Salad or Potato Salad.
+  - title: Tuna Melt
     price: $17
-    desc: Corned Beef Brisket. Russian Dressing. Cowgirl Creamery Wagon Wheel.
-      Sauerkraut. Creekside Bakery Marbled Rye. Side Gem Salad or Potato Salad.
-  - title: Pulled Pork & Jalapeño Grilled Cheese
-    price: $15
-    desc: Stone Valley Pork Butt. Fermented Mild Jalapenos. Peach Jam. Cowgirl
-      Creamery Wagon Wheel. BurtoNZ French. Side Gem Salad or Potato Salad.
-  - title: Fermented Jalapeño Grilled Cheese
-    price: $13
-    desc: Cowgirl Creamery Wagon Wheel. Fermented Mild Jalapeños. BurtoNZ French.
-      Side Grem Salad or Potato Salad.
-  - title: Greek Salad
-    price: $15
-    desc: Little Gems. Olives. Cucumber. Cherry Tomato. Chic Peas. Pickled Red
-      Onion. Feta. Tahini Sumac Vinaigrette.
-  - title: Wood Grilled Veggie Toast
+    desc: Poached Albacore. Dill Caper Remoulade. Point Reyes Toma. BurtoNZ
+      Sourdough. Side Green Salad or Potato Salad.
+  - desc: Smoked Oakridge Angus Beef Brisket. Radish. Scallion. Aleppo Sour Cream.
+    title: Beef Chili
+    price: $8 / $12
+  - title: Veggie Chili
+    price: $7 / $11
+    desc: Black Bean Chili. Fire Roasted Tomato. Radish. Scallion. Cilantro Lime
+      Sour Cream.
+  - title: Roasted Beet Salad
+    price: $14
+    desc: Arugula. Goat Cheese. Candied Vine & Branch Walnuts. Persimmon. Tangerine.
+      Honey Balsamic Vinaigrette.
+  - title: Grilled Cauliflower Salad
     price: $12
-    desc: Grilled and Marinated Eggplant, Peppers & Summer Squash. Hummus. Herbs.
-      Olives. Goat Cheese. Levain. Side Gem Salad.
-  - title: Heirloom Tomato Toast
-    price: $10
-    desc: Garlic Aioli. Mint. Parsley. Sumac. Grilled Levain.
-  - title: Gazpacho
-    price: $7/$11
-    desc: Heirloom Tomato. Armenian Cucumber. Corno Di Toro Peppers.
-  - title: Bartletts & Blue
+    desc: Wood Grilled Cauliflower. Garlic. Anchovy. Capers. Olives. Parsley.
+  - title: Pears and Blue
     price: $5
-    desc: Bartlett Pears and Point Reyes Blue Cheese.
+    desc: Comice Pears and Point Reyes Blue Cheese.
   - title: Pickle Plate
     price: $7
-    desc: Assorted House Fermented Vegetables.
-  - title: Chocolate Chip Cookie
-    price: $4
-    desc: Tcho chocolate chips. Organic flour.
-  - title: Bacon & Chocolate Chip Cookie
-    price: $5
-    desc: Tcho chocolate chips. Organic flour. Bacon.
+    desc: Assorted House Fermented & Pickled Vegetables.
+  - title: Cast Iron Cornbread
+    price: $7
+    desc: Baked In Cast Iron. Giusto's Organic Corn Meal. Honey.
+  - title: Flourless Chocolate Brownie
+    price: $6
+    desc: Tcho organic fair trade chocolate. Contains butter.
   - title: Unisex Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
