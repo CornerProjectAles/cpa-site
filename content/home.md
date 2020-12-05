@@ -18,17 +18,17 @@ menu:
     price: $18
     desc: Stone Valley Pork Belly Stuffed with House Sausage. Braised Greens. Herb
       Salsa. BurtoNZ Bun. Side Green Salad or Potato Salad.
+  - title: The Meatball Sandwich
+    price: $17
+    desc: Ground Beef and Pork. Spicy Marinara. Basil-Arugula Pesto. Point Reyes
+      Toma. Red Bird Ciabatta. Side Gem Salad or Potato Salad
   - title: Tuna Melt
     price: $17
     desc: Poached Albacore. Dill Caper Remoulade. Point Reyes Toma. BurtoNZ
       Sourdough. Side Green Salad or Potato Salad.
-  - desc: Smoked Oakridge Angus Beef Brisket. Radish. Scallion. Aleppo Sour Cream.
-    title: Beef Chili
+  - desc: Pork Bone Broth. Caramelized Onions. Grilled Sourdough Cheese Bread.
+    title: French Onion Soup
     price: $8 / $12
-  - title: Veggie Chili
-    price: $7 / $11
-    desc: Black Bean Chili. Fire Roasted Tomato. Radish. Scallion. Cilantro Lime
-      Sour Cream.
   - title: Roasted Beet Salad
     price: $14
     desc: Arugula. Goat Cheese. Candied Vine & Branch Walnuts. Persimmon. Tangerine.
