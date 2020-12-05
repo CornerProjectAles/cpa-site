@@ -21,7 +21,7 @@ menu:
   - title: The Meatball Sandwich
     price: $17
     desc: Ground Beef and Pork. Spicy Marinara. Basil-Arugula Pesto. Point Reyes
-      Toma. Red Bird Ciabatta. Side Gem Salad or Potato Salad
+      Toma. Red Bird Ciabatta. Side Green Salad or Potato Salad.
   - title: Tuna Melt
     price: $17
     desc: Poached Albacore. Dill Caper Remoulade. Point Reyes Toma. BurtoNZ
