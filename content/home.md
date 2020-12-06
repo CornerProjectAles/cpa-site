@@ -20,8 +20,8 @@ menu:
       Toma. Red Bird Ciabatta. Side Green Salad or Potato Salad.
   - title: Fermented Jalapeño Grilled Cheese
     price: $14
-    desc: Poached Albacore. Dill Caper Remoulade. Point Reyes Toma. BurtoNZ
-      Sourdough. Side Green Salad or Potato Salad.
+    desc: Fermented Red Jalapeños. Point Reyes Toma. BurtoNZ Sourdough. Side Green
+      Salad or Potato Salad.
   - desc: Fermented Red Jalapeños. Point Reyes Toma. BurtoNZ Sourdough. Side Green
       Salad or Potato Salad.
     title: French Onion Soup
