@@ -14,19 +14,16 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: Porchetta Sandwich
-    price: $18
-    desc: Stone Valley Pork Belly Stuffed with House Sausage. Braised Greens. Herb
-      Salsa. BurtoNZ Bun. Side Green Salad or Potato Salad.
   - title: The Meatball Sandwich
     price: $17
     desc: Ground Beef and Pork. Spicy Marinara. Basil-Arugula Pesto. Point Reyes
       Toma. Red Bird Ciabatta. Side Green Salad or Potato Salad.
-  - title: Tuna Melt
-    price: $17
+  - title: Fermented Jalapeño Grilled Cheese
+    price: $14
     desc: Poached Albacore. Dill Caper Remoulade. Point Reyes Toma. BurtoNZ
       Sourdough. Side Green Salad or Potato Salad.
-  - desc: Pork Bone Broth. Caramelized Onions. Grilled Sourdough Cheese Bread.
+  - desc: Fermented Red Jalapeños. Point Reyes Toma. BurtoNZ Sourdough. Side Green
+      Salad or Potato Salad.
     title: French Onion Soup
     price: $8 / $12
   - title: Roasted Beet Salad
