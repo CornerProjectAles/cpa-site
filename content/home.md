@@ -22,8 +22,7 @@ menu:
     price: $14
     desc: Fermented Red Jalapeños. Point Reyes Toma. BurtoNZ Sourdough. Side Green
       Salad or Potato Salad.
-  - desc: Fermented Red Jalapeños. Point Reyes Toma. BurtoNZ Sourdough. Side Green
-      Salad or Potato Salad.
+  - desc: Pork Bone Broth. Caramelized Onions. Grilled Sourdough Cheese Bread.
     title: French Onion Soup
     price: $8 / $12
   - title: Roasted Beet Salad
