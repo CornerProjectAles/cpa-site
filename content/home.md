@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Menu For Thursday - Sunday, December 3rd - 6th
+menutitle: Menu For Thursday - Sunday, December 10th - 13th
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -17,24 +17,21 @@ menu:
   - title: The Meatball Sandwich
     price: $17
     desc: Ground Beef and Pork. Spicy Marinara. Basil-Arugula Pesto. Point Reyes
-      Toma. Red Bird Ciabatta. Side Green Salad or Potato Salad.
-  - title: Fermented Jalapeño Grilled Cheese
-    price: $14
-    desc: Fermented Red Jalapeños. Point Reyes Toma. BurtoNZ Sourdough. Side Green
-      Salad or Potato Salad.
-  - desc: Pork Bone Broth. Caramelized Onions. Grilled Sourdough Cheese Bread.
-    title: French Onion Soup
-    price: $8 / $12
+      Toma. Pecorino. Red Bird Ciabatta. Side Green Salad or Potato Salad.
+  - title: Vegetarian Muffaletta
+    price: $15
+    desc: Wood Grilled Rapini. Olives. Capers. Anchovy. Fermented Fresno Chilis.
+      Point Reyes Toma. Red Bird Ciabatta. Side Green Salad or Potato Salad.
   - title: Roasted Beet Salad
     price: $14
     desc: Arugula. Goat Cheese. Candied Vine & Branch Walnuts. Persimmon. Tangerine.
       Honey Balsamic Vinaigrette.
+  - desc: Pork Bone Broth. Caramelized Onions. Grilled Sourdough Cheese Bread.
+    title: French Onion Soup
+    price: $8 / $12
   - title: Grilled Cauliflower Salad
     price: $12
     desc: Wood Grilled Cauliflower. Garlic. Anchovy. Capers. Olives. Parsley.
-  - title: Pears and Blue
-    price: $5
-    desc: Comice Pears and Point Reyes Blue Cheese.
   - title: Pickle Plate
     price: $7
     desc: Assorted House Fermented & Pickled Vegetables.
