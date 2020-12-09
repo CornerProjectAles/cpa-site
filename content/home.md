@@ -30,9 +30,6 @@ menu:
   - desc: Pork Bone Broth. Caramelized Onions. Grilled Sourdough Cheese Bread.
     title: French Onion Soup
     price: $8 / $12
-  - title: Grilled Cauliflower Salad
-    price: $12
-    desc: Wood Grilled Cauliflower. Garlic. Anchovy. Capers. Olives. Parsley.
   - title: Pickle Plate
     price: $7
     desc: Assorted House Fermented & Pickled Vegetables.
