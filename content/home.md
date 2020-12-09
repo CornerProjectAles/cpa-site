@@ -25,8 +25,8 @@ menu:
       Point Reyes Toma. Red Bird Ciabatta. Side Green Salad or Potato Salad.
   - title: Roasted Beet Salad
     price: $14
-    desc: Arugula. Goat Cheese. Candied Vine & Branch Walnuts. Persimmon. Tangerine.
-      Honey Balsamic Vinaigrette.
+    desc: Arugula. Goat Cheese. Candied Vine & Branch Walnuts. Tangerine. Honey
+      Balsamic Vinaigrette.
   - desc: Pork Bone Broth. Caramelized Onions. Grilled Sourdough Cheese Bread.
     title: French Onion Soup
     price: $8 / $12
