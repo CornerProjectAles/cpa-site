@@ -19,6 +19,10 @@ menu:
     desc: Ground Beef and Pork. Spicy Marinara. Basil-Arugula Pesto. Point Reyes
       Toma Cheese. Pecorino. Red Bird Ciabatta. Side Green Salad or Potato
       Salad.
+  - title: Pulled Pork Sandwich
+    price: $17
+    desc: Smoked Stone Valley Pork Shoulder. Red Jalapeño Cole Slaw. Smoked
+      Espelette Mayo. Side Green Salad or Potato Salad.
   - title: Vegetarian Muffaletta
     price: $15
     desc: Wood Grilled Rapini. Olives. Capers. Anchovy. Fermented Fresno Chilis.
