@@ -45,6 +45,10 @@ menu:
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
+  - title: Pulled Pork Sandwich
+    price: $17
+    desc: Smoked Stone Valley Pork Shoulder. Red Jalapeño Cole Slaw. Smoked
+      Espelette Mayo. Side Green Salad or Potato Salad.
 banners:
   - src: images/1.jpg
     title: Glasses
