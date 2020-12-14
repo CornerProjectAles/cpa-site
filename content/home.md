@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Menu For Thursday - Sunday, December 10th - 13th
+menutitle: Holiday Meals
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -14,35 +14,21 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: The Meatball Sandwich
-    price: $17
-    desc: Ground Beef and Pork. Spicy Marinara. Basil-Arugula Pesto. Point Reyes
-      Toma Cheese. Pecorino. Red Bird Ciabatta. Side Green Salad or Potato
-      Salad.
-  - title: Pulled Pork Sandwich
-    price: $17
-    desc: Smoked Stone Valley Pork Shoulder. Red Jalapeño Cole Slaw. Smoked
-      Espelette Mayo. Side Green Salad or Potato Salad.
-  - title: Vegetarian Muffaletta
-    price: $15
-    desc: Wood Grilled Rapini. Olives. Capers. Anchovy. Fermented Fresno Chilis.
-      Point Reyes Toma. Red Bird Ciabatta. Side Green Salad or Potato Salad.
-  - title: Roasted Beet Salad
-    price: $14
-    desc: Arugula. Goat Cheese. Candied Vine & Branch Walnuts. Tangerine. Honey
-      Balsamic Vinaigrette.
-  - desc: Pork Bone Broth. Caramelized Onions. Grilled Sourdough Cheese Bread.
-    title: French Onion Soup
-    price: $8 / $12
-  - title: Pickle Plate
-    price: $7
-    desc: Assorted House Fermented & Pickled Vegetables.
-  - title: Cast Iron Cornbread
-    price: $7
-    desc: Baked In Cast Iron. Giusto's Organic Corn Meal. Honey.
-  - title: Flourless Chocolate Brownie
-    price: $6
-    desc: Tcho organic fair trade chocolate. Contains butter.
+  - title: Chicken Holiday Meal (Feeds 2 or 4)
+    price: $60 / $110
+    desc: Smoked Half or Whole Chicken. Mediterranean Spiced Tomato. White Rice.
+      Chic Peas and Rainbow Chard. Herb and Radish Salsa. All meals include 8 oz
+      of roasted pumpkin soup per person with cream & holiday sauce. Orders must
+      be placed online by Friday, December 18th at 12pm. No refunds after that
+      time. Substitutions politely declined. Must be picked up on December 24th
+      between 12pm and 3pm.
+  - title: Lamb Holiday Meal (Feeds 1)
+    price: $30
+    desc: Braised Lamb Shank. Israeli Cous Cous. Grilled Rapini. Harissa. Minted
+      House Yogurt. All meals include 8 oz of roasted pumpkin soup per person
+      with cream & holiday sauce. Orders must be placed online by Friday,
+      December 18th at 12pm. No refunds after that time. Substitutions politely
+      declined. Must be picked up on December 24th between 12pm and 3pm.
   - title: Unisex Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
