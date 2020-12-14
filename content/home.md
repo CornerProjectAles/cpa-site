@@ -29,18 +29,18 @@ menu:
       must be placed online by Friday, December 18th at 12pm. No refunds after
       that time. Substitutions politely declined. Must be picked up on December
       24th between 12pm and 3pm.
-  - title: Unisex Shirt
-    desc: Black tee with Corner Project logo on the chest.
-    price: $20
-  - title: Women's Shirt
-    desc: Black tee with Corner Project logo on the chest.
-    price: $20
   - title: Peppermint Bark
     price: $5
     desc: TCHO Organic Chocolate and Candy Cane. Orders must be placed online by
       Friday, December 18th at 12pm. No refunds after that time. Substitutions
       politely declined. Must be picked up on December 24th between 12pm and
       3pm.
+  - title: Unisex Shirt
+    desc: Black tee with Corner Project logo on the chest.
+    price: $20
+  - title: Women's Shirt
+    desc: Black tee with Corner Project logo on the chest.
+    price: $20
 banners:
   - src: images/1.jpg
     title: Glasses
