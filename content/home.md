@@ -3,7 +3,8 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Holiday Meals For Pickup On December 24th From 12pm to 3pm
+menutitle: To Go Menu For The Weekend of December 17th - 20th and Holiday Meals
+  For Pickup On December 24th From 12pm to 3pm
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -35,10 +36,39 @@ menu:
       Friday, December 18th at 12pm. No refunds after that time. Substitutions
       politely declined. Must be picked up on December 24th ANYTIME between 12pm
       and 3pm.
-  - title: Unisex Shirt
+  - title: The Meatball Sandwich
+    price: $17
+    desc: Ground Beef and Pork. Spicy Marinara. Basil-Arugula Pesto. Point Reyes
+      Toma. Pecorino. Red Bird Ciabatta. Side Green Salad or Potato Salad.
+  - title: Grilled Cauliflower Muffaletta
+    price: $15
+    desc: Wood Grilled Cauliflower. Olives. Capers. Anchovy. Fermented Fresno
+      Chilis. Point Reyes Toma. Red Bird Ciabatta. Side Green Salad or Potato
+      Salad.
+  - title: Roasted Beet Salad
+    price: $14
+    desc: Arugula. Goat Cheese. Candied Vine & Branch Walnuts. Tangerine. Honey
+      Balsamic Vinaigrette.
+  - title: Macaroni & Cheese
+    price: $12
+    desc: Elbow Macaroni. Bechemel. Parmesan. Herbed Breadcrumbs.
+  - title: Lentil Soup
+    price: $8 / $12
+    desc: Green Lentils Cooked in Vegetable Broth. Braised Greens. Nante Carrots.
+      Garlic. Cumin. Yogurt.
+  - title: Pickle Plate
+    price: $7
+    desc: Assorted House Fermented & Pickled Vegetables.
+  - title: Cast Iron Cornbread
+    price: $7
+    desc: Baked In Cast Iron. Giusto's Organic Corn Meal. Honey.
+  - desc: Tcho Organic Fair Trade Chocolate. Contains Butter.
+    title: Flourless Chocolate Brownie
+    price: $6
+  - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
-  - title: Women's Shirt
+  - title: Unisex Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
 banners:
