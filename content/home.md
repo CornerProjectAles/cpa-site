@@ -20,20 +20,20 @@ menu:
     desc: Smoked Half or Whole Chicken. Mediterranean Spiced Tomato. White Rice.
       Chic Peas and Rainbow Chard. Herb and Radish Salsa. All meals include 8 oz
       of roasted pumpkin soup per person. Orders must be placed online by
-      Friday, December 18th at 12pm. No refunds after that time. Substitutions
+      Friday, December 18th at 3pm. No refunds after that time. Substitutions
       politely declined. Must be picked up on December 24th ANYTIME between 12pm
       and 3pm.
   - title: Lamb Holiday Meal (Feeds 1)
     price: $30
     desc: Braised Lamb Shank. Cous Cous. Grilled Rapini. Harissa. Minted House
       Yogurt. All meals include 8 oz of roasted pumpkin soup per person. Orders
-      must be placed online by Friday, December 18th at 12pm. No refunds after
+      must be placed online by Friday, December 18th at 3pm. No refunds after
       that time. Substitutions politely declined. Must be picked up on December
       24th ANYTIME between 12pm and 3pm.
   - title: Peppermint Bark
     price: $5
     desc: TCHO Organic Chocolate and Candy Cane. Orders must be placed online by
-      Friday, December 18th at 12pm. No refunds after that time. Substitutions
+      Friday, December 18th at 3pm. No refunds after that time. Substitutions
       politely declined. Must be picked up on December 24th ANYTIME between 12pm
       and 3pm.
   - title: The Meatball Sandwich
