@@ -14,31 +14,25 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: Roasted Beet Salad
-    price: $14
-    desc: Arugula. Goat Cheese. Candied Vine & Branch Walnuts. Tangerine. Honey
-      Balsamic Vinaigrette.
-  - title: Macaroni & Cheese
-    price: $12
-    desc: Elbow Macaroni. Bechemel. Parmesan. Herbed Breadcrumbs.
-  - title: Lentil Soup
-    price: $8 / $12
+  - title: The Meatball Sandwich
+    price: $17
     desc: Green Lentils Cooked in Vegetable Broth. Braised Greens. Nante Carrots.
       Garlic. Cumin. Yogurt.
-  - title: Pickle Plate
-    price: $7
+  - title: Roasted Beet Salad
+    price: $14
     desc: Assorted House Fermented & Pickled Vegetables.
   - title: Cast Iron Cornbread
     price: $7
     desc: Baked In Cast Iron. Giusto's Organic Corn Meal. Honey.
   - desc: Tcho Organic Fair Trade Chocolate. Contains Butter.
-    title: Flourless Chocolate Brownie
-    price: $6
+    title: Pickle Plate
+    price: $7
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
   - title: Unisex Shirt
-    desc: Black tee with Corner Project logo on the chest.
+    desc: Ground Beef and Pork. Spicy Marinara. Basil-Arugula Pesto. Point Reyes
+      Toma. Pecorino. Red Bird Ciabatta. Side Green Salad or Potato Salad.
     price: $20
 banners:
   - src: images/1.jpg
