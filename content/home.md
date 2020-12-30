@@ -15,21 +15,6 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: Chicken Holiday Meal (Feeds 2 or 4)
-    price: $60 / $110
-    desc: Smoked Half or Whole Chicken. Mediterranean Spiced Tomato. White Rice.
-      Chic Peas and Rainbow Chard. Herb and Radish Salsa. All meals include 8 oz
-      of roasted pumpkin soup per person. Orders must be placed online by
-      Friday, December 18th at 3pm. No refunds after that time. Substitutions
-      politely declined. Must be picked up on December 24th ANYTIME between 12pm
-      and 3pm.
-  - title: Lamb Holiday Meal (Feeds 1)
-    price: $30
-    desc: Braised Lamb Shank. Cous Cous. Grilled Rapini. Harissa. Minted House
-      Yogurt. All meals include 8 oz of roasted pumpkin soup per person. Orders
-      must be placed online by Friday, December 18th at 3pm. No refunds after
-      that time. Substitutions politely declined. Must be picked up on December
-      24th ANYTIME between 12pm and 3pm.
   - title: Peppermint Bark
     price: $5
     desc: TCHO Organic Chocolate and Candy Cane. Orders must be placed online by
