@@ -18,6 +18,10 @@ menu:
     price: $17
     desc: Green Lentils Cooked in Vegetable Broth. Braised Greens. Nante Carrots.
       Garlic. Cumin. Yogurt.
+  - title: Fermented Jalapeño Grilled Cheese
+    price: $14
+    desc: Fermented Jalapeños. Point Reyes Toma. BurtoNZ Sourdough. Side Green Salad
+      or Potato Salad.
   - title: Roasted Beet Salad
     price: $14
     desc: Assorted House Fermented & Pickled Vegetables.
@@ -27,6 +31,9 @@ menu:
   - desc: Tcho Organic Fair Trade Chocolate. Contains Butter.
     title: Pickle Plate
     price: $7
+  - title: Peppermint Bark
+    price: $5
+    desc: TCHO Organic Dark Chocolate. Valharona White Chocolate. Candy Cane.
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
