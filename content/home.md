@@ -16,15 +16,16 @@ story: >-
 menu:
   - title: The Meatball Sandwich
     price: $17
-    desc: Green Lentils Cooked in Vegetable Broth. Braised Greens. Nante Carrots.
-      Garlic. Cumin. Yogurt.
+    desc: Ground Beef and Pork. Spicy Marinara. Basil-Arugula Pesto. Point Reyes
+      Toma. Pecorino. Red Bird Ciabatta. Side Green Salad or Potato Salad.
   - title: Fermented Jalapeño Grilled Cheese
     price: $14
     desc: Fermented Jalapeños. Point Reyes Toma. BurtoNZ Sourdough. Side Green Salad
       or Potato Salad.
   - title: Roasted Beet Salad
     price: $14
-    desc: Assorted House Fermented & Pickled Vegetables.
+    desc: Arugula. Goat Cheese. Candied Vine & Branch Walnuts. Tangerine. Honey
+      Balsamic Vinaigrette.
   - title: Lentil Soup
     price: $8 / $12
     desc: Green Lentils Cooked in Vegetable Broth. Braised Greens. Nante Carrots.
@@ -39,8 +40,7 @@ menu:
     desc: Black tee with Corner Project logo on the chest.
     price: $20
   - title: Unisex Shirt
-    desc: Ground Beef and Pork. Spicy Marinara. Basil-Arugula Pesto. Point Reyes
-      Toma. Pecorino. Red Bird Ciabatta. Side Green Salad or Potato Salad.
+    desc: Black tee with Corner Project logo on the chest.
     price: $20
 banners:
   - src: images/1.jpg
