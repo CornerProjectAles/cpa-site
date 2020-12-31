@@ -25,10 +25,11 @@ menu:
   - title: Roasted Beet Salad
     price: $14
     desc: Assorted House Fermented & Pickled Vegetables.
-  - title: Cast Iron Cornbread
-    price: $7
-    desc: Baked In Cast Iron. Giusto's Organic Corn Meal. Honey.
-  - desc: Tcho Organic Fair Trade Chocolate. Contains Butter.
+  - title: Lentil Soup
+    price: $8 / $12
+    desc: Green Lentils Cooked in Vegetable Broth. Braised Greens. Nante Carrots.
+      Garlic. Cumin. Yogurt.
+  - desc: Assorted House Fermented & Pickled Vegetables.
     title: Pickle Plate
     price: $7
   - title: Peppermint Bark
