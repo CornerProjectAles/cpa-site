@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: To Go Menu For The Weekend of December 31st - January 3rd
+menutitle: To Go Menu For The Weekend of January 7th - 10th
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -14,28 +14,23 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: The Meatball Sandwich
+  - title: Pulled Pork Sandwich
     price: $17
-    desc: Ground Beef and Pork. Spicy Marinara. Basil-Arugula Pesto. Point Reyes
-      Toma. Pecorino. Red Bird Ciabatta. Side Green Salad or Potato Salad.
-  - title: Fermented Jalapeño Grilled Cheese
-    price: $14
-    desc: Fermented Jalapeños. Point Reyes Toma. BurtoNZ Sourdough. Side Green Salad
-      or Potato Salad.
-  - title: Roasted Beet Salad
-    price: $14
-    desc: Arugula. Goat Cheese. Candied Vine & Branch Walnuts. Tangerine. Honey
-      Balsamic Vinaigrette.
-  - title: Lentil Soup
+    desc: Stone Valley Pork Shoulder. Fennel-Turmeric Slaw. Aioli. BurtoNZ Bun. Side
+      Green Salad or Potato Salad.
+  - title: Chicken Noodle Soup
     price: $8 / $12
-    desc: Green Lentils Cooked in Vegetable Broth. Braised Greens. Nante Carrots.
-      Garlic. Cumin. Yogurt.
+    desc: Organic Chicken Bone Broth. Heirloom Chicken Breast. Bucatoni. Carrots.
+      Spinach.
+  - title: Macaroni & Cheese
+    price: $12
+    desc: Elbow Macaroni. Bechamel. Parmesan. Herbed Breadcrumbs. Add Bacon $2
+  - title: Spinach Salad
+    price: $14
+    desc: Organic Greens. Bacon. Egg. Shallot. Apple Cider Honey-Dijon Vinaigrette.
   - desc: Assorted House Fermented & Pickled Vegetables.
     title: Pickle Plate
     price: $7
-  - title: Peppermint Bark
-    price: $5
-    desc: TCHO Organic Dark Chocolate. Valharona White Chocolate. Candy Cane.
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
