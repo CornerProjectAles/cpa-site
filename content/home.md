@@ -20,7 +20,7 @@ menu:
       Green Salad or Potato Salad.
   - title: Chicken Noodle Soup
     price: $8 / $12
-    desc: Organic Chicken Bone Broth. Heirloom Chicken Breast. Bucatoni. Carrots.
+    desc: Organic Chicken Bone Broth. Heirloom Chicken Breast. Bucatini. Carrots.
       Spinach.
   - title: Macaroni & Cheese
     price: $12
