@@ -24,7 +24,7 @@ menu:
       Spinach.
   - title: Macaroni & Cheese
     price: $12
-    desc: Elbow Macaroni. Bechamel. Parmesan. Herbed Breadcrumbs. Add Bacon $2
+    desc: Elbow Macaroni. Bechamel. Parmesan. Herbed Breadcrumbs. Add Bacon $1.
   - title: Spinach Salad
     price: $14
     desc: Organic Greens. Bacon. Egg. Shallot. Apple Cider Honey-Dijon Vinaigrette.
