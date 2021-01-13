@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: To Go Menu For The Weekend of January 7th - 10th
+menutitle: To Go Menu For The Weekend of January 14th - 17th
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -14,23 +14,28 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: Pulled Pork Sandwich
+  - title: The Meatloaf Sandwich
     price: $17
-    desc: Stone Valley Pork Shoulder. Fennel-Turmeric Slaw. Aioli. BurtoNZ Bun. Side
-      Green Salad or Potato Salad.
+    desc: Oakridge Angus Beef. Stone Valley Pork. Bacon. Charred Red Onion. Aioli.
+      Point Reyes Toma Cheese. Red Bird Ciabatta. Side Green Salad or Potato
+      Salad. Add Fried Egg $3
   - title: Chicken Noodle Soup
     price: $8 / $12
-    desc: Organic Chicken Bone Broth. Heirloom Chicken Breast. Bucatini. Carrots.
-      Spinach.
+    desc: Organic Bone Broth. Heirloom Chicken Breast. Bucatini. Carrots.
   - title: Macaroni & Cheese
     price: $12
-    desc: Elbow Macaroni. Bechamel. Parmesan. Herbed Breadcrumbs. Add Bacon $1.
+    desc: Elbow Macaroni. Bechamel. Parmesan. Herbed Breadcrumbs. Add Bacon $1. Add
+      Broccoli Florets $1. Add Fermented Jalapeño Peppers $1.
   - title: Spinach Salad
     price: $14
-    desc: Organic Greens. Bacon. Egg. Shallot. Apple Cider Honey-Dijon Vinaigrette.
+    desc: Organic Greens. Bacon. Egg. Shallot. Black Pepper. Apple Cider Honey-Dijon
+      Vinaigrette.
   - desc: Assorted House Fermented & Pickled Vegetables.
     title: Pickle Plate
     price: $7
+  - title: Cast Iron Cornbread
+    price: $7
+    desc: Baked In Cast Iron. Giusto's Organic Corn Meal. Honey.
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
