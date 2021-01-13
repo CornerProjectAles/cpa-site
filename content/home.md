@@ -21,7 +21,7 @@ menu:
       Salad. Add Fried Egg $3.
   - title: Chicken Noodle Soup
     price: $8 / $12
-    desc: Organic Bone Broth. Heirloom Chicken Breast. Bucatini. Carrots.
+    desc: Organic Bone Broth. Chicken Breast & Leg Confit. Bucatini. Carrots.
   - title: Macaroni & Cheese
     price: $12
     desc: Elbow Macaroni. Bechamel. Parmesan. Herbed Breadcrumbs. Add Bacon $1. Add
