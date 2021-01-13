@@ -18,7 +18,7 @@ menu:
     price: $17
     desc: Oakridge Angus Beef. Stone Valley Pork. Bacon. Charred Red Onion. Aioli.
       Point Reyes Toma Cheese. Red Bird Ciabatta. Side Green Salad or Potato
-      Salad. Add Fried Egg $3
+      Salad. Add Fried Egg $3.
   - title: Chicken Noodle Soup
     price: $8 / $12
     desc: Organic Bone Broth. Heirloom Chicken Breast. Bucatini. Carrots.
