@@ -17,8 +17,8 @@ menu:
   - title: The Meatloaf Sandwich
     price: $17
     desc: Oakridge Angus Beef. Stone Valley Pork. Bacon. Charred Red Onion. Aioli.
-      Point Reyes Toma. Red Bird Ciabatta. Side Salad or Potato Salad. Add Fried
-      Egg $2. Add Blue Cheese $2.
+      Point Reyes Toma. Red Bird Ciabatta. Side Green Salad or Potato Salad. Add
+      Fried Egg $2. Add Blue Cheese $2.
   - title: Pulled Pork Sandwich
     price: $17
     desc: Stone Valley Pork Shoulder. Preserved Nectarine Jam. Spring Greens.
