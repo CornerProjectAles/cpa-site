@@ -3,8 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: To Go Menu For The Weekend of January 21st - 24th. We Will Be Closed
-  From January 28th - 31st
+menutitle: To Go Menu For The Weekend of February 4th - 7th
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -15,34 +14,35 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
-  - title: The Meatloaf Sandwich
+  - title: The Geyserville Cheesesteak
     price: $17
-    desc: Oakridge Angus Beef. Stone Valley Pork. Bacon. Charred Red Onion. Aioli.
-      Point Reyes Toma. Red Bird Ciabatta. Side Green Salad or Potato Salad. Add
-      Fried Egg $2. Add Blue Cheese $2.
+    desc: Grilled Oakridge Angus Bavette Steak. Charred Red Onion. Fermented
+      Jalapeños. Espelette Mayo. Point Reyes Toma. Red Bird Ciabatta. Side Green
+      Salad or Potato Salad.
   - title: Pulled Pork Sandwich
     price: $17
-    desc: Stone Valley Pork Shoulder. Preserved Nectarine Jam. Spring Greens.
-      BurtoNZ Bun. Side Green Salad or Potato Salad.
-  - title: Chicory & Apple Salad
+    desc: Stone Valley Pork Shoulder. Apricot Chutney. Spring Greens. BurtoNZ Bun.
+      Side Green Salad or Potato Salad.
+  - title: Spinach Salad
     price: $14
-    desc: Escarole. Radicchio. Fuji Apple. Dried Cranberries.
-      Walnut-Pistachio-Almond Brittle. Point Reyes Blue Cheese. Sherry
-      Vinaigrette.
-  - title: Lentil Soup
-    price: $8 / $12
-    desc: Green Lentils in Bone Broth. Pancetta. Braised Greens. Carrots. Garlic.
-      Thyme. Cumin. Yogurt.
+    desc: Organic Greens. Bacon. Point Reyes Blue. Shallot. Black Pepper. Apple
+      Cider Honey Vinaigrette.
   - title: Macaroni & Cheese
     price: $12
     desc: Elbow Macaroni. Bechamel. Parmesan. Herbed Breadcrumbs. Add Bacon $1. Add
-      Broccoli Florets $1. Add Fermented Jalapeño Peppers $1.
+      Broccoli Florets $1.
+  - title: Deviled Eggs
+    price: $10 (4)
+    desc: Organic Eggs. Smoked Espelette Vinegar. House Paprika. Chives.
+  - title: Bar Nuts
+    price: $4
+    desc: Sweet. Salt & Heat.
   - desc: Assorted House Fermented & Pickled Vegetables.
     title: Pickle Plate
     price: $7
-  - title: Cast Iron Cornbread
-    price: $7
-    desc: Baked In Cast Iron. Giusto's Organic Corn Meal. Honey.
+  - title: Flourless Chocolate Brownie
+    price: $6
+    desc: Tcho Organic Fair Trade Chocolate. Contains Butter.
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
