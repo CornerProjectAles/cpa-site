@@ -17,8 +17,8 @@ menu:
   - title: The Geyserville Cheesesteak
     price: $17
     desc: Grilled Oakridge Angus Bavette Steak. Charred Red Onion. Fermented
-      Jalapeños. Espelette Mayo. Point Reyes Toma. Red Bird Ciabatta. Side Green
-      Salad or Potato Salad.
+      Jalapeños. Espelette Mayo. Point Reyes Toma Cheese. Red Bird Ciabatta.
+      Side Green Salad or Potato Salad.
   - title: Pulled Pork Sandwich
     price: $17
     desc: Stone Valley Pork Shoulder. Apricot Chutney. Spring Greens. BurtoNZ Bun.
