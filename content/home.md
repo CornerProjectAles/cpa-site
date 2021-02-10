@@ -25,12 +25,12 @@ menu:
   - title: The Geyserville Cheesesteak
     price: $17
     desc: Grilled Oakridge Angus Bavette Steak. Charred Red Onion. Fermented
-      Jalapeños. Espelette Mayo. Point Reyes Toma. Ciabatta. Side Green Salad or
-      Potato Salad.
+      Jalapeños. Espelette Mayo. Point Reyes Toma Cheese. Ciabatta. Side Green
+      Salad or Potato Salad.
   - title: Pulled Pork & Apricot Jam Grilled Cheese
     price: $15
     desc: Smoked Stone Valley Pork Butt. Preserved California Apricot Jam. Point
-      Reyes Toma. BurtoNZ Sourdough. Side Green Salad or Potato Salad.
+      Reyes Toma Cheese. BurtoNZ Sourdough. Side Green Salad or Potato Salad.
   - title: Macaroni & Cheese
     price: $12
     desc: Elbow Macaroni. Bechamel. Parmesan. Herbed Breadcrumbs. Add Bacon $1. Add
