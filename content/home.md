@@ -14,32 +14,36 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
 menu:
+  - title: Beef Chili
+    price: $8 / $12
+    desc: Smoked Oakridge Angus Beef Brisket. French Breakfast Radish. Pickled Red
+      Onion. Scallion. Aleppo-Lime Sour Cream. Add Shredded Cheese $2.
+  - title: Veggie Chili
+    price: $7 / $11
+    desc: Black Bean Chili. House Smoked Tomato. French Breakfast Radish. Pickled
+      Red Onion. Scallion. Aleppo-Lime Sour Cream. Add Shredded Cheese $2.
   - title: The Geyserville Cheesesteak
     price: $17
     desc: Grilled Oakridge Angus Bavette Steak. Charred Red Onion. Fermented
-      Jalapeños. Espelette Mayo. Point Reyes Toma Cheese. Red Bird Ciabatta.
-      Side Green Salad or Potato Salad.
-  - title: Pulled Pork Sandwich
-    price: $17
-    desc: Stone Valley Pork Shoulder. Apricot Chutney. Spring Greens. BurtoNZ Bun.
-      Side Green Salad or Potato Salad.
-  - title: Spinach Salad
-    price: $14
-    desc: Organic Greens. Bacon. Point Reyes Blue. Shallot. Black Pepper. Apple
-      Cider Honey Vinaigrette.
+      Jalapeños. Espelette Mayo. Point Reyes Toma. Ciabatta. Side Green Salad or
+      Potato Salad.
+  - title: Pulled Pork & Apricot Jam Grilled Cheese
+    price: $15
+    desc: Smoked Stone Valley Pork Butt. Preserved California Apricot Jam. Point
+      Reyes Toma. BurtoNZ Sourdough. Side Green Salad or Potato Salad.
   - title: Macaroni & Cheese
     price: $12
     desc: Elbow Macaroni. Bechamel. Parmesan. Herbed Breadcrumbs. Add Bacon $1. Add
       Broccoli Florets $1.
-  - title: Deviled Eggs
-    price: $10 (4)
-    desc: Organic Eggs. Smoked Espelette Vinegar. House Paprika. Chives.
   - title: Bar Nuts
     price: $4
     desc: Sweet. Salt & Heat.
   - desc: Assorted House Fermented & Pickled Vegetables.
     title: Pickle Plate
     price: $7
+  - title: Cast Iron Cornbread
+    price: $7
+    desc: Baked In Cast Iron. Giusto's Organic Corn Meal. Honey.
   - title: Flourless Chocolate Brownie
     price: $6
     desc: Tcho Organic Fair Trade Chocolate. Contains Butter.
