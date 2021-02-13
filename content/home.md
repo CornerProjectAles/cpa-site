@@ -27,8 +27,8 @@ menu:
     desc: Grilled Oakridge Angus Bavette Steak. Charred Red Onion. Fermented
       Jalapeños. Espelette Mayo. Point Reyes Toma Cheese. Ciabatta. Side Green
       Salad or Potato Salad.
-  - title: Pulled Pork & Apricot Jam Grilled Cheese
-    price: $15
+  - title: Pulled Pork & Apricot Jam Melt
+    price: $16
     desc: Smoked Stone Valley Pork Butt. Preserved California Apricot Jam. Point
       Reyes Toma Cheese. BurtoNZ Sourdough. Side Green Salad or Potato Salad.
   - title: Macaroni & Cheese
