@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Menu For The Weekend of February 11th - 14th
+menutitle: Menu For The Weekend of February 18th - 21st
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -12,25 +12,28 @@ story: >-
   do with their dreams of opening their establishment.
 
 
-  In 2005, Tom left a career in social work to attend culinary school and a few years later, Chris began brewing beer on his stove-top. In early 2017 the two of them revisited their dream in a more serious mindset and brought the concept of Corner Project to fruition.
+  In 2005, Tom left a career in social work to attend culinary school. A few years later, Chris began brewing beer on his stove top while working in Silicon Valley for high tech companies as a software engineer. In early 2017, the two of them revisited their dream in a more serious mindset and brought the concept for Corner Project to fruition.
 menu:
   - title: Beef Chili
     price: $8 / $12
     desc: Smoked Oakridge Angus Beef Brisket. French Breakfast Radish. Pickled Red
       Onion. Scallion. Aleppo-Lime Sour Cream. Add Shredded Cheese $2.
-  - title: Veggie Chili
+  - title: Vegetarian Chili
     price: $7 / $11
     desc: Black Bean Chili. House Smoked Tomato. French Breakfast Radish. Pickled
       Red Onion. Scallion. Aleppo-Lime Sour Cream. Add Shredded Cheese $2.
-  - title: The Geyserville Cheesesteak
+  - title: Pulled Pork Sandwich
     price: $17
-    desc: Grilled Oakridge Angus Bavette Steak. Charred Red Onion. Fermented
-      Jalapeños. Espelette Mayo. Point Reyes Toma Cheese. Ciabatta. Side Green
-      Salad or Potato Salad.
-  - title: Pulled Pork & Apricot Jam Melt
-    price: $16
-    desc: Smoked Stone Valley Pork Butt. Preserved California Apricot Jam. Point
-      Reyes Toma Cheese. BurtoNZ Sourdough. Side Green Salad or Potato Salad.
+    desc: Smoked Stone Valley Pork Butt. Spicy Slaw. Pickled Red Onion. BurtoNZ Bun.
+      Side Green Salad or Potato Salad.
+  - title: Tuna Melt
+    price: $17
+    desc: Poached Albacore. Dill Caper Mayo. Point Reyes Toma. BurtoNZ Sourdough.
+      Side Green Salad or Potato Salad.
+  - title: Kale Salad
+    price: $12
+    desc: Lacinato Kale. Turmeric Kraut. Red Cabbage. Carrots. Sunflower Seeds.
+      Pepitas. Apple Cider Vinaigrette.
   - title: Macaroni & Cheese
     price: $12
     desc: Elbow Macaroni. Bechamel. Parmesan. Herbed Breadcrumbs. Add Bacon $1. Add
