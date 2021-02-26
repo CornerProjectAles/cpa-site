@@ -26,10 +26,6 @@ menu:
     price: $16
     desc: Grilled & Marinated Cauliflower. Hummus. Olives. Feta. Greens. Parsley.
       House Sourdough Flatbread.
-  - title: Chicken Flatbread Sandwich
-    price: $17
-    desc: Smoked Chicken. Hummus. Olives. Feta. Greens. Parsley. House Sourdough
-      Flatbread.
   - title: Chickpea & Lemon Soup
     price: $8 / $12
     desc: Purée of Garbanzo Beans, Cumin & Lemon. With Harissa, Yogurt & Herbs.
@@ -37,9 +33,6 @@ menu:
     price: $14
     desc: Butterhead Lettuces. Turmeric Kraut. Red Cabbage. Carrots. Sunflower &
       Pumpkin Seeds. Sumac. Red Wine Tahini Vinaigrette. Add Chicken $5.
-  - title: Bar Nuts
-    price: $5
-    desc: Sweet. Salt & Heat.
   - desc: Assorted House Fermented & Pickled Vegetables.
     title: Pickle Plate
     price: $7
