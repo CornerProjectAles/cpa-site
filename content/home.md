@@ -33,12 +33,12 @@ menu:
   - title: Chickpea & Lemon Soup
     price: $8 / $12
     desc: Purée of Garbanzo Beans, Cumin & Lemon. With Harissa, Yogurt & Herbs.
-  - title: Mediterranean Salad
+  - title: Green Salad
     price: $14
     desc: Butterhead Lettuces. Turmeric Kraut. Red Cabbage. Carrots. Sunflower &
       Pumpkin Seeds. Sumac. Red Wine Tahini Vinaigrette. Add Chicken $5.
   - title: Bar Nuts
-    price: $4
+    price: $5
     desc: Sweet. Salt & Heat.
   - desc: Assorted House Fermented & Pickled Vegetables.
     title: Pickle Plate
