@@ -24,7 +24,7 @@ menu:
       Salad or Potato Salad.
   - title: Kale & Chickpea Soup
     price: $8 / $12
-    desc: Purée of Garbanzo Beans, Cumin & Lemon. With Harissa, Yogurt & Herbs.
+    desc: Bone Broth. Lacinato Kale. Chickpeas. Harissa.
   - desc: Assorted House Fermented & Pickled Vegetables.
     title: Pickle Plate
     price: $7
