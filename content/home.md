@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Menu For The Weekend of February 25th - 28th
+menutitle: Menu For The Weekend of March 4th - 7th
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -14,31 +14,26 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school. A few years later, Chris began brewing beer on his stove top while working in Silicon Valley for high tech companies as a software engineer. In early 2017, the two of them revisited their dream in a more serious mindset and brought the concept for Corner Project to fruition.
 menu:
-  - title: The Lamb Sandwich
+  - title: Duck Leg Sandwich
     price: $18.50
-    desc: Smoked Lamb Shoulder. Tzatziki. Harissa. Arugula. Pickled Red Onion.
-      Redbird Ciabatta. Side Green Salad or Potato Salad.
-  - title: The Chicken Sandwich
+    desc: Confit Duck Leg. Apricot Chutney. Point Reyes Toma. Arugula. BurtoNZ Bun.
+      Side Green Salad or Potato Salad.
+  - title: BBQ Chicken Sandwich
     price: $17
-    desc: Smoked Chicken. Tzatziki. Harissa. Arugula. Pickled Red Onion. Redbird
-      Ciabatta. Side Green Salad or Potato Salad.
-  - title: Veggie Flatbread Sandwich
-    price: $16
-    desc: Grilled & Marinated Cauliflower. Hummus. Olives. Feta. Greens. Parsley.
-      House Sourdough Flatbread.
-  - title: Chickpea & Lemon Soup
+    desc: Smoked Organic Chicken. House BBQ Sauce. Coleslaw and Pickles. Side Green
+      Salad or Potato Salad.
+  - title: Kale & Chickpea Soup
     price: $8 / $12
     desc: Purée of Garbanzo Beans, Cumin & Lemon. With Harissa, Yogurt & Herbs.
-  - title: Green Salad
-    price: $14
-    desc: Butterhead Lettuces. Turmeric Kraut. Red Cabbage. Carrots. Sunflower &
-      Pumpkin Seeds. Sumac. Red Wine Tahini Vinaigrette. Add Chicken $5.
   - desc: Assorted House Fermented & Pickled Vegetables.
     title: Pickle Plate
     price: $7
   - title: Flourless Chocolate Brownie
     price: $6
     desc: Tcho Organic Fair Trade Chocolate. Contains Butter.
+  - title: Cast Iron Cornbread
+    price: $7
+    desc: Baked In Cast Iron. Giusto's Organic Corn Meal. Honey.
   - title: Women's Shirt
     desc: Black tee with Corner Project logo on the chest.
     price: $20
