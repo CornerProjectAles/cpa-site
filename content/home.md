@@ -25,6 +25,9 @@ menu:
   - title: Kale & Chickpea Soup
     price: $8 / $12
     desc: Bone Broth. Lacinato Kale. Chickpeas. Harissa.
+  - title: Mixed Green Salad
+    price: $12
+    desc: Local Greens. Seeds. House Vinaigrette.
   - desc: Assorted House Fermented & Pickled Vegetables.
     title: Pickle Plate
     price: $7
