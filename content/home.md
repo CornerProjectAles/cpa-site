@@ -21,13 +21,14 @@ menu:
   - title: Pork & Black Fig Jam Melt
     price: $16
     desc: Smoked Stone Valley Pork Butt. Preserved Black Mission Figs. Point Reyes
-      Toma. BurtoNZ Sourdough. Side Green Salad or Potato Salad.
+      Toma Cheese. BurtoNZ Sourdough. Side Green Salad or Potato Salad.
   - title: The Mushroom Melt
     price: $15
-    desc: Bone Broth. Lacinato Kale. Chickpeas. Harissa.
+    desc: Roasted Maitake Mushrooms. Point Reyes Toma Cheese. Sliced BurtoNZ
+      Sourdough. Side Green Salad or Potato Salad.
   - title: Green Garlic Broth & Poached Egg
     price: $12
-    desc: Local Greens. Seeds. House Vinaigrette.
+    desc: Bone Broth. Bernier Farms Green Garlic. Organic Egg.
   - desc: Assorted House Fermented & Pickled Vegetables.
     title: Pickle Plate
     price: $7
