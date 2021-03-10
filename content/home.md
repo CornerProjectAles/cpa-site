@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Menu For The Weekend of March 4th - 7th
+menutitle: Menu For The Weekend of March 11th - 14th
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -14,18 +14,18 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school. A few years later, Chris began brewing beer on his stove top while working in Silicon Valley for high tech companies as a software engineer. In early 2017, the two of them revisited their dream in a more serious mindset and brought the concept for Corner Project to fruition.
 menu:
-  - title: Duck Leg Sandwich
-    price: $18.50
-    desc: Confit Duck Leg. Apricot Chutney. Point Reyes Toma. Arugula. BurtoNZ Bun.
-      Side Green Salad or Potato Salad.
   - title: BBQ Chicken Sandwich
     price: $17
-    desc: Smoked Organic Chicken. House BBQ Sauce. Coleslaw and Pickles. Side Green
-      Salad or Potato Salad.
-  - title: Kale & Chickpea Soup
-    price: $8 / $12
+    desc: Smoked Organic Chicken. House BBQ Sauce. Coleslaw and Pickles. BurtoNZ
+      Bun. Side Green Salad or Potato Salad.
+  - title: Pork & Black Fig Jam Melt
+    price: $16
+    desc: Smoked Stone Valley Pork Butt. Preserved Black Mission Figs. Point Reyes
+      Toma. BurtoNZ Sourdough. Side Green Salad or Potato Salad.
+  - title: The Mushroom Melt
+    price: $15
     desc: Bone Broth. Lacinato Kale. Chickpeas. Harissa.
-  - title: Mixed Green Salad
+  - title: Green Garlic Broth & Poached Egg
     price: $12
     desc: Local Greens. Seeds. House Vinaigrette.
   - desc: Assorted House Fermented & Pickled Vegetables.
