@@ -26,6 +26,9 @@ menu:
     price: $15
     desc: Roasted Maitake Mushrooms. Point Reyes Toma Cheese. Sliced BurtoNZ
       Sourdough. Side Green Salad or Potato Salad.
+  - title: Roasted Beet Salad
+    desc: Arugula. Goat Cheese. Candied Walnuts. Honey Balsamic Vinaigrette.
+    price: $14
   - title: Green Garlic Broth & Poached Egg
     price: $12
     desc: Bone Broth. Bernier Farms Green Garlic. Organic Egg.
