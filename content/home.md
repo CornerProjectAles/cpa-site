@@ -27,7 +27,7 @@ menu:
     desc: Roasted Maitake Mushrooms. Point Reyes Toma Cheese. Sliced BurtoNZ
       Sourdough. Side Green Salad or Potato Salad.
   - title: Roasted Beet Salad
-    desc: Arugula. Goat Cheese.CandiedWalnuts. Honey Balsamic Vinaigrette.
+    desc: Arugula. Goat Cheese. Candied Walnuts. Honey Balsamic Vinaigrette.
     price: $14
   - title: Green Garlic Broth & Poached Egg
     price: $12
