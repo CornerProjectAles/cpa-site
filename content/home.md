@@ -29,6 +29,9 @@ menu:
   - title: Roasted Beet Salad
     desc: Arugula. Goat Cheese. Candied Walnuts. Honey Balsamic Vinaigrette.
     price: $14
+  - desc: Bone Broth. Bernier Farms Green Garlic. Organic Egg.
+    price: $12
+    title: Green Garlic Broth & Poached Egg
   - desc: Assorted House Fermented & Pickled Vegetables.
     title: Pickle Plate
     price: $7
