@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Menu For The Weekend of March 11th - 14th
+menutitle: Menu For The Weekend of March 18th - 21st
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -14,24 +14,21 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school. A few years later, Chris began brewing beer on his stove top while working in Silicon Valley for high tech companies as a software engineer. In early 2017, the two of them revisited their dream in a more serious mindset and brought the concept for Corner Project to fruition.
 menu:
-  - title: BBQ Chicken Sandwich
-    price: $17
-    desc: Smoked Organic Chicken. House BBQ Sauce. Coleslaw and Pickles. BurtoNZ
-      Bun. Side Green Salad or Potato Salad.
+  - title: The Meatball Sandwich
+    price: $18
+    desc: Beef, Pork and Green Garlic Meatballs. Spicy Marinara. Arugula Pesto.
+      Point Reyes Toma Cheese. Parmesan. Red Bird Ciabatta. Side Green Salad or
+      Potato Salad.
   - title: Pork & Black Fig Jam Melt
-    price: $16
+    price: $16.50
     desc: Smoked Stone Valley Pork Butt. Preserved Black Mission Figs. Point Reyes
       Toma Cheese. BurtoNZ Sourdough. Side Green Salad or Potato Salad.
-  - title: The Mushroom Melt
-    price: $15
-    desc: Roasted Maitake Mushrooms. Point Reyes Toma Cheese. Sliced BurtoNZ
-      Sourdough. Side Green Salad or Potato Salad.
   - title: Roasted Beet Salad
     desc: Arugula. Goat Cheese. Candied Walnuts. Honey Balsamic Vinaigrette.
     price: $14
-  - desc: Bone Broth. Bernier Farms Green Garlic. Organic Egg.
-    price: $12
-    title: Green Garlic Broth & Poached Egg
+  - desc: Bone Broth. Shredded Chicken. Braised Greens. Garbanzo Beans. White Rice.
+    price: $8 / $12
+    title: Middle Eastern Minestrone
   - desc: Assorted House Fermented & Pickled Vegetables.
     title: Pickle Plate
     price: $7
