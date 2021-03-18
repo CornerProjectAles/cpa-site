@@ -23,8 +23,8 @@ menu:
     price: $16.50
     desc: Smoked Stone Valley Pork Butt. Preserved Black Mission Figs. Point Reyes
       Toma Cheese. BurtoNZ Sourdough. Side Green Salad or Potato Salad.
-  - title: Roasted Beet Salad
-    desc: Arugula. Goat Cheese. Candied Walnuts. Honey Balsamic Vinaigrette.
+  - title: Roasted Beet & Spinach Salad
+    desc: Goat Cheese. Candied Walnuts. Honey Balsamic Vinaigrette.
     price: $14
   - desc: Bone Broth. Shredded Chicken. Braised Greens. Garbanzo Beans. White Rice.
     price: $8 / $12
