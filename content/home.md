@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Menu For The Weekend of March 18th - 21st
+menutitle: Menu For The Weekend of March 25th - 28st
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -19,14 +19,14 @@ menu:
     desc: Beef, Pork and Green Garlic Meatballs. Spicy Marinara. Arugula Pesto.
       Point Reyes Toma Cheese. Parmesan. Red Bird Ciabatta. Side Green Salad or
       Potato Salad.
-  - title: Pork & Black Fig Jam Melt
-    price: $16.50
-    desc: Smoked Stone Valley Pork Butt. Preserved Black Mission Figs. Point Reyes
-      Toma Cheese. BurtoNZ Sourdough. Side Green Salad or Potato Salad.
-  - title: Roasted Beet & Spinach Salad
-    desc: Bernier Farms Spinach. Goat Cheese. Candied Walnuts. Black Pepper. Honey
-      Balsamic Vinaigrette.
-    price: $14
+  - title: Duck Leg Sandwich
+    price: $19.50
+    desc: Confit Duck Leg. Orange Marmalade. Point Reyes Toma Cheese. Arugula.
+      BurtoNZ Bun. Side Green Salad or Potato Salad.
+  - title: Caesar Salad
+    desc: Little Gem & Cegolaine Lettuces. Red Cabbage. Radish. Shaved Carrots.
+      Parmesan Croutons or Breadcrumbs? Add Grilled Chicken $5.
+    price: $15
   - desc: Bone Broth. Shredded Chicken. Braised Greens. Garbanzo Beans. White Rice.
     price: $8 / $12
     title: Middle Eastern Minestrone
