@@ -25,7 +25,7 @@ menu:
       BurtoNZ Bun. Side Green Salad or Potato Salad.
   - title: Caesar Salad
     desc: Little Gem & Cegolaine Lettuces. Red Cabbage. Radish. Shaved Carrots.
-      Parmesan Croutons or Breadcrumbs? Add Grilled Chicken $5.
+      Parmesan Breadcrumbs. Add Grilled Chicken $5.
     price: $15
   - desc: Bone Broth. Shredded Chicken. Braised Greens. Garbanzo Beans. White Rice.
     price: $8 / $12
