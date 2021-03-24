@@ -20,7 +20,7 @@ menu:
       Point Reyes Toma Cheese. Parmesan. Red Bird Ciabatta. Side Green Salad or
       Potato Salad.
   - title: Fig Jam Grilled Cheese
-    price: $14
+    price: $15
     desc: Preserved Black Mission Figs. Point Reyes Toma Cheese. BurtoNZ Sourdough.
       Side Green Salad or Potato Salad.
   - title: Caesar Salad
