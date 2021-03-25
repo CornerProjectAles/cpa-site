@@ -19,10 +19,10 @@ menu:
     desc: Beef, Pork and Green Garlic Meatballs. Spicy Marinara. Arugula Pesto.
       Point Reyes Toma Cheese. Parmesan. Red Bird Ciabatta. Side Green Salad or
       Potato Salad.
-  - title: Fig Jam Grilled Cheese
-    price: $15
-    desc: Preserved Black Mission Figs. Point Reyes Toma Cheese. BurtoNZ Sourdough.
-      Side Green Salad or Potato Salad.
+  - title: Duck Leg Sandwich
+    price: $19.50
+    desc: Confit Duck Leg. Orange Marmalade. Point Reyes Toma Cheese. Arugula.
+      BurtoNZ Bun. Side Green Salad or Potato Salad.
   - title: Caesar Salad
     desc: Little Gem & Cegolaine Lettuces. Red Cabbage. Radish. Shaved Carrots.
       Parmesan Breadcrumbs. Add Grilled Chicken $5.
