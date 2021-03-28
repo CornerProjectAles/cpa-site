@@ -14,10 +14,10 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school. A few years later, Chris began brewing beer on his stove top while working in Silicon Valley for high tech companies as a software engineer. In early 2017, the two of them revisited their dream in a more serious mindset and brought the concept for Corner Project to fruition.
 menu:
-  - title: Pork & Black Fig Jam Melt
+  - title: Pork & Apricot Jam Melt
     price: $16.50
-    desc: Smoked Stone Valley Pork Butt. Preserved Black Mission Figs. Point Reyes
-      Toma Cheese. BurtoNZ Sourdough. Side Green Salad or Potato Salad.
+    desc: Smoked Stone Valley Pork Butt. Preserved Apricot Jam. Point Reyes Toma
+      Cheese. BurtoNZ Sourdough. Side Green Salad or Potato Salad.
   - title: Duck Leg Sandwich
     price: $19.50
     desc: Confit Duck Leg. Orange Marmalade. Point Reyes Toma Cheese. Arugula.
