@@ -3,7 +3,7 @@ title: Family run brew pub & eatery
 desc: We are a family-run brew pub offering house and guest craft beer. We also
   offer select wine from around Sonoma County. Our food menu rotates often, and
   features seasonal, organic and locally sourced ingredients.
-menutitle: Menu For The Weekend of March 25th - 28st
+menutitle: Menu For The Weekend of April 1st - 4th
 story: >-
   The idea for Corner Project started many years ago when Tom and Chris were in
   their late teens. The two brothers envisioned opening a local establishment
@@ -14,21 +14,23 @@ story: >-
 
   In 2005, Tom left a career in social work to attend culinary school. A few years later, Chris began brewing beer on his stove top while working in Silicon Valley for high tech companies as a software engineer. In early 2017, the two of them revisited their dream in a more serious mindset and brought the concept for Corner Project to fruition.
 menu:
-  - title: Pork & Apricot Jam Melt
-    price: $16.50
-    desc: Smoked Stone Valley Pork Butt. Preserved Apricot Jam. Point Reyes Toma
-      Cheese. BurtoNZ Sourdough. Side Green Salad or Potato Salad.
   - title: Duck Leg Sandwich
     price: $19.50
     desc: Confit Duck Leg. Orange Marmalade. Point Reyes Toma Cheese. Arugula.
       BurtoNZ Bun. Side Green Salad or Potato Salad.
+  - title: The Meatloaf Sandwich
+    price: $18
+    desc: Oakridge Angus Beef. Stone Valley Pork. Bacon. Green Garlic. Pickled Red
+      onion. Aioli. Point Reyes Toma Cheese. Red Bird Ciabatta. Side Green Salad
+      or Potato Salad. Add Fried Egg $2.
   - title: Caesar Salad
     desc: Little Gem & Cegolaine Lettuces. Red Cabbage. Radish. Shaved Carrots.
       Parmesan Breadcrumbs. Add Grilled Chicken $5.
     price: $15
-  - desc: Bone Broth. Shredded Chicken. Braised Greens. Garbanzo Beans. White Rice.
-    price: $8 / $12
-    title: Middle Eastern Minestrone
+  - desc: Elbow Macaroni. Bechamel. Parmesan. Herbed Breadcrumbs. Add Bacon $1. Add
+      Broccoli Florets $1.
+    price: $12
+    title: Macaroni & Cheese
   - desc: Assorted House Fermented & Pickled Vegetables.
     title: Pickle Plate
     price: $7
