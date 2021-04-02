@@ -23,6 +23,10 @@ menu:
     desc: Oakridge Angus Beef. Stone Valley Pork. Bacon. Green Garlic. Pickled Red
       onion. Aioli. Point Reyes Toma Cheese. Red Bird Ciabatta. Side Green Salad
       or Potato Salad. Add Fried Egg $2.
+  - title: BBQ Pork Sandwich
+    desc: Smoked Stone Valley Pork Butt. House BBQ Sauce. Coleslaw and Pickles.
+      BurtoNZ Bun. Side Green Salad or Potato Salad.
+    price: $18
   - title: Caesar Salad
     desc: Little Gem & Cegolaine Lettuces. Red Cabbage. Radish. Shaved Carrots.
       Parmesan Breadcrumbs. Add Grilled Chicken $5.
